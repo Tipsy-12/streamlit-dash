@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+
 # Load the clustered data
 df = pd.read_csv("clustered_dataset.csv")
 
@@ -38,6 +39,8 @@ employment_filter = st.sidebar.multiselect("Employment Status", df["current empl
 occupation_category_filter = st.sidebar.multiselect("Select Occupation Category", sorted(df["occupation_category"].unique()))
 marital_status_filter = st.sidebar.multiselect("Marital Status", df["marital status"].unique())
 skills_filter = st.sidebar.multiselect("Select Skills", all_skills)
+cluster_filter = st.sidebar.multiselect("Select Cluster", sorted(df["cluster"].unique()))
+
 
 # Apply filters
 filtered_df = df.copy()
@@ -54,7 +57,8 @@ if marital_status_filter:
     filtered_df = filtered_df[filtered_df["marital status"].isin(marital_status_filter)]
 if skills_filter:
     filtered_df = filtered_df[filtered_df["skills"].apply(lambda skills: any(skill in skills for skill in skills_filter))]
-
+if cluster_filter:
+    filtered_df = filtered_df[filtered_df["cluster"].isin(cluster_filter)]
 
 
 # KPIs
