@@ -65,24 +65,20 @@ df['PCA2'] = X_pca[:, 1]
 # -------------------------------- Sidebar Filters -------------------------------- #
 st.sidebar.header("Filter Data")
 
-# Group: Main Clustering
 with st.sidebar.expander("Main Clustering", expanded=True):
     cluster_filter = st.multiselect("Select Cluster", sorted(df["cluster"].unique()))
 
-# Group: Occupation & Employment
 with st.sidebar.expander("Occupation & Employment", expanded=True):
-    occupation_category_filter = st.multiselect("Select Occupation Category", sorted(df["occupation_category"].unique()))
-    employment_filter = st.multiselect("Employment Status", df["current employment status"].unique())
+    occupation_category_filter = st.multiselect("Select Occupation Category", sorted(df["occupation_category"].dropna().unique()))
+    employment_filter = st.multiselect("Employment Status", sorted(df["current employment status"].dropna().unique()))
     skills_filter = st.multiselect("Select Skills", all_skills)
 
-# Group: Demographics
 with st.sidebar.expander("Demographics", expanded=True):
-    gender_filter = st.multiselect("Select Gender", df["gender"].unique())
-    marital_status_filter = st.multiselect("Marital Status", df["marital status"].unique())
+    gender_filter = st.multiselect("Select Gender", sorted(df["gender"].dropna().unique()))
+    marital_status_filter = st.multiselect("Marital Status", sorted(df["marital status"].dropna().unique()))
 
-# Group: Location
 with st.sidebar.expander("Location", expanded=True):
-    continent_filter = st.multiselect("Select Continent", df["continent"].unique())
+    continent_filter = st.multiselect("Select Continent", sorted(df["continent"].dropna().unique()))
 
 # -------------------------------- Apply Filters -------------------------------- #
 filtered_df = df.copy()
@@ -107,8 +103,7 @@ st.subheader("🧬 PCA Cluster Visualization (2D)")
 fig_pca = px.scatter(
     filtered_df, x='PCA1', y='PCA2', color='cluster',
     title='2D PCA Projection of Clusters',
-    hover_data=['monthly income', 'gender', 'continent'],
-    color_continuous_scale='Viridis'
+    hover_data=['monthly income', 'gender', 'continent']
 )
 st.plotly_chart(fig_pca, use_container_width=True)
 
@@ -119,8 +114,9 @@ col1.metric("Total Applicants", len(filtered_df))
 col2.metric("Avg. Monthly Income", f"${filtered_df['monthly income'].mean():,.0f}")
 col3.metric("Avg. Experience (Years)", f"{filtered_df['experience(in years)'].mean():.1f}")
 
+# -------------------------------- Cluster Insights -------------------------------- #git
 
-st.subheader("🔍 Cluster Insights")
+st.subheader("Cluster Insights B-)")
 
 # Grouped summaries
 for cluster in sorted(filtered_df['cluster'].unique()):
@@ -171,55 +167,101 @@ for cluster in sorted(filtered_df['cluster'].unique()):
 
     st.markdown("---")
 
+# ==== New cluster analysis plots section ====
 
-# -------------------------------- Charts -------------------------------- #
-# Pie Chart - Cluster distribution
-st.plotly_chart(
-    px.pie(filtered_df, names='cluster', title='Cluster Distribution'),
-    use_container_width=True
-)
+st.subheader("Cluster Analysis Visualizations")
 
-# Bar Chart - Avg. Income by Cluster
-st.plotly_chart(
-    px.bar(
-        filtered_df.groupby("cluster")["monthly income"].mean().reset_index(),
-        x="cluster", y="monthly income",
-        title="Average Monthly Income by Cluster", text_auto=True
-    ),
-    use_container_width=True
-)
-
-# Line Chart - Avg. Income by Experience and Cluster
-avg_income_by_exp = (
+# 1. Employment Status Distribution by Cluster
+employment_cluster = (
     filtered_df
-    .groupby(["experience(in years)", "cluster"])["monthly income"]
-    .mean()
-    .reset_index()
+    .groupby(['cluster', 'current employment status'])
+    .size()
+    .reset_index(name='count')
 )
 
-fig_line = px.line(
-    avg_income_by_exp,
-    x="experience(in years)",
-    y="monthly income",
-    color="cluster",
-    markers=True,
-    title="📈 Average Monthly Income by Experience and Cluster"
+fig_employment = px.bar(
+    employment_cluster,
+    x='cluster',
+    y='count',
+    color='current employment status',
+    barmode='group',
+    title='Employment Status Distribution by Cluster'
 )
-fig_line.update_layout(xaxis=dict(dtick=1))
-st.plotly_chart(fig_line, use_container_width=True)
+st.plotly_chart(fig_employment, use_container_width=True)
 
-# Histogram - Age Distribution
-st.plotly_chart(
-    px.histogram(
-        filtered_df,
-        x="age",
-        color="cluster",
-        barmode="overlay",
-        nbins=30,
-        title="Age Distribution by Cluster"
-    ),
-    use_container_width=True
+# 2. Top Skills per Cluster
+st.subheader("Top Skills per Cluster")
+for cluster in sorted(filtered_df['cluster'].unique()):
+    cluster_df = filtered_df[filtered_df['cluster'] == cluster]
+    skills_series = pd.Series([skill for sublist in cluster_df['skills'] for skill in sublist])
+    top_skills = skills_series.value_counts().head(7).reset_index()
+    top_skills.columns = ['Skill', 'Count']
+
+    st.markdown(f"**Cluster {cluster}**")
+    fig_skills = px.bar(
+        top_skills,
+        x='Skill',
+        y='Count',
+        title=f"Top Skills in Cluster {cluster}"
+    )
+    st.plotly_chart(fig_skills, use_container_width=True)
+
+# 3. Gender Distribution by Cluster
+gender_cluster = (
+    filtered_df
+    .groupby(['cluster', 'gender'])
+    .size()
+    .reset_index(name='count')
 )
+
+fig_gender = px.bar(
+    gender_cluster,
+    x='cluster',
+    y='count',
+    color='gender',
+    barmode='group',
+    title='Gender Distribution by Cluster'
+)
+st.plotly_chart(fig_gender, use_container_width=True)
+
+# 4. Continent Distribution by Cluster
+continent_cluster = (
+    filtered_df
+    .groupby(['cluster', 'continent'])
+    .size()
+    .reset_index(name='count')
+)
+
+fig_continent = px.bar(
+    continent_cluster,
+    x='cluster',
+    y='count',
+    color='continent',
+    barmode='group',
+    title='Continent Distribution by Cluster'
+)
+st.plotly_chart(fig_continent, use_container_width=True)
+
+# 5. Top Occupation Categories per Cluster
+st.subheader("Top Occupation Categories per Cluster")
+for cluster in sorted(filtered_df['cluster'].unique()):
+    cluster_df = filtered_df[filtered_df['cluster'] == cluster]
+    top_occupations = (
+        cluster_df['occupation_category']
+        .value_counts()
+        .head(7)
+        .reset_index()
+    )
+    top_occupations.columns = ['Occupation Category', 'Count']
+
+    st.markdown(f"**Cluster {cluster}**")
+    fig_occup = px.bar(
+        top_occupations,
+        x='Occupation Category',
+        y='Count',
+        title=f"Top Occupation Categories in Cluster {cluster}"
+    )
+    st.plotly_chart(fig_occup, use_container_width=True)
 
 # -------------------------------- Data Table -------------------------------- #
 st.subheader("📄 Filtered Data")
