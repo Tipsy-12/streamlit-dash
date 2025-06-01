@@ -136,6 +136,9 @@ st.plotly_chart(
     use_container_width=True
 )
 
+# Convert 'experience(in years)' to numeric just in case
+filtered_df["experience(in years)"] = pd.to_numeric(filtered_df["experience(in years)"], errors='coerce')
+
 # Line Chart - Avg. Income by Experience and Cluster
 avg_income_by_exp = (
     filtered_df
@@ -153,11 +156,12 @@ fig_line = px.line(
     title="📈 Average Monthly Income by Experience and Cluster"
 )
 
-# Fix: Only apply dtick if x-axis is numeric
+# Apply dtick=1 only if 'experience(in years)' is numeric
 if pd.api.types.is_numeric_dtype(avg_income_by_exp["experience(in years)"]):
     fig_line.update_layout(xaxis=dict(dtick=1))
 
 st.plotly_chart(fig_line, use_container_width=True)
+
 
 # Histogram - Age Distribution
 st.plotly_chart(
