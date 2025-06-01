@@ -1,0 +1,1001 @@
+age,monthly income,ns1,ns2,ns3,sb,gender,marital status,current employment status,dbms,visualization tools,experience(in years),days_since_applying,continent,num_skills,occupation_category,cluster
+58.0,69196.0,a,0,missing,1,missing,missing,employed,Excel,PowerBI,3,10.0,Asia,2,Planning & Operations,3
+41.6,147853.0,missing,0,abc,1,M,missing,freelancer,Python,Tableau,3,1086.0,Asia,2,Engineering & Product Dev,2
+24.0,95165.0,b,1,missing,1,missing,missing,employed,missing,R,10,671.2,Asia,2,Media & Creative Arts,0
+42.8,17012.0,a,1,001,0,M,missing,missing,Python,Tableau,5,398.0,Africa,2,Engineering & Product Dev,1
+36.6,23717.0,c,0,missing,0,F,missing,freelancer,missing,Tableau,10,556.0,Africa,2,Community & Admin Services,3
+21.0,110162.0,b,1,002,1,F,missing,missing,missing,Tableau,4,380.0,Europe,2,Healthcare & Therapy,0
+42.452599388379205,117311.0,missing,0,002,0,missing,single,employed,Excel,Tableau,10,539.2338129496403,North America,2,Engineering & Product Dev,2
+42.452599388379205,105039.0,missing,0,003,1,M,missing,freelancer,Excel,R,6,539.2338129496403,Oceania,2,"Business, Finance & Legal",2
+47.0,51832.0,missing,1,missing,1,missing,married,unemployed,Python,Tableau,8,235.0,North America,2,Healthcare & Therapy,1
+38.6,34325.0,c,1,002,1,F,single,employed,missing,PowerBI,8,258.0,Africa,2,Planning & Operations,1
+42.452599388379205,48287.0,b,0,missing,1,F,married,freelancer,missing,R,7,539.2338129496403,North America,2,Healthcare & Therapy,3
+46.0,93627.0,a,0,missing,0,missing,single,employed,Excel,Tableau,1,876.0,Asia,2,Community & Admin Services,2
+39.0,132248.0,a,0,002,1,F,missing,unemployed,Excel,PowerBI,10,451.2000000000001,Europe,2,Planning & Operations,2
+42.452599388379205,19200.0,b,1,abc,1,M,married,unemployed,missing,missing,2,539.2338129496403,North America,2,Planning & Operations,1
+42.452599388379205,24761.0,missing,0,001,1,missing,single,unemployed,SQL,missing,7,539.2338129496403,Oceania,2,Planning & Operations,3
+38.0,5565.0,missing,1,abc,1,missing,missing,unemployed,SQL,R,3,284.0,North America,2,Media & Creative Arts,1
+42.452599388379205,87209.0,a,1,missing,1,missing,married,employed,missing,PowerBI,2,539.2338129496403,Africa,2,Engineering & Product Dev,0
+56.0,69543.0,a,0,001,1,missing,missing,freelancer,SQL,R,3,29.0,Europe,2,Engineering & Product Dev,3
+43.0,24016.0,a,0,missing,1,M,married,missing,Python,Tableau,5,344.0,Asia,2,Healthcare & Therapy,3
+49.0,147401.0,b,0,missing,1,missing,single,unemployed,Python,PowerBI,1,470.0,Europe,2,Engineering & Product Dev,2
+53.0,60215.0,c,0,missing,1,missing,missing,employed,Excel,missing,4,597.0,Europe,2,Science & Research,3
+45.0,73670.0,c,0,missing,1,missing,single,employed,SQL,missing,0,1071.0,Asia,2,Science & Research,3
+42.0,15965.0,b,0,001,1,F,married,employed,Python,missing,6,853.0,Asia,2,Engineering & Product Dev,3
+65.0,51413.0,missing,1,002,1,missing,married,freelancer,SQL,PowerBI,6,1067.0,Unknown,2,Surveying & Real Estate,1
+48.0,125665.0,c,1,002,0,M,married,missing,Python,R,1,513.0,Unknown,2,Community & Admin Services,0
+42.452599388379205,145565.0,c,1,001,1,F,missing,employed,Excel,missing,6,539.2338129496403,Asia,2,Surveying & Real Estate,0
+42.452599388379205,139066.0,b,1,missing,0,Other,missing,employed,missing,missing,10,539.2338129496403,Europe,2,Healthcare & Therapy,0
+38.6,23343.0,c,0,003,1,Other,missing,missing,Python,missing,4,103.0,Africa,2,Engineering & Product Dev,3
+26.0,104390.0,c,0,missing,1,missing,single,freelancer,Python,Tableau,6,593.6,South America,2,Planning & Operations,2
+52.8,120909.0,a,0,abc,0,M,missing,employed,SQL,R,3,7.0,Asia,2,Engineering & Product Dev,2
+27.0,129554.0,b,0,abc,0,missing,missing,unemployed,SQL,PowerBI,1,383.0,Europe,2,Healthcare & Therapy,2
+32.0,70325.0,b,0,002,1,missing,missing,missing,missing,missing,6,413.2000000000001,Asia,2,Engineering & Product Dev,3
+46.0,69812.0,b,0,abc,0,Other,single,freelancer,SQL,R,5,672.0,Oceania,2,Planning & Operations,3
+52.0,105410.0,c,0,001,1,missing,missing,missing,Excel,Tableau,6,714.0,North America,2,"Business, Finance & Legal",2
+41.0,104714.0,missing,1,003,1,missing,married,missing,SQL,R,6,161.0,Africa,2,Engineering & Product Dev,0
+46.4,110989.0,c,0,002,1,missing,single,employed,missing,Tableau,7,780.0,North America,2,Surveying & Real Estate,2
+42.452599388379205,124196.0,c,0,abc,1,missing,single,missing,Excel,missing,0,539.2338129496403,Unknown,2,Science & Research,2
+50.2,15553.0,a,0,002,1,missing,married,unemployed,missing,PowerBI,9,1042.0,North America,2,Engineering & Product Dev,3
+35.8,48984.0,b,0,003,1,missing,missing,missing,missing,missing,3,564.0,North America,2,Engineering & Product Dev,3
+36.8,84058.0,b,0,001,1,missing,missing,employed,missing,R,0,248.0,North America,2,Planning & Operations,2
+49.0,125517.0,c,1,002,1,missing,missing,missing,missing,missing,4,592.8,North America,2,Community & Admin Services,0
+33.0,68927.0,missing,0,missing,1,Other,missing,freelancer,SQL,missing,3,21.0,Oceania,2,Community & Admin Services,3
+48.0,77422.0,missing,1,missing,0,M,missing,missing,missing,Tableau,7,122.0,Europe,2,"Business, Finance & Legal",1
+42.452599388379205,29393.0,b,0,abc,0,Other,missing,missing,missing,missing,5,539.2338129496403,Asia,2,Engineering & Product Dev,3
+40.4,123946.0,b,1,003,0,M,married,freelancer,Excel,missing,2,917.0,North America,2,Science & Research,0
+42.452599388379205,142530.0,b,1,002,1,F,married,freelancer,Excel,missing,2,539.2338129496403,Oceania,2,Healthcare & Therapy,0
+20.0,38103.0,missing,1,001,1,missing,missing,freelancer,SQL,PowerBI,4,526.6,Africa,2,Science & Research,1
+25.0,19053.0,c,0,missing,1,M,single,missing,missing,missing,9,501.6,Africa,2,Community & Admin Services,3
+42.452599388379205,121056.0,b,0,abc,1,missing,single,missing,Excel,Tableau,10,539.2338129496403,Asia,2,Science & Research,2
+43.2,50564.0,missing,1,002,1,missing,missing,freelancer,Excel,Tableau,4,691.0,Oceania,2,Media & Creative Arts,1
+42.452599388379205,66190.0,b,0,missing,0,missing,married,unemployed,Python,Tableau,1,539.2338129496403,Africa,2,Community & Admin Services,3
+42.452599388379205,80657.0,missing,1,abc,1,missing,missing,missing,Excel,missing,0,539.2338129496403,Africa,2,Surveying & Real Estate,1
+42.452599388379205,28940.0,a,0,missing,1,Other,single,unemployed,missing,missing,10,539.2338129496403,Unknown,2,Engineering & Product Dev,3
+35.0,133902.0,b,0,003,1,Other,single,unemployed,Python,missing,7,567.6,North America,2,Planning & Operations,2
+42.452599388379205,28084.0,c,1,003,1,missing,single,missing,missing,missing,0,539.2338129496403,Africa,2,Healthcare & Therapy,1
+42.452599388379205,120878.0,a,0,003,0,Other,missing,employed,Excel,missing,3,539.2338129496403,Africa,2,Engineering & Product Dev,2
+42.452599388379205,111952.0,b,0,001,1,M,married,missing,Python,missing,4,539.2338129496403,Oceania,2,Community & Admin Services,2
+35.2,42917.0,missing,0,missing,0,M,missing,freelancer,missing,R,0,874.0,Europe,2,Engineering & Product Dev,3
+42.452599388379205,133356.0,c,0,missing,1,Other,missing,missing,Python,Tableau,3,539.2338129496403,Asia,2,Science & Research,2
+42.0,128987.0,missing,1,missing,0,missing,married,missing,missing,R,1,309.0,Oceania,2,Media & Creative Arts,0
+42.452599388379205,42789.0,missing,0,001,1,Other,missing,employed,Python,missing,6,539.2338129496403,North America,2,Surveying & Real Estate,3
+42.452599388379205,14410.0,b,0,missing,1,F,single,missing,Excel,PowerBI,7,539.2338129496403,Europe,2,Science & Research,3
+49.0,19711.0,b,0,003,1,F,missing,missing,SQL,Tableau,2,449.0,Asia,2,Science & Research,3
+42.452599388379205,135460.0,c,0,abc,1,missing,single,missing,Python,missing,2,539.2338129496403,Antarctica,2,Community & Admin Services,2
+42.452599388379205,116230.0,b,0,003,0,missing,single,unemployed,missing,missing,5,539.2338129496403,Asia,2,Planning & Operations,2
+45.0,108758.0,b,1,missing,1,missing,missing,freelancer,SQL,missing,5,524.0,Europe,2,Engineering & Product Dev,0
+58.0,40855.0,b,1,003,1,M,missing,unemployed,Excel,R,5,474.8,North America,2,Community & Admin Services,1
+44.0,146402.0,c,0,missing,1,F,missing,freelancer,Python,PowerBI,7,199.0,South America,2,Media & Creative Arts,2
+27.0,100885.0,b,1,001,1,missing,missing,freelancer,Python,missing,6,515.0,Asia,2,Engineering & Product Dev,0
+41.0,90984.0,a,1,missing,1,Other,missing,employed,SQL,PowerBI,0,732.0,North America,2,Community & Admin Services,0
+49.0,145914.0,c,1,abc,1,missing,married,missing,Excel,missing,9,1049.0,Unknown,2,Community & Admin Services,0
+35.0,121574.0,a,0,001,1,missing,missing,employed,missing,R,3,280.0,Europe,2,Engineering & Product Dev,2
+47.0,10598.0,a,0,002,0,missing,single,missing,SQL,missing,3,197.0,Oceania,2,Community & Admin Services,3
+39.0,42929.0,c,0,003,0,M,single,unemployed,Excel,R,3,451.2000000000001,North America,2,"Business, Finance & Legal",3
+38.0,38228.0,missing,0,001,1,missing,missing,missing,missing,PowerBI,7,714.0,Oceania,2,Community & Admin Services,3
+38.2,141695.0,b,0,missing,1,M,missing,missing,Excel,missing,7,342.0,North America,2,Science & Research,2
+42.452599388379205,38080.0,b,0,missing,1,missing,missing,missing,missing,missing,6,539.2338129496403,Asia,2,Science & Research,3
+62.0,61367.0,missing,0,002,1,Other,missing,missing,Excel,R,6,761.8,Unknown,2,Science & Research,3
+43.4,129326.0,b,1,001,1,missing,missing,unemployed,missing,PowerBI,9,986.0,Oceania,2,Science & Research,0
+39.8,115870.0,a,1,missing,1,Other,married,unemployed,missing,Tableau,1,490.0,Europe,2,Planning & Operations,0
+52.4,64286.0,missing,0,missing,1,missing,missing,employed,SQL,R,4,991.0,Europe,2,Science & Research,3
+40.0,110063.0,b,0,missing,1,M,married,missing,missing,missing,5,749.0,Africa,2,Engineering & Product Dev,2
+42.4,27270.0,a,0,002,1,M,missing,missing,missing,missing,7,411.0,Asia,2,Engineering & Product Dev,3
+35.0,117699.0,b,1,missing,1,missing,missing,employed,SQL,missing,9,567.6,Asia,2,Community & Admin Services,0
+18.0,40975.0,b,1,003,1,M,missing,unemployed,SQL,missing,8,721.0,Asia,2,Engineering & Product Dev,1
+42.452599388379205,97842.0,b,1,missing,1,missing,missing,employed,Python,missing,6,539.2338129496403,Africa,2,Engineering & Product Dev,0
+42.452599388379205,111176.0,a,0,002,1,Other,missing,employed,SQL,missing,9,539.2338129496403,North America,2,"Business, Finance & Legal",2
+51.0,94001.0,a,0,002,1,missing,single,missing,missing,Tableau,5,725.8,Africa,2,"Business, Finance & Legal",2
+45.0,43389.0,b,0,002,0,M,missing,missing,missing,missing,7,203.0,Oceania,2,Media & Creative Arts,3
+42.452599388379205,87873.0,c,0,001,1,missing,missing,freelancer,missing,PowerBI,5,539.2338129496403,Africa,2,Planning & Operations,2
+42.452599388379205,19913.0,c,1,001,1,missing,missing,missing,missing,missing,0,539.2338129496403,Unknown,2,Engineering & Product Dev,1
+41.6,129683.0,missing,0,001,1,M,single,missing,SQL,PowerBI,3,1093.0,Africa,2,Surveying & Real Estate,2
+42.452599388379205,46614.0,c,0,003,1,missing,single,freelancer,Excel,R,1,539.2338129496403,Africa,2,Engineering & Product Dev,3
+43.4,44419.0,c,1,missing,0,Other,missing,unemployed,missing,PowerBI,4,598.0,Asia,2,Community & Admin Services,1
+48.0,142990.0,b,1,missing,1,M,missing,unemployed,SQL,R,7,821.0,South America,2,Science & Research,0
+32.0,31513.0,missing,0,missing,1,Other,married,missing,missing,Tableau,2,140.0,Africa,2,Science & Research,3
+46.8,16453.0,missing,0,missing,0,missing,missing,missing,SQL,missing,3,1033.0,Africa,2,Science & Research,3
+48.0,120499.0,missing,1,abc,1,F,married,freelancer,Excel,missing,5,591.0,Europe,2,Science & Research,0
+42.452599388379205,79727.0,b,0,003,1,missing,missing,employed,SQL,missing,5,539.2338129496403,North America,2,"Business, Finance & Legal",2
+44.0,66807.0,missing,1,003,0,M,single,freelancer,SQL,Tableau,0,384.8,Europe,2,Science & Research,1
+48.4,127974.0,missing,0,001,1,M,married,unemployed,missing,missing,8,693.0,Africa,2,Science & Research,2
+39.2,17517.0,a,1,missing,1,M,missing,missing,missing,PowerBI,10,1067.0,Africa,2,Science & Research,1
+54.0,5410.0,c,0,missing,1,F,single,missing,Python,PowerBI,8,1054.0,Europe,2,"Business, Finance & Legal",3
+42.452599388379205,128243.0,a,1,003,1,M,single,freelancer,SQL,PowerBI,9,539.2338129496403,Asia,2,Engineering & Product Dev,0
+39.0,93748.0,c,0,missing,1,F,single,missing,Excel,R,3,109.00000000000006,Asia,2,Engineering & Product Dev,2
+30.0,140104.0,missing,0,abc,1,M,married,freelancer,Python,PowerBI,10,309.0,North America,2,Planning & Operations,2
+35.0,109863.0,missing,1,003,0,missing,missing,freelancer,missing,R,1,542.0,Europe,2,Healthcare & Therapy,0
+45.0,52305.0,missing,1,003,1,M,missing,freelancer,missing,missing,6,531.4,Africa,2,Community & Admin Services,1
+43.4,97421.0,missing,1,missing,1,M,missing,freelancer,missing,Tableau,0,838.0,Africa,2,Healthcare & Therapy,0
+42.452599388379205,22624.0,a,0,003,1,missing,married,missing,Python,R,7,539.2338129496403,Oceania,2,Healthcare & Therapy,3
+54.0,87414.0,b,0,001,1,F,missing,missing,Excel,R,4,374.6,South America,2,Science & Research,2
+46.0,133765.0,a,1,002,1,missing,missing,employed,Python,R,1,672.0,Africa,2,Surveying & Real Estate,0
+44.2,50636.0,c,0,002,1,F,married,missing,Excel,R,8,807.0,Africa,2,Science & Research,3
+42.452599388379205,27600.0,b,1,abc,1,missing,missing,missing,Excel,Tableau,5,539.2338129496403,Asia,2,Surveying & Real Estate,1
+42.452599388379205,95312.0,c,0,missing,0,F,single,employed,missing,Tableau,4,539.2338129496403,Africa,2,Community & Admin Services,2
+42.4,141025.0,b,1,003,0,missing,married,freelancer,missing,missing,1,530.0,North America,2,Science & Research,0
+59.0,45421.0,c,0,missing,1,missing,single,employed,Excel,missing,4,540.0,Asia,2,Science & Research,3
+42.452599388379205,12939.0,missing,0,003,1,missing,missing,freelancer,missing,PowerBI,0,539.2338129496403,Asia,2,Science & Research,3
+42.452599388379205,94179.0,c,0,missing,1,Other,married,freelancer,missing,missing,1,539.2338129496403,Unknown,2,Planning & Operations,2
+46.2,69990.0,c,1,001,1,missing,missing,unemployed,SQL,R,9,292.0,Europe,2,Media & Creative Arts,1
+38.0,139932.0,missing,0,003,1,M,missing,missing,missing,Tableau,3,510.0,North America,2,Science & Research,2
+40.0,128361.0,b,0,001,1,missing,missing,freelancer,missing,R,0,843.0,North America,2,Media & Creative Arts,2
+42.452599388379205,80655.0,b,1,missing,1,missing,single,unemployed,Excel,missing,5,539.2338129496403,Asia,2,Community & Admin Services,0
+42.6,138463.0,missing,0,001,1,M,missing,missing,missing,missing,2,1081.0,Europe,2,Community & Admin Services,2
+50.0,88500.0,c,1,missing,1,missing,missing,missing,Python,missing,0,765.0,Africa,2,Planning & Operations,0
+45.0,85655.0,a,0,abc,1,missing,married,employed,missing,missing,2,526.0,Asia,2,Community & Admin Services,2
+42.452599388379205,104664.0,c,0,001,1,F,missing,freelancer,missing,Tableau,6,539.2338129496403,North America,2,"Business, Finance & Legal",2
+42.452599388379205,128628.0,a,0,missing,0,missing,missing,missing,missing,R,2,539.2338129496403,Asia,2,Planning & Operations,2
+42.452599388379205,74300.0,missing,0,002,1,missing,married,freelancer,Python,Tableau,7,539.2338129496403,Africa,2,Science & Research,3
+42.452599388379205,76685.0,b,1,missing,1,missing,married,freelancer,Excel,R,1,539.2338129496403,Oceania,2,Community & Admin Services,0
+36.2,61095.0,a,0,003,1,F,married,unemployed,Excel,missing,3,574.0,Oceania,2,Planning & Operations,3
+32.0,128837.0,b,0,001,0,missing,missing,missing,SQL,R,5,159.0,Oceania,2,Planning & Operations,2
+59.0,65875.0,missing,1,002,1,F,missing,missing,SQL,R,0,292.0,Africa,2,"Business, Finance & Legal",1
+42.452599388379205,92829.0,b,0,missing,1,F,missing,freelancer,SQL,PowerBI,5,539.2338129496403,Europe,2,Science & Research,2
+39.0,8692.0,c,1,missing,0,F,missing,missing,missing,R,1,659.0,Asia,2,Planning & Operations,1
+60.0,130161.0,c,0,001,1,missing,missing,freelancer,Python,R,9,120.0,Unknown,2,Community & Admin Services,2
+54.0,66945.0,a,1,abc,1,F,missing,employed,Python,R,9,276.0,Africa,2,"Business, Finance & Legal",1
+32.0,102943.0,missing,0,abc,0,F,single,missing,missing,missing,5,413.2000000000001,Europe,2,Science & Research,2
+54.0,137510.0,a,0,missing,0,F,missing,employed,SQL,missing,7,49.0,Asia,2,Science & Research,2
+44.2,139544.0,missing,0,missing,1,missing,missing,employed,missing,R,0,805.0,Asia,2,Science & Research,2
+38.6,95316.0,b,0,001,1,missing,missing,missing,SQL,Tableau,10,260.0,Europe,2,Science & Research,2
+33.2,105264.0,missing,1,abc,1,missing,missing,employed,SQL,missing,6,369.0,Africa,2,Engineering & Product Dev,0
+41.0,10959.0,b,0,missing,1,missing,married,unemployed,missing,R,2,156.0,Europe,2,Healthcare & Therapy,3
+36.4,114901.0,a,0,002,1,M,single,missing,missing,PowerBI,3,337.0,Europe,2,Engineering & Product Dev,2
+42.452599388379205,61955.0,a,0,missing,1,F,missing,missing,missing,R,3,539.2338129496403,Europe,2,Engineering & Product Dev,3
+42.452599388379205,83774.0,b,1,missing,0,missing,missing,employed,Python,missing,8,539.2338129496403,Asia,2,Healthcare & Therapy,0
+42.452599388379205,103686.0,c,0,abc,0,F,married,missing,Excel,missing,6,539.2338129496403,Oceania,2,Community & Admin Services,2
+40.2,71845.0,a,0,missing,1,missing,single,missing,SQL,PowerBI,4,639.0,Unknown,2,Community & Admin Services,3
+42.452599388379205,24079.0,a,0,missing,0,missing,missing,freelancer,Excel,Tableau,3,539.2338129496403,South America,2,"Business, Finance & Legal",3
+42.452599388379205,58611.0,missing,0,missing,1,Other,missing,missing,Python,R,4,539.2338129496403,Oceania,2,Media & Creative Arts,3
+42.452599388379205,128074.0,c,0,003,1,missing,married,unemployed,Excel,R,8,539.2338129496403,Africa,2,"Business, Finance & Legal",2
+42.452599388379205,56430.0,c,0,abc,0,missing,missing,freelancer,missing,missing,7,539.2338129496403,Asia,2,Science & Research,3
+42.4,148273.0,missing,0,missing,1,missing,single,employed,Excel,missing,2,410.0,Oceania,2,"Business, Finance & Legal",2
+32.0,137574.0,missing,0,001,1,missing,single,missing,missing,missing,0,484.0,Asia,2,Community & Admin Services,2
+38.8,80153.0,a,0,missing,1,F,single,missing,SQL,Tableau,3,668.0,Asia,2,Media & Creative Arts,3
+33.2,109044.0,b,0,abc,1,missing,married,freelancer,Excel,PowerBI,1,360.0,Europe,2,Community & Admin Services,2
+42.452599388379205,7477.0,c,1,abc,1,Other,single,missing,Excel,Tableau,3,539.2338129496403,Europe,2,Healthcare & Therapy,1
+49.2,24489.0,b,0,missing,1,F,single,unemployed,missing,Tableau,6,169.0,Asia,2,Engineering & Product Dev,3
+37.0,107015.0,missing,0,abc,0,M,missing,employed,Excel,missing,3,413.8,Unknown,2,Media & Creative Arts,2
+42.452599388379205,108993.0,c,1,missing,1,missing,married,freelancer,missing,missing,6,539.2338129496403,Oceania,2,Science & Research,0
+42.452599388379205,82431.0,a,1,001,1,F,married,missing,Python,R,1,539.2338129496403,Unknown,2,Science & Research,0
+42.452599388379205,75717.0,b,0,001,0,missing,missing,employed,Excel,PowerBI,5,539.2338129496403,Asia,2,"Business, Finance & Legal",2
+42.452599388379205,105987.0,a,1,abc,1,M,married,missing,missing,Tableau,10,539.2338129496403,Oceania,2,Science & Research,0
+28.0,134269.0,c,1,002,1,Other,missing,missing,Excel,R,4,506.0,Asia,2,Community & Admin Services,0
+42.452599388379205,56261.0,missing,1,002,1,M,missing,missing,missing,R,7,539.2338129496403,Europe,2,Engineering & Product Dev,1
+42.452599388379205,89060.0,a,0,003,0,missing,missing,missing,missing,Tableau,5,539.2338129496403,North America,2,Community & Admin Services,2
+42.4,57376.0,missing,0,missing,1,missing,married,missing,Python,PowerBI,6,412.0,North America,2,Planning & Operations,3
+49.0,45407.0,missing,1,001,1,missing,missing,missing,missing,missing,8,381.0,Asia,2,Healthcare & Therapy,1
+42.452599388379205,27277.0,b,0,missing,1,F,single,missing,missing,R,6,539.2338129496403,Europe,2,Engineering & Product Dev,3
+18.0,140999.0,missing,0,missing,0,missing,missing,missing,missing,missing,2,864.0,Europe,2,"Business, Finance & Legal",2
+35.2,27506.0,b,0,003,1,Other,married,missing,missing,R,7,238.0,Europe,2,Engineering & Product Dev,3
+42.452599388379205,83712.0,a,1,001,1,M,married,unemployed,missing,Tableau,8,539.2338129496403,Oceania,2,Science & Research,0
+42.452599388379205,65779.0,missing,0,002,1,missing,married,missing,missing,missing,6,539.2338129496403,Europe,2,Healthcare & Therapy,3
+63.0,21400.0,b,0,002,1,Other,missing,employed,Python,missing,8,519.0,Asia,2,Science & Research,3
+42.452599388379205,34945.0,c,0,abc,0,Other,single,unemployed,Python,PowerBI,3,539.2338129496403,Africa,2,Community & Admin Services,3
+25.0,138909.0,missing,1,missing,0,missing,missing,unemployed,missing,missing,10,109.00000000000006,South America,2,Science & Research,0
+53.0,54046.0,c,0,missing,1,Other,missing,unemployed,SQL,missing,8,411.2,Asia,2,Engineering & Product Dev,3
+42.452599388379205,113955.0,missing,0,002,1,missing,married,freelancer,Excel,R,3,539.2338129496403,Africa,2,Engineering & Product Dev,2
+36.0,134843.0,missing,0,001,1,Other,missing,missing,Excel,missing,8,629.0,Asia,2,Community & Admin Services,2
+45.0,13449.0,missing,1,003,1,missing,married,unemployed,missing,R,9,515.0,Europe,2,Planning & Operations,1
+45.0,59164.0,a,1,missing,1,missing,married,freelancer,Python,R,9,531.4,Asia,2,Science & Research,1
+48.4,112897.0,a,1,missing,0,F,married,freelancer,SQL,missing,7,1020.0,Africa,2,Science & Research,0
+43.4,103349.0,missing,1,missing,1,missing,missing,freelancer,missing,missing,5,831.0,Africa,2,Science & Research,0
+37.2,125179.0,c,1,missing,1,F,married,missing,Python,R,4,948.0,Europe,2,Engineering & Product Dev,0
+37.2,132228.0,c,1,001,1,missing,single,unemployed,missing,missing,0,951.0,Europe,2,Healthcare & Therapy,0
+48.4,84132.0,c,1,001,1,Other,missing,unemployed,Excel,missing,10,701.0,Africa,2,Engineering & Product Dev,0
+46.8,28907.0,b,1,002,1,M,married,missing,missing,PowerBI,0,756.0,Africa,2,Media & Creative Arts,1
+39.0,130226.0,b,0,abc,1,M,missing,freelancer,Python,Tableau,6,451.2000000000001,Africa,2,Community & Admin Services,2
+39.0,7221.0,c,0,003,0,F,missing,unemployed,Excel,PowerBI,2,957.0,Europe,2,Media & Creative Arts,3
+42.452599388379205,117561.0,c,0,002,1,M,missing,employed,Python,Tableau,8,539.2338129496403,Africa,2,Science & Research,2
+50.0,19304.0,a,0,abc,1,F,single,missing,Excel,R,5,691.8,Unknown,2,Community & Admin Services,3
+42.452599388379205,50290.0,missing,1,001,1,M,married,employed,Excel,missing,8,539.2338129496403,North America,2,Community & Admin Services,1
+42.452599388379205,116037.0,missing,1,missing,0,Other,missing,employed,missing,Tableau,2,539.2338129496403,Africa,2,Community & Admin Services,0
+42.452599388379205,22331.0,b,1,missing,0,M,single,missing,Excel,missing,9,539.2338129496403,Asia,2,Healthcare & Therapy,1
+49.0,40969.0,a,0,abc,1,missing,missing,unemployed,Python,Tableau,4,465.0,Europe,2,Planning & Operations,3
+25.0,76298.0,missing,1,003,1,missing,missing,employed,missing,missing,2,741.0,Africa,2,"Business, Finance & Legal",1
+36.8,35234.0,a,0,001,1,M,single,missing,Python,missing,2,878.0,North America,2,Media & Creative Arts,3
+42.452599388379205,70080.0,missing,0,003,1,missing,single,missing,Excel,Tableau,3,539.2338129496403,Europe,2,Community & Admin Services,3
+43.2,79005.0,b,0,001,1,M,married,freelancer,missing,R,9,683.0,Oceania,2,Science & Research,3
+42.452599388379205,56228.0,missing,0,002,1,missing,married,missing,Python,PowerBI,5,539.2338129496403,Unknown,2,Planning & Operations,3
+46.8,143887.0,a,1,abc,1,F,missing,employed,Excel,Tableau,8,1032.0,South America,2,"Business, Finance & Legal",0
+42.452599388379205,27256.0,b,0,002,1,M,single,missing,SQL,Tableau,4,539.2338129496403,Oceania,2,Engineering & Product Dev,3
+42.2,76291.0,a,1,002,0,missing,married,employed,SQL,missing,7,279.0,Asia,2,Engineering & Product Dev,0
+44.0,59430.0,missing,1,abc,1,M,married,freelancer,missing,PowerBI,3,384.8,Africa,2,Planning & Operations,1
+27.0,108873.0,missing,1,missing,1,Other,single,missing,missing,missing,8,569.0,Asia,2,Media & Creative Arts,0
+47.2,41645.0,b,1,001,0,F,missing,freelancer,Excel,missing,9,815.0,Africa,2,Media & Creative Arts,1
+22.0,121242.0,c,1,003,1,M,single,unemployed,missing,missing,6,741.0,Africa,2,Community & Admin Services,0
+42.452599388379205,61286.0,c,1,003,1,F,married,freelancer,missing,missing,8,539.2338129496403,North America,2,Media & Creative Arts,1
+21.0,114899.0,a,0,002,1,missing,missing,missing,missing,missing,5,46.0,North America,2,Planning & Operations,2
+42.452599388379205,11832.0,c,0,002,1,Other,missing,missing,Python,missing,3,539.2338129496403,Asia,2,Science & Research,3
+24.0,19656.0,a,0,abc,1,F,married,missing,Python,R,9,999.0,Europe,2,Planning & Operations,3
+41.6,42251.0,a,0,missing,1,F,single,employed,Excel,Tableau,9,1094.0,Europe,2,Healthcare & Therapy,3
+42.452599388379205,57812.0,c,0,missing,0,Other,single,unemployed,missing,Tableau,1,539.2338129496403,North America,2,Planning & Operations,3
+41.0,108703.0,b,0,003,1,F,missing,missing,Python,Tableau,8,296.0,Oceania,2,Community & Admin Services,2
+34.4,50967.0,missing,1,missing,1,F,single,missing,missing,missing,0,132.0,Unknown,2,Science & Research,1
+42.452599388379205,32291.0,missing,0,003,1,F,missing,unemployed,Excel,R,7,539.2338129496403,Africa,2,Planning & Operations,3
+34.0,96876.0,b,1,missing,1,M,missing,missing,SQL,missing,7,188.0,Asia,2,Community & Admin Services,0
+42.452599388379205,130695.0,a,0,abc,1,M,single,freelancer,Python,PowerBI,1,539.2338129496403,Europe,2,Planning & Operations,2
+41.8,148404.0,b,0,missing,1,M,married,missing,missing,Tableau,0,749.0,North America,2,Community & Admin Services,2
+39.0,146590.0,b,1,003,0,M,missing,missing,missing,missing,2,996.0,Unknown,2,Science & Research,0
+41.0,130915.0,a,1,001,0,F,missing,employed,missing,PowerBI,4,479.6,Asia,2,Community & Admin Services,0
+48.4,147639.0,missing,0,003,1,Other,missing,employed,Python,missing,7,1019.0,Europe,2,Community & Admin Services,2
+42.452599388379205,30350.0,b,0,missing,1,missing,single,missing,missing,missing,8,539.2338129496403,Asia,2,"Business, Finance & Legal",3
+42.6,25697.0,missing,1,missing,0,M,married,unemployed,SQL,Tableau,2,1082.0,North America,2,Science & Research,1
+45.0,43765.0,b,0,missing,1,M,missing,missing,Python,R,8,531.4,Asia,2,Community & Admin Services,3
+42.452599388379205,114994.0,b,1,002,0,missing,single,employed,missing,PowerBI,4,539.2338129496403,Asia,2,"Business, Finance & Legal",0
+43.2,132293.0,missing,1,002,1,missing,missing,employed,missing,R,3,692.0,South America,2,"Business, Finance & Legal",0
+46.6,10303.0,c,1,003,1,missing,single,unemployed,SQL,R,7,124.00000000000006,Europe,2,Media & Creative Arts,1
+42.452599388379205,28406.0,a,0,002,1,missing,missing,employed,missing,Tableau,1,539.2338129496403,North America,2,Science & Research,3
+42.452599388379205,142438.0,a,0,002,0,M,single,missing,Excel,R,3,539.2338129496403,Oceania,2,Engineering & Product Dev,2
+42.452599388379205,37472.0,a,0,003,1,missing,married,missing,missing,missing,5,539.2338129496403,North America,2,Healthcare & Therapy,3
+46.4,106335.0,a,0,missing,0,F,married,unemployed,Python,missing,8,298.0,Unknown,2,Engineering & Product Dev,2
+61.0,50403.0,a,0,003,1,Other,missing,freelancer,missing,R,3,797.0,Asia,2,Healthcare & Therapy,3
+42.452599388379205,109111.0,b,1,missing,1,missing,missing,freelancer,Excel,missing,1,539.2338129496403,North America,2,Healthcare & Therapy,0
+45.2,73458.0,b,0,002,0,M,missing,freelancer,SQL,PowerBI,10,270.0,Asia,2,Science & Research,3
+42.452599388379205,14258.0,a,0,missing,0,missing,missing,freelancer,missing,R,2,539.2338129496403,North America,2,Healthcare & Therapy,3
+53.0,38539.0,b,0,002,1,M,missing,unemployed,Python,missing,5,124.00000000000006,Africa,2,Science & Research,3
+33.2,35875.0,missing,1,missing,1,missing,single,missing,missing,R,6,372.0,North America,2,Community & Admin Services,1
+27.0,124949.0,c,0,missing,0,M,missing,unemployed,Python,PowerBI,0,883.0,Unknown,2,Engineering & Product Dev,2
+35.0,46532.0,missing,1,002,1,missing,missing,missing,missing,PowerBI,0,315.0,North America,2,Science & Research,1
+52.8,89466.0,missing,0,001,1,F,missing,freelancer,SQL,PowerBI,6,15.0,Europe,2,Planning & Operations,2
+38.6,16984.0,b,1,abc,1,missing,married,freelancer,missing,R,3,263.0,Europe,2,Engineering & Product Dev,1
+43.0,39394.0,a,1,missing,0,M,single,missing,Python,missing,9,54.0,Asia,2,Science & Research,1
+56.0,10175.0,a,1,abc,1,missing,missing,missing,SQL,Tableau,10,833.0,North America,2,"Business, Finance & Legal",1
+42.452599388379205,141395.0,b,0,missing,0,missing,single,freelancer,Excel,PowerBI,7,539.2338129496403,Asia,2,Community & Admin Services,2
+56.0,57867.0,c,1,003,0,M,missing,unemployed,missing,R,3,609.0,Europe,2,Planning & Operations,1
+44.2,134526.0,c,1,missing,1,M,married,missing,Python,R,7,59.0,Oceania,2,Surveying & Real Estate,0
+24.0,99428.0,c,1,missing,1,M,single,unemployed,SQL,R,5,956.0,Asia,2,Engineering & Product Dev,0
+42.4,94842.0,c,1,abc,1,missing,missing,missing,missing,Tableau,1,502.0,North America,2,Surveying & Real Estate,0
+49.0,46784.0,b,1,missing,1,missing,missing,unemployed,missing,missing,5,453.0,Africa,2,Community & Admin Services,1
+46.8,132958.0,b,1,abc,1,M,missing,employed,missing,missing,9,1032.0,North America,2,Science & Research,0
+42.452599388379205,29967.0,missing,0,abc,1,missing,single,employed,SQL,missing,7,539.2338129496403,Europe,2,Engineering & Product Dev,3
+28.0,91742.0,b,1,missing,0,missing,missing,missing,SQL,PowerBI,7,607.8,Unknown,2,Science & Research,0
+45.0,122196.0,c,1,abc,1,M,missing,employed,missing,missing,0,165.0,Europe,2,Media & Creative Arts,0
+48.4,59224.0,missing,0,003,1,F,missing,missing,missing,missing,7,1019.0,Africa,2,Healthcare & Therapy,3
+42.452599388379205,63129.0,a,0,003,1,missing,missing,employed,Excel,Tableau,7,539.2338129496403,Europe,2,Science & Research,3
+42.452599388379205,56359.0,a,1,abc,0,missing,missing,employed,missing,PowerBI,10,539.2338129496403,Africa,2,Science & Research,1
+55.0,137172.0,c,0,001,1,missing,missing,missing,SQL,missing,2,430.8,Asia,2,Engineering & Product Dev,2
+26.0,89369.0,missing,1,abc,0,Other,missing,freelancer,missing,Tableau,2,593.6,North America,2,Science & Research,0
+42.452599388379205,148604.0,c,0,missing,0,F,missing,freelancer,SQL,Tableau,8,539.2338129496403,Africa,2,Healthcare & Therapy,2
+39.2,97337.0,missing,0,missing,1,missing,missing,employed,missing,PowerBI,0,149.0,Asia,2,Surveying & Real Estate,2
+27.0,47188.0,b,1,002,1,Other,single,freelancer,missing,PowerBI,9,79.99999999999994,North America,2,Planning & Operations,1
+46.8,106944.0,a,0,missing,1,M,missing,missing,Python,missing,0,1031.0,Africa,2,Science & Research,2
+49.0,121146.0,a,0,missing,0,F,missing,unemployed,Excel,Tableau,2,449.0,North America,2,Engineering & Product Dev,2
+50.0,78167.0,missing,1,002,0,missing,single,freelancer,missing,Tableau,0,691.8,Unknown,2,Community & Admin Services,0
+44.2,83945.0,missing,0,missing,1,M,missing,missing,SQL,Tableau,8,808.0,Europe,2,Community & Admin Services,2
+50.0,110753.0,b,0,002,0,Other,missing,freelancer,SQL,missing,8,691.8,Asia,2,Planning & Operations,2
+39.8,95703.0,missing,0,missing,0,M,missing,missing,Excel,missing,4,487.0,Europe,2,Healthcare & Therapy,2
+43.8,103293.0,missing,0,abc,1,M,married,freelancer,missing,PowerBI,1,1011.0,Europe,2,Science & Research,2
+44.8,60255.0,a,1,001,0,missing,missing,employed,SQL,PowerBI,7,603.0,Asia,2,Community & Admin Services,1
+39.0,51659.0,b,0,001,0,Other,missing,missing,missing,missing,5,524.0,Africa,2,Engineering & Product Dev,3
+45.0,21577.0,a,1,003,1,Other,missing,missing,Excel,R,7,1069.0,North America,2,Media & Creative Arts,1
+37.8,144845.0,a,0,missing,1,missing,married,freelancer,Python,PowerBI,8,306.0,North America,2,Community & Admin Services,2
+27.0,108306.0,missing,0,001,1,F,missing,unemployed,missing,missing,2,660.0,North America,2,Media & Creative Arts,2
+29.0,55941.0,b,0,missing,1,missing,single,freelancer,Excel,R,1,584.8,Oceania,2,Science & Research,3
+42.452599388379205,98621.0,c,0,001,1,missing,married,freelancer,missing,missing,5,539.2338129496403,Oceania,2,Media & Creative Arts,2
+42.452599388379205,100549.0,c,1,002,1,Other,married,missing,Python,R,2,539.2338129496403,Europe,2,Community & Admin Services,0
+42.452599388379205,99041.0,b,0,missing,1,F,single,freelancer,SQL,missing,3,539.2338129496403,Unknown,2,"Business, Finance & Legal",2
+46.2,9883.0,missing,1,missing,1,missing,single,missing,Python,missing,8,292.0,Unknown,2,Planning & Operations,1
+59.0,81283.0,c,0,missing,1,missing,single,unemployed,missing,Tableau,8,981.0,Africa,2,"Business, Finance & Legal",2
+46.0,43325.0,missing,0,001,0,missing,single,freelancer,Python,Tableau,0,921.0,North America,2,Planning & Operations,3
+43.6,124182.0,a,1,missing,1,M,missing,freelancer,missing,missing,9,591.0,Asia,2,Engineering & Product Dev,0
+42.452599388379205,25404.0,missing,1,abc,0,missing,missing,freelancer,missing,missing,9,539.2338129496403,South America,2,Community & Admin Services,1
+50.0,25208.0,missing,1,002,0,F,missing,missing,Excel,Tableau,6,691.8,Asia,2,Engineering & Product Dev,1
+64.0,130572.0,a,0,002,1,M,single,unemployed,missing,missing,2,605.2,Asia,2,Community & Admin Services,2
+40.2,43499.0,a,0,003,0,missing,single,freelancer,Excel,Tableau,7,229.0,South America,2,Community & Admin Services,3
+39.0,112680.0,c,0,002,1,F,missing,missing,missing,missing,1,645.0,Africa,2,Community & Admin Services,2
+39.8,58044.0,missing,0,missing,1,F,single,unemployed,missing,missing,9,499.0,Africa,2,Engineering & Product Dev,3
+33.2,39164.0,missing,1,missing,1,missing,missing,employed,missing,missing,3,355.0,Africa,2,Healthcare & Therapy,1
+42.452599388379205,30615.0,missing,0,003,1,F,missing,missing,missing,missing,4,539.2338129496403,North America,2,Healthcare & Therapy,3
+50.2,35888.0,missing,1,abc,0,Other,missing,employed,SQL,missing,10,1040.0,Europe,2,Media & Creative Arts,1
+42.452599388379205,100851.0,b,1,002,1,missing,missing,unemployed,Python,missing,8,539.2338129496403,Africa,2,"Business, Finance & Legal",0
+42.452599388379205,109367.0,c,1,missing,0,missing,married,employed,SQL,missing,6,539.2338129496403,Oceania,2,Engineering & Product Dev,0
+39.0,6386.0,b,0,abc,1,M,missing,unemployed,Python,PowerBI,9,580.0,South America,2,Science & Research,3
+42.452599388379205,141578.0,b,0,001,0,missing,single,unemployed,missing,R,3,539.2338129496403,North America,2,Community & Admin Services,2
+42.452599388379205,49428.0,a,0,002,1,F,missing,missing,Python,missing,6,539.2338129496403,Africa,2,Engineering & Product Dev,3
+49.6,22987.0,b,0,003,1,Other,married,missing,SQL,missing,6,428.0,Europe,2,"Business, Finance & Legal",3
+39.2,32909.0,missing,1,missing,1,Other,missing,missing,missing,R,7,151.99999999999994,Europe,2,Planning & Operations,1
+39.6,125284.0,missing,0,001,1,M,single,missing,SQL,Tableau,5,532.0,Oceania,2,Science & Research,2
+42.452599388379205,74035.0,a,1,001,1,Other,married,missing,Python,R,3,539.2338129496403,Europe,2,Community & Admin Services,1
+35.0,57341.0,a,0,003,0,F,married,missing,Python,Tableau,1,935.0,Europe,2,"Business, Finance & Legal",3
+42.452599388379205,146944.0,a,0,003,1,missing,missing,missing,SQL,missing,4,539.2338129496403,North America,2,"Business, Finance & Legal",2
+42.8,115933.0,missing,0,001,1,missing,married,missing,Excel,missing,7,69.0,South America,2,Community & Admin Services,2
+62.0,104464.0,b,0,003,1,F,missing,unemployed,Python,missing,9,954.0,Africa,2,Science & Research,2
+41.0,114862.0,c,0,abc,1,missing,married,missing,SQL,PowerBI,4,479.6,Africa,2,"Business, Finance & Legal",2
+42.452599388379205,44203.0,missing,1,002,1,missing,missing,missing,Python,R,8,539.2338129496403,North America,2,"Business, Finance & Legal",1
+44.8,20738.0,a,1,abc,1,missing,missing,freelancer,Python,R,8,603.0,Europe,2,Science & Research,1
+37.8,97036.0,a,0,missing,0,Other,missing,missing,missing,missing,1,140.0,Asia,2,Planning & Operations,2
+42.452599388379205,42971.0,c,0,abc,1,M,married,freelancer,SQL,R,5,539.2338129496403,Oceania,2,Community & Admin Services,3
+37.0,108666.0,b,0,003,1,missing,married,employed,SQL,Tableau,10,551.0,Asia,2,Science & Research,2
+39.2,109083.0,b,1,001,1,missing,single,missing,missing,PowerBI,1,938.0,Unknown,2,Media & Creative Arts,0
+57.0,107195.0,b,0,002,1,missing,married,unemployed,missing,Tableau,0,761.0,Europe,2,Engineering & Product Dev,2
+30.200000000000003,127471.0,missing,1,missing,1,F,married,missing,missing,missing,10,740.0,North America,2,Planning & Operations,0
+42.452599388379205,144928.0,b,0,abc,0,M,missing,freelancer,missing,R,2,539.2338129496403,North America,2,Planning & Operations,2
+18.0,40730.0,c,1,abc,1,missing,missing,employed,missing,R,9,607.2,Unknown,2,Science & Research,1
+42.4,119584.0,missing,0,002,1,missing,missing,employed,missing,Tableau,8,407.0,Asia,2,Planning & Operations,2
+48.8,144445.0,b,1,002,1,F,missing,employed,missing,missing,7,1004.0,Asia,2,Community & Admin Services,0
+42.452599388379205,10084.0,c,1,missing,1,F,missing,freelancer,SQL,missing,0,539.2338129496403,Europe,2,Engineering & Product Dev,1
+23.0,94630.0,missing,1,abc,1,missing,single,freelancer,Excel,Tableau,0,732.0,Europe,2,Healthcare & Therapy,0
+43.0,55382.0,b,1,001,1,F,missing,unemployed,Excel,Tableau,7,300.40000000000003,Europe,2,Science & Research,1
+44.8,86817.0,c,0,missing,1,missing,single,freelancer,missing,R,3,711.0,Unknown,2,Engineering & Product Dev,2
+35.2,66857.0,missing,0,001,0,Other,single,missing,SQL,PowerBI,0,235.0,Unknown,2,Surveying & Real Estate,3
+42.452599388379205,28456.0,a,0,abc,1,missing,single,employed,Python,Tableau,8,539.2338129496403,Europe,2,Surveying & Real Estate,3
+47.6,96047.0,missing,0,001,1,Other,married,freelancer,Excel,missing,7,586.0,Unknown,2,Engineering & Product Dev,2
+42.452599388379205,53923.0,missing,0,003,1,Other,married,employed,missing,Tableau,7,539.2338129496403,North America,2,Healthcare & Therapy,3
+39.0,137633.0,missing,0,001,1,missing,missing,employed,missing,missing,3,657.0,Europe,2,Media & Creative Arts,2
+42.452599388379205,79220.0,c,1,missing,1,M,single,employed,SQL,Tableau,0,539.2338129496403,North America,2,Planning & Operations,0
+40.0,106868.0,missing,0,missing,1,M,married,missing,Excel,PowerBI,3,206.0,Europe,2,"Business, Finance & Legal",2
+49.0,20912.0,c,0,missing,1,Other,single,missing,Python,missing,0,592.8,North America,2,Healthcare & Therapy,3
+39.2,141179.0,b,1,missing,0,missing,married,unemployed,missing,Tableau,9,618.0,Europe,2,Planning & Operations,0
+42.452599388379205,32659.0,c,0,missing,1,M,married,missing,missing,missing,5,539.2338129496403,North America,2,Science & Research,3
+42.452599388379205,97359.0,c,0,003,1,missing,missing,freelancer,missing,Tableau,9,539.2338129496403,Oceania,2,Engineering & Product Dev,2
+42.452599388379205,71607.0,c,0,abc,1,M,single,freelancer,missing,PowerBI,8,539.2338129496403,Africa,2,Engineering & Product Dev,3
+37.0,61314.0,c,1,missing,1,missing,married,employed,Excel,missing,5,406.0,North America,2,Media & Creative Arts,1
+38.6,70498.0,a,1,003,1,missing,married,employed,Python,missing,2,260.0,Africa,2,Surveying & Real Estate,0
+42.452599388379205,29999.0,b,1,missing,1,M,missing,freelancer,missing,missing,1,539.2338129496403,Africa,2,"Business, Finance & Legal",1
+42.452599388379205,105266.0,a,1,missing,1,Other,married,freelancer,missing,Tableau,2,539.2338129496403,Oceania,2,Surveying & Real Estate,0
+42.452599388379205,137311.0,b,0,abc,1,missing,married,freelancer,Excel,missing,9,539.2338129496403,Africa,2,Planning & Operations,2
+42.452599388379205,109471.0,missing,1,missing,0,F,married,missing,missing,missing,3,539.2338129496403,South America,2,Science & Research,0
+42.452599388379205,23781.0,b,1,003,1,M,missing,missing,Python,R,3,539.2338129496403,Unknown,2,Community & Admin Services,1
+47.4,49369.0,c,0,abc,0,missing,married,unemployed,Python,Tableau,1,1010.0,Asia,2,Media & Creative Arts,3
+65.0,43712.0,b,1,003,1,Other,missing,employed,Python,Tableau,8,754.0,Asia,2,"Business, Finance & Legal",1
+42.452599388379205,148864.0,missing,0,missing,0,M,single,freelancer,SQL,PowerBI,4,539.2338129496403,Oceania,2,Media & Creative Arts,2
+47.0,7184.0,b,1,missing,1,Other,single,freelancer,missing,Tableau,6,115.0,Africa,2,Engineering & Product Dev,1
+63.0,144345.0,b,0,002,1,missing,single,employed,SQL,missing,4,43.0,Africa,2,Healthcare & Therapy,2
+42.8,97251.0,c,1,002,1,M,missing,missing,Excel,missing,4,68.0,Africa,2,Engineering & Product Dev,0
+42.452599388379205,28014.0,missing,0,missing,0,missing,married,missing,Python,missing,5,539.2338129496403,Africa,2,Surveying & Real Estate,3
+52.0,146912.0,a,0,003,0,missing,married,freelancer,Excel,missing,8,117.0,North America,2,Media & Creative Arts,2
+25.0,43147.0,a,0,abc,1,Other,missing,unemployed,SQL,PowerBI,2,613.0,Asia,2,"Business, Finance & Legal",3
+42.452599388379205,65532.0,a,0,missing,1,Other,missing,unemployed,missing,missing,7,539.2338129496403,Asia,2,"Business, Finance & Legal",3
+44.8,133829.0,missing,0,002,0,F,missing,employed,Python,missing,3,714.0,Oceania,2,Community & Admin Services,2
+60.0,120155.0,missing,0,abc,0,missing,single,missing,missing,R,6,331.0,Asia,2,Engineering & Product Dev,2
+42.452599388379205,15095.0,missing,1,abc,1,M,missing,employed,missing,missing,8,539.2338129496403,Europe,2,Engineering & Product Dev,1
+21.0,84837.0,b,0,002,1,Other,single,missing,SQL,missing,10,877.0,Asia,2,Planning & Operations,2
+42.452599388379205,148237.0,c,1,abc,1,missing,married,missing,missing,Tableau,7,539.2338129496403,South America,2,Engineering & Product Dev,0
+37.0,37386.0,b,1,missing,1,Other,missing,missing,missing,Tableau,6,552.0,Africa,2,Media & Creative Arts,1
+42.0,44345.0,c,0,002,1,missing,missing,missing,Python,Tableau,1,405.0,Unknown,2,Engineering & Product Dev,3
+30.0,8200.0,missing,0,abc,1,missing,married,unemployed,missing,missing,7,498.0,Asia,2,Engineering & Product Dev,3
+46.0,69150.0,missing,1,missing,0,M,married,employed,Python,PowerBI,2,672.0,Europe,2,Community & Admin Services,1
+42.452599388379205,27990.0,a,1,abc,0,F,missing,missing,missing,missing,8,539.2338129496403,North America,2,Planning & Operations,1
+42.452599388379205,14395.0,b,1,003,1,missing,missing,missing,Excel,R,7,539.2338129496403,Asia,2,Media & Creative Arts,1
+46.8,113464.0,missing,0,missing,0,missing,single,missing,missing,PowerBI,7,1025.0,Asia,2,Community & Admin Services,2
+49.2,87965.0,b,0,missing,1,F,missing,missing,missing,missing,2,169.0,Asia,2,Surveying & Real Estate,2
+43.2,5414.0,b,1,abc,1,F,missing,missing,Excel,R,5,686.0,South America,2,Engineering & Product Dev,1
+58.0,78826.0,b,1,003,1,missing,missing,employed,Excel,R,5,461.0,Asia,2,Media & Creative Arts,1
+42.452599388379205,51040.0,a,0,003,1,missing,married,missing,SQL,missing,8,539.2338129496403,North America,2,Science & Research,3
+54.0,83471.0,c,0,missing,1,F,missing,freelancer,Excel,Tableau,4,25.0,Unknown,2,Surveying & Real Estate,2
+42.452599388379205,107122.0,c,0,001,1,Other,single,freelancer,missing,PowerBI,7,539.2338129496403,Asia,2,"Business, Finance & Legal",2
+39.0,84250.0,c,1,003,1,F,missing,missing,Excel,missing,8,649.0,Africa,2,Community & Admin Services,0
+42.452599388379205,142265.0,b,0,002,1,missing,married,unemployed,Excel,missing,6,539.2338129496403,Africa,2,Healthcare & Therapy,2
+51.0,16542.0,b,0,abc,1,M,missing,employed,missing,R,10,320.0,Africa,2,Science & Research,3
+38.0,144532.0,c,0,missing,1,Other,married,freelancer,Excel,PowerBI,9,97.0,North America,2,"Business, Finance & Legal",2
+50.0,149012.0,c,1,002,1,missing,married,employed,Python,missing,5,1041.0,Asia,2,Science & Research,0
+46.0,18226.0,b,1,001,1,missing,married,missing,missing,missing,9,717.0,Africa,2,"Business, Finance & Legal",1
+44.8,144849.0,b,0,missing,0,M,missing,employed,missing,R,10,714.0,North America,2,Community & Admin Services,2
+42.452599388379205,63666.0,c,0,003,1,missing,missing,freelancer,missing,missing,0,539.2338129496403,Asia,2,Science & Research,3
+48.0,49774.0,b,0,missing,0,missing,missing,employed,Python,missing,10,1086.0,Africa,2,Media & Creative Arts,3
+42.452599388379205,113381.0,a,0,002,0,missing,single,freelancer,SQL,missing,6,539.2338129496403,Asia,2,Healthcare & Therapy,2
+42.452599388379205,50373.0,b,0,abc,1,missing,missing,freelancer,missing,PowerBI,7,539.2338129496403,North America,2,Science & Research,3
+33.2,104329.0,c,0,missing,1,M,married,missing,Excel,Tableau,10,361.0,South America,2,Community & Admin Services,2
+40.2,122220.0,a,0,missing,1,Other,missing,missing,Python,PowerBI,9,227.0,Europe,2,"Business, Finance & Legal",2
+42.452599388379205,82118.0,a,0,missing,1,M,missing,employed,Python,PowerBI,3,539.2338129496403,South America,2,Healthcare & Therapy,2
+42.452599388379205,105346.0,missing,1,abc,0,F,married,unemployed,missing,missing,5,539.2338129496403,Africa,2,Engineering & Product Dev,0
+40.4,23807.0,a,0,missing,1,missing,single,unemployed,missing,missing,9,918.0,Oceania,2,"Business, Finance & Legal",3
+57.0,149716.0,missing,1,003,0,F,single,missing,missing,Tableau,8,450.0,Asia,2,Community & Admin Services,0
+42.452599388379205,14926.0,missing,0,001,1,M,missing,missing,missing,PowerBI,8,539.2338129496403,North America,2,Planning & Operations,3
+23.0,25468.0,missing,0,003,1,Other,single,missing,missing,missing,7,707.0,Europe,2,Media & Creative Arts,3
+42.452599388379205,82232.0,b,0,001,1,missing,single,missing,missing,Tableau,9,539.2338129496403,South America,2,Community & Admin Services,2
+42.452599388379205,132076.0,b,0,missing,1,Other,married,missing,Python,R,4,539.2338129496403,North America,2,Healthcare & Therapy,2
+65.0,44619.0,missing,0,002,1,F,married,missing,Excel,R,1,760.4,Africa,2,Healthcare & Therapy,3
+56.0,113251.0,missing,0,missing,1,F,missing,employed,Python,PowerBI,0,667.6,South America,2,Science & Research,2
+42.452599388379205,144597.0,a,1,missing,1,missing,married,missing,missing,PowerBI,4,539.2338129496403,South America,2,Community & Admin Services,0
+54.6,15752.0,b,0,missing,1,missing,missing,freelancer,Python,R,1,31.0,Asia,2,Media & Creative Arts,3
+42.452599388379205,68385.0,a,0,003,0,Other,single,employed,Excel,PowerBI,6,539.2338129496403,North America,2,Media & Creative Arts,3
+51.0,79264.0,b,0,001,1,missing,single,missing,SQL,missing,10,725.8,Asia,2,Healthcare & Therapy,2
+63.0,39054.0,missing,0,002,1,F,missing,missing,Excel,missing,4,710.0,Africa,2,Engineering & Product Dev,3
+49.4,24397.0,b,1,abc,1,Other,missing,freelancer,SQL,missing,1,516.0,South America,2,Healthcare & Therapy,1
+42.452599388379205,133989.0,b,0,missing,1,F,single,missing,Python,PowerBI,0,539.2338129496403,Oceania,2,Science & Research,2
+36.8,9919.0,missing,0,missing,1,M,missing,freelancer,SQL,R,6,880.0,South America,2,Planning & Operations,3
+42.452599388379205,110883.0,b,0,002,1,missing,missing,employed,missing,missing,5,539.2338129496403,Asia,2,"Business, Finance & Legal",2
+42.452599388379205,28767.0,c,0,003,1,missing,married,unemployed,missing,PowerBI,6,539.2338129496403,Unknown,2,Community & Admin Services,3
+42.452599388379205,99178.0,missing,1,missing,1,F,single,unemployed,Excel,missing,3,539.2338129496403,Africa,2,Planning & Operations,0
+42.0,135989.0,missing,0,001,1,Other,missing,employed,missing,PowerBI,3,309.0,Asia,2,Community & Admin Services,2
+42.452599388379205,145656.0,c,0,002,1,M,married,missing,Excel,missing,9,539.2338129496403,Asia,2,Community & Admin Services,2
+35.2,18096.0,b,1,abc,0,missing,single,employed,missing,missing,9,245.0,Asia,2,Community & Admin Services,1
+22.0,110384.0,c,1,missing,0,Other,single,missing,SQL,R,1,902.0,Africa,2,Engineering & Product Dev,0
+35.0,101974.0,missing,0,abc,0,missing,married,employed,missing,missing,2,567.6,Asia,2,"Business, Finance & Legal",2
+49.0,28367.0,b,1,missing,1,F,married,freelancer,missing,missing,6,609.0,Unknown,2,Community & Admin Services,1
+33.2,136042.0,b,1,003,1,M,married,unemployed,Excel,missing,1,364.0,Unknown,2,Healthcare & Therapy,0
+42.452599388379205,59554.0,b,1,002,1,F,missing,missing,SQL,Tableau,10,539.2338129496403,Africa,2,Community & Admin Services,1
+39.6,118946.0,b,0,missing,1,M,single,missing,SQL,Tableau,0,535.0,Europe,2,"Business, Finance & Legal",2
+50.0,121607.0,c,1,002,1,F,missing,unemployed,Excel,Tableau,6,596.0,South America,2,Community & Admin Services,0
+42.0,131984.0,a,1,002,0,missing,married,missing,Python,Tableau,7,454.0,Asia,2,Science & Research,0
+39.2,58008.0,c,0,001,1,Other,single,missing,missing,missing,2,393.0,Europe,2,Community & Admin Services,3
+42.452599388379205,49547.0,missing,0,001,1,missing,married,missing,missing,missing,4,539.2338129496403,North America,2,Community & Admin Services,3
+41.8,118835.0,a,0,002,1,missing,single,missing,missing,PowerBI,6,753.0,Oceania,2,Community & Admin Services,2
+49.6,68048.0,b,0,001,1,F,missing,freelancer,SQL,PowerBI,0,324.0,Europe,2,Planning & Operations,3
+33.0,11399.0,missing,0,002,1,F,missing,employed,Excel,missing,5,726.0,Oceania,2,"Business, Finance & Legal",3
+42.452599388379205,147196.0,a,1,missing,1,M,missing,employed,Excel,missing,5,539.2338129496403,Oceania,2,Surveying & Real Estate,0
+57.0,22565.0,missing,0,002,1,F,single,missing,missing,Tableau,3,1020.0,Europe,2,Engineering & Product Dev,3
+42.452599388379205,77651.0,a,1,003,1,missing,single,missing,missing,missing,4,539.2338129496403,North America,2,Science & Research,0
+54.400000000000006,125028.0,b,1,abc,0,Other,single,unemployed,Python,PowerBI,2,19.0,Oceania,2,Science & Research,0
+27.0,10948.0,b,1,missing,0,missing,missing,missing,Excel,R,3,515.0,Europe,2,"Business, Finance & Legal",1
+19.0,112922.0,c,0,abc,1,missing,married,freelancer,SQL,R,3,607.2,Asia,2,Community & Admin Services,2
+47.0,79549.0,missing,0,missing,0,missing,married,unemployed,SQL,Tableau,3,118.0,Europe,2,Science & Research,3
+42.452599388379205,73264.0,c,0,002,1,Other,married,freelancer,missing,missing,2,539.2338129496403,Africa,2,Science & Research,3
+37.0,135919.0,c,0,003,0,M,missing,freelancer,missing,R,9,689.0,North America,2,Planning & Operations,2
+42.452599388379205,34442.0,missing,1,002,1,Other,missing,missing,SQL,missing,5,539.2338129496403,Asia,2,Media & Creative Arts,1
+38.0,143001.0,a,1,002,1,M,missing,employed,missing,missing,3,556.2,North America,2,Engineering & Product Dev,0
+42.452599388379205,19692.0,c,1,002,1,Other,missing,employed,Python,R,5,539.2338129496403,North America,2,Healthcare & Therapy,1
+42.4,121449.0,missing,0,003,0,missing,missing,unemployed,missing,missing,1,582.0,Oceania,2,Media & Creative Arts,2
+42.452599388379205,142704.0,c,1,missing,1,M,missing,freelancer,missing,Tableau,8,539.2338129496403,Africa,2,"Business, Finance & Legal",0
+53.2,105078.0,b,0,abc,1,Other,missing,missing,missing,missing,3,439.0,South America,2,Science & Research,2
+18.0,128873.0,b,1,abc,0,missing,married,employed,Excel,R,7,121.0,Africa,2,Surveying & Real Estate,0
+36.2,119312.0,b,0,missing,1,Other,single,freelancer,SQL,missing,0,574.0,Europe,2,Science & Research,2
+48.4,18864.0,b,0,abc,1,M,missing,missing,Excel,missing,3,698.0,Africa,2,Engineering & Product Dev,3
+29.0,147530.0,c,0,missing,1,Other,missing,employed,missing,missing,5,584.8,North America,2,Engineering & Product Dev,2
+18.0,132113.0,missing,0,002,1,F,married,unemployed,missing,missing,8,607.2,Africa,2,Healthcare & Therapy,2
+45.0,25027.0,b,0,001,1,Other,missing,unemployed,missing,missing,8,1062.0,Africa,2,Engineering & Product Dev,3
+37.8,36089.0,a,0,missing,0,F,married,unemployed,SQL,PowerBI,6,307.0,Africa,2,Healthcare & Therapy,3
+25.0,118048.0,a,0,001,1,missing,single,missing,Excel,R,0,329.0,Oceania,2,Engineering & Product Dev,2
+39.0,37451.0,a,0,002,0,Other,single,unemployed,Python,missing,5,648.0,Europe,2,Science & Research,3
+42.452599388379205,22914.0,b,0,001,0,F,married,missing,Excel,PowerBI,3,539.2338129496403,Africa,2,Planning & Operations,3
+39.8,53529.0,missing,1,002,1,missing,married,missing,SQL,missing,1,493.0,South America,2,Planning & Operations,1
+52.4,134975.0,c,1,missing,1,M,missing,employed,missing,R,7,992.0,Asia,2,Engineering & Product Dev,0
+42.452599388379205,111766.0,b,1,002,1,missing,missing,unemployed,Excel,missing,10,539.2338129496403,Unknown,2,Science & Research,0
+42.452599388379205,27283.0,b,0,abc,1,missing,married,employed,Python,Tableau,5,539.2338129496403,North America,2,"Business, Finance & Legal",3
+41.6,116333.0,missing,1,missing,1,missing,missing,missing,missing,missing,8,1090.0,Asia,2,Engineering & Product Dev,0
+38.2,133277.0,missing,0,missing,0,M,single,employed,missing,PowerBI,2,975.0,Oceania,2,Engineering & Product Dev,2
+39.6,30253.0,b,0,abc,1,F,missing,missing,missing,R,8,531.0,Africa,2,Science & Research,3
+48.4,13283.0,missing,1,abc,1,Other,missing,missing,Excel,PowerBI,2,1021.0,North America,2,Engineering & Product Dev,1
+39.6,40255.0,b,1,abc,1,missing,missing,missing,missing,missing,7,533.0,Asia,2,Planning & Operations,1
+53.0,74046.0,missing,0,abc,1,Other,single,employed,missing,PowerBI,2,411.2,Europe,2,Community & Admin Services,3
+42.452599388379205,94458.0,missing,1,abc,1,Other,missing,employed,SQL,Tableau,3,539.2338129496403,Asia,2,Science & Research,0
+40.0,22170.0,b,1,003,0,M,missing,employed,missing,missing,9,206.0,Europe,2,Healthcare & Therapy,1
+45.2,10829.0,c,1,missing,1,Other,single,missing,Excel,Tableau,5,425.0,South America,2,Engineering & Product Dev,1
+41.8,83517.0,c,1,002,1,M,married,freelancer,Python,PowerBI,4,747.0,Oceania,2,Engineering & Product Dev,0
+43.0,29106.0,b,0,003,1,M,missing,missing,SQL,R,1,300.40000000000003,Unknown,2,Engineering & Product Dev,3
+37.2,146544.0,c,0,abc,1,Other,missing,missing,SQL,PowerBI,10,953.0,Asia,2,Media & Creative Arts,2
+51.0,127498.0,b,0,missing,1,missing,single,missing,SQL,R,7,725.8,Europe,2,Community & Admin Services,2
+33.0,112547.0,c,1,missing,0,missing,missing,unemployed,Python,missing,3,565.0,Europe,2,"Business, Finance & Legal",0
+33.0,69379.0,b,0,abc,1,missing,single,unemployed,SQL,R,2,817.0,Asia,2,Media & Creative Arts,3
+42.452599388379205,16070.0,missing,1,001,1,Other,missing,employed,missing,R,10,539.2338129496403,North America,2,Healthcare & Therapy,1
+39.4,136137.0,b,0,missing,1,missing,married,missing,Excel,R,5,111.0,Africa,2,Media & Creative Arts,2
+44.8,62149.0,c,1,002,0,Other,missing,freelancer,missing,PowerBI,7,475.0,North America,2,Community & Admin Services,1
+44.8,116091.0,missing,0,003,0,Other,missing,freelancer,Excel,missing,0,47.0,Unknown,2,Engineering & Product Dev,2
+60.0,105844.0,b,0,missing,1,missing,missing,missing,Excel,missing,4,1067.0,Europe,2,Science & Research,2
+23.0,47002.0,missing,0,missing,1,M,single,missing,missing,missing,5,692.0,North America,2,Science & Research,3
+45.0,137732.0,b,0,abc,1,missing,single,employed,SQL,missing,10,406.0,North America,2,Media & Creative Arts,2
+41.6,87240.0,b,1,002,0,missing,married,missing,missing,R,7,1090.0,Europe,2,Healthcare & Therapy,0
+65.0,90873.0,b,0,001,1,Other,missing,missing,missing,Tableau,0,288.0,Africa,2,"Business, Finance & Legal",2
+42.452599388379205,28324.0,missing,0,003,0,M,missing,missing,Python,Tableau,1,539.2338129496403,Antarctica,2,"Business, Finance & Legal",3
+44.8,142845.0,missing,0,missing,1,M,married,unemployed,Python,R,7,45.0,Asia,2,"Business, Finance & Legal",2
+43.6,79178.0,a,1,002,1,F,missing,freelancer,SQL,missing,7,593.0,Africa,2,Planning & Operations,1
+42.452599388379205,127914.0,c,0,missing,1,F,missing,missing,missing,R,1,539.2338129496403,Africa,2,Healthcare & Therapy,2
+53.0,66562.0,missing,0,missing,1,M,missing,freelancer,missing,R,2,176.0,Asia,2,Planning & Operations,3
+46.6,137054.0,missing,0,abc,0,M,missing,unemployed,Python,PowerBI,5,122.99999999999994,Europe,2,Science & Research,2
+50.8,117744.0,b,1,missing,1,missing,missing,unemployed,Python,missing,2,1075.0,Europe,2,Science & Research,0
+42.452599388379205,43960.0,a,0,002,1,missing,married,missing,missing,PowerBI,7,539.2338129496403,Africa,2,Media & Creative Arts,3
+42.452599388379205,134233.0,b,0,001,1,M,missing,unemployed,SQL,missing,4,539.2338129496403,Africa,2,"Business, Finance & Legal",2
+35.2,6081.0,missing,0,002,1,M,missing,employed,Python,PowerBI,4,245.0,Asia,2,Science & Research,3
+61.0,32805.0,c,0,001,1,missing,missing,missing,Python,missing,10,797.0,Europe,2,Engineering & Product Dev,3
+39.0,90174.0,c,0,001,1,Other,single,missing,missing,missing,1,451.2000000000001,Europe,2,Science & Research,2
+34.0,109573.0,b,1,002,0,missing,missing,unemployed,Excel,R,7,1024.0,Asia,2,Science & Research,0
+42.452599388379205,30195.0,c,0,002,1,missing,missing,freelancer,missing,missing,6,539.2338129496403,North America,2,Science & Research,3
+42.452599388379205,116677.0,b,1,missing,1,missing,married,unemployed,missing,missing,10,539.2338129496403,South America,2,Media & Creative Arts,0
+51.0,25757.0,missing,1,002,0,Other,missing,freelancer,missing,PowerBI,8,1048.0,Unknown,2,Community & Admin Services,1
+48.4,113270.0,b,0,missing,1,Other,single,missing,Excel,PowerBI,10,695.0,Asia,2,Science & Research,2
+29.0,114117.0,b,0,missing,1,missing,missing,freelancer,SQL,Tableau,2,584.8,Africa,2,Community & Admin Services,2
+35.2,32873.0,missing,0,001,1,missing,single,unemployed,missing,missing,6,235.0,North America,2,Media & Creative Arts,3
+42.452599388379205,99562.0,missing,1,001,0,F,married,employed,Excel,Tableau,0,539.2338129496403,Unknown,2,Engineering & Product Dev,0
+38.0,119239.0,missing,0,001,1,missing,missing,missing,Excel,PowerBI,2,679.0,Europe,2,Community & Admin Services,2
+42.452599388379205,128598.0,a,0,missing,0,F,missing,employed,Python,PowerBI,1,539.2338129496403,Oceania,2,Science & Research,2
+42.452599388379205,81224.0,a,0,abc,1,missing,missing,unemployed,Excel,missing,0,539.2338129496403,North America,2,Engineering & Product Dev,2
+42.452599388379205,114350.0,missing,1,abc,1,missing,missing,employed,SQL,R,3,539.2338129496403,North America,2,"Business, Finance & Legal",0
+41.4,93906.0,missing,0,003,1,missing,missing,missing,SQL,missing,3,86.0,Unknown,2,Planning & Operations,2
+49.6,38841.0,c,0,002,1,M,missing,freelancer,SQL,Tableau,8,426.0,Asia,2,Science & Research,3
+44.2,46577.0,c,0,001,1,Other,single,missing,SQL,PowerBI,8,807.0,Europe,2,Science & Research,3
+44.8,17235.0,missing,1,002,1,M,missing,employed,Excel,missing,9,49.0,Asia,2,Planning & Operations,1
+53.0,35948.0,a,0,002,1,missing,missing,employed,SQL,R,5,411.2,Asia,2,Engineering & Product Dev,3
+25.0,6726.0,a,0,003,1,missing,single,freelancer,Python,missing,5,501.6,Oceania,2,Science & Research,3
+60.0,143844.0,missing,0,002,1,missing,missing,missing,Python,PowerBI,7,14.0,Africa,2,Media & Creative Arts,2
+42.452599388379205,27224.0,c,0,abc,0,missing,missing,employed,SQL,missing,0,539.2338129496403,Oceania,2,Engineering & Product Dev,3
+42.452599388379205,114918.0,missing,0,003,1,Other,missing,missing,missing,Tableau,6,539.2338129496403,Unknown,2,Science & Research,2
+59.0,120905.0,c,1,002,1,M,missing,missing,SQL,missing,8,540.0,North America,2,Healthcare & Therapy,0
+31.0,141665.0,c,0,001,1,missing,missing,unemployed,Python,missing,8,528.2,Africa,2,Science & Research,2
+64.0,138037.0,c,1,001,1,missing,single,missing,Python,Tableau,9,865.0,North America,2,"Business, Finance & Legal",0
+42.452599388379205,66299.0,c,1,003,0,missing,married,employed,Python,missing,9,539.2338129496403,Europe,2,Planning & Operations,1
+36.2,116592.0,missing,1,001,1,missing,missing,unemployed,missing,PowerBI,5,574.0,Asia,2,Planning & Operations,0
+42.452599388379205,108489.0,b,0,abc,1,missing,missing,missing,SQL,Tableau,8,539.2338129496403,South America,2,Surveying & Real Estate,2
+42.452599388379205,139528.0,missing,1,missing,0,missing,single,unemployed,missing,R,1,539.2338129496403,North America,2,Media & Creative Arts,0
+44.0,80914.0,a,0,002,1,Other,missing,freelancer,Python,missing,0,978.0,Asia,2,Science & Research,2
+42.452599388379205,84996.0,b,0,002,1,M,missing,employed,Excel,missing,7,539.2338129496403,Unknown,2,"Business, Finance & Legal",2
+42.452599388379205,103908.0,missing,0,002,0,missing,missing,missing,missing,Tableau,5,539.2338129496403,Africa,2,Engineering & Product Dev,2
+42.452599388379205,66032.0,missing,0,missing,1,missing,missing,employed,SQL,PowerBI,9,539.2338129496403,North America,2,Science & Research,3
+42.452599388379205,27322.0,a,0,missing,1,missing,married,missing,missing,PowerBI,1,539.2338129496403,North America,2,Engineering & Product Dev,3
+52.0,58950.0,a,0,abc,1,missing,missing,missing,missing,PowerBI,7,990.0,Oceania,2,"Business, Finance & Legal",3
+33.2,143386.0,c,1,003,1,M,married,freelancer,SQL,Tableau,4,356.0,Asia,2,Community & Admin Services,0
+42.452599388379205,20443.0,c,0,001,1,Other,single,freelancer,SQL,missing,5,539.2338129496403,Europe,2,Community & Admin Services,3
+42.0,66994.0,missing,0,missing,1,M,single,freelancer,missing,missing,6,574.0,Europe,2,Community & Admin Services,3
+48.0,9881.0,b,0,missing,1,F,married,freelancer,missing,missing,7,660.0,Europe,2,Engineering & Product Dev,3
+43.8,42320.0,c,0,002,0,missing,missing,employed,Excel,missing,9,213.0,Africa,2,"Business, Finance & Legal",3
+59.0,131402.0,b,0,003,1,Other,married,missing,missing,R,0,996.0,Oceania,2,Planning & Operations,2
+42.452599388379205,28518.0,missing,1,002,1,missing,missing,freelancer,Python,missing,4,539.2338129496403,Asia,2,Community & Admin Services,1
+39.2,91103.0,a,0,missing,1,missing,single,employed,SQL,missing,8,332.0,North America,2,Community & Admin Services,2
+42.452599388379205,25322.0,missing,1,missing,1,M,missing,missing,Python,missing,2,539.2338129496403,Europe,2,Engineering & Product Dev,1
+18.0,55591.0,missing,1,002,1,Other,missing,unemployed,Excel,missing,10,607.2,Europe,2,Science & Research,1
+63.0,100158.0,a,1,abc,0,M,missing,employed,Python,missing,8,646.0,North America,2,Engineering & Product Dev,0
+42.2,51013.0,b,0,002,1,F,married,missing,Python,Tableau,10,798.0,Africa,2,"Business, Finance & Legal",3
+42.452599388379205,123994.0,a,1,missing,1,Other,missing,freelancer,Excel,missing,7,539.2338129496403,Oceania,2,Community & Admin Services,0
+37.4,63863.0,a,1,abc,1,Other,missing,unemployed,Python,PowerBI,9,142.0,Asia,2,Planning & Operations,1
+65.0,70531.0,a,0,003,1,M,single,employed,missing,missing,0,760.4,Asia,2,Media & Creative Arts,3
+42.4,129145.0,a,0,001,1,missing,single,missing,missing,missing,1,411.0,North America,2,Engineering & Product Dev,2
+37.8,20908.0,a,1,003,1,F,missing,employed,Python,missing,10,389.0,Africa,2,Planning & Operations,1
+22.0,82310.0,missing,1,001,1,F,single,missing,missing,missing,6,1092.0,Asia,2,Healthcare & Therapy,0
+57.0,11808.0,missing,0,003,0,M,single,missing,Excel,missing,3,120.0,North America,2,Community & Admin Services,3
+42.452599388379205,115364.0,missing,0,abc,0,F,single,employed,SQL,R,9,539.2338129496403,North America,2,Media & Creative Arts,2
+48.4,146857.0,c,0,abc,1,missing,missing,freelancer,Excel,missing,9,1019.0,Europe,2,Engineering & Product Dev,2
+61.0,19314.0,missing,0,002,0,F,missing,unemployed,missing,missing,9,776.0,Unknown,2,Community & Admin Services,3
+42.452599388379205,83546.0,missing,0,002,1,missing,missing,unemployed,Excel,Tableau,3,539.2338129496403,Asia,2,Science & Research,2
+57.0,91904.0,missing,0,abc,0,M,single,employed,Python,PowerBI,8,323.0,South America,2,Science & Research,2
+42.452599388379205,99348.0,a,1,002,0,Other,married,freelancer,SQL,R,8,539.2338129496403,Asia,2,Planning & Operations,0
+29.0,73626.0,b,1,missing,0,missing,single,freelancer,SQL,R,7,251.0,Africa,2,Engineering & Product Dev,0
+42.0,118696.0,b,1,002,0,F,missing,freelancer,Python,missing,6,852.0,Unknown,2,Science & Research,0
+33.0,145369.0,b,0,003,0,M,missing,unemployed,missing,missing,7,522.0,Asia,2,Engineering & Product Dev,2
+64.0,22006.0,c,0,abc,1,missing,missing,unemployed,Python,R,8,605.2,Unknown,2,Science & Research,3
+42.452599388379205,110105.0,a,0,002,0,missing,missing,unemployed,Python,missing,6,539.2338129496403,Asia,2,Healthcare & Therapy,2
+41.4,40213.0,b,1,abc,1,F,single,missing,missing,missing,5,88.0,North America,2,Community & Admin Services,1
+42.452599388379205,135427.0,c,1,abc,1,F,married,freelancer,Excel,R,1,539.2338129496403,North America,2,Media & Creative Arts,0
+42.452599388379205,77463.0,a,1,001,1,Other,married,freelancer,SQL,R,4,539.2338129496403,Africa,2,Engineering & Product Dev,0
+37.2,41140.0,missing,1,001,1,Other,missing,missing,missing,PowerBI,7,954.0,Europe,2,Healthcare & Therapy,1
+50.0,60017.0,missing,0,missing,1,missing,single,freelancer,SQL,missing,6,691.8,Unknown,2,Engineering & Product Dev,3
+42.452599388379205,41424.0,c,1,missing,1,missing,missing,freelancer,SQL,missing,6,539.2338129496403,Asia,2,Community & Admin Services,1
+42.452599388379205,11092.0,a,0,002,1,missing,missing,missing,SQL,missing,1,539.2338129496403,Asia,2,Healthcare & Therapy,3
+42.0,123367.0,b,1,002,1,missing,single,missing,missing,PowerBI,2,309.0,Africa,2,Media & Creative Arts,0
+37.4,81311.0,missing,1,abc,1,Other,single,unemployed,Python,missing,6,374.0,Asia,2,"Business, Finance & Legal",0
+25.0,23025.0,missing,0,002,0,Other,missing,unemployed,missing,missing,4,501.6,Europe,2,Media & Creative Arts,3
+42.452599388379205,6951.0,c,0,001,1,missing,missing,missing,missing,missing,7,539.2338129496403,Europe,2,Healthcare & Therapy,3
+38.6,124618.0,c,1,abc,0,missing,married,missing,missing,missing,6,256.0,Asia,2,Science & Research,0
+42.452599388379205,16446.0,a,0,003,1,M,married,missing,missing,missing,1,539.2338129496403,Oceania,2,Planning & Operations,3
+22.0,90462.0,missing,0,002,1,F,single,missing,Excel,PowerBI,10,902.0,Europe,2,"Business, Finance & Legal",2
+42.452599388379205,109685.0,a,1,001,1,Other,married,freelancer,missing,missing,7,539.2338129496403,Europe,2,Engineering & Product Dev,0
+37.4,119746.0,c,0,003,0,F,single,unemployed,Python,PowerBI,8,145.0,Africa,2,Planning & Operations,2
+43.0,7938.0,b,0,abc,1,F,single,missing,SQL,missing,0,58.0,Asia,2,"Business, Finance & Legal",3
+43.6,85825.0,missing,1,missing,1,M,married,unemployed,Python,Tableau,3,594.0,North America,2,Planning & Operations,0
+36.2,93373.0,a,1,002,1,F,married,employed,missing,missing,1,885.0,Asia,2,Engineering & Product Dev,0
+43.4,147004.0,missing,1,001,0,F,missing,freelancer,SQL,PowerBI,6,598.0,North America,2,Engineering & Product Dev,0
+38.0,62696.0,b,1,missing,1,M,married,missing,Python,missing,7,556.2,Oceania,2,Community & Admin Services,1
+42.452599388379205,29836.0,c,1,missing,0,Other,missing,missing,Excel,R,0,539.2338129496403,Asia,2,Healthcare & Therapy,1
+42.452599388379205,65928.0,missing,0,missing,1,F,single,freelancer,SQL,missing,3,539.2338129496403,Africa,2,Community & Admin Services,3
+23.0,82755.0,a,0,abc,0,M,missing,freelancer,SQL,R,5,981.0,South America,2,"Business, Finance & Legal",2
+42.452599388379205,80616.0,a,0,missing,1,Other,married,missing,Excel,Tableau,10,539.2338129496403,Asia,2,Community & Admin Services,2
+64.0,141700.0,c,0,abc,1,M,single,unemployed,Excel,Tableau,3,605.2,Unknown,2,Planning & Operations,2
+23.0,58575.0,a,0,001,1,missing,married,unemployed,SQL,missing,2,707.0,Europe,2,"Business, Finance & Legal",3
+50.2,57796.0,b,0,001,1,missing,married,missing,missing,missing,8,176.0,Oceania,2,Community & Admin Services,3
+42.8,131353.0,a,1,abc,1,Other,married,missing,SQL,R,6,288.0,North America,2,Planning & Operations,0
+43.4,131050.0,b,0,002,1,F,married,employed,Excel,missing,5,598.0,Europe,2,Engineering & Product Dev,2
+42.452599388379205,102817.0,missing,0,003,1,missing,single,missing,missing,Tableau,3,539.2338129496403,Unknown,2,Science & Research,2
+42.8,133089.0,c,1,missing,1,missing,married,unemployed,missing,PowerBI,5,76.0,Africa,2,Community & Admin Services,0
+46.8,43766.0,b,0,abc,0,Other,married,employed,Excel,PowerBI,10,183.0,Europe,2,Science & Research,3
+42.452599388379205,26062.0,missing,0,abc,0,missing,missing,missing,missing,missing,9,539.2338129496403,Europe,2,"Business, Finance & Legal",3
+50.2,95280.0,c,1,missing,0,missing,missing,employed,SQL,missing,0,1040.0,Asia,2,Planning & Operations,0
+42.452599388379205,80586.0,missing,0,002,1,F,married,unemployed,missing,Tableau,8,539.2338129496403,Africa,2,Community & Admin Services,3
+52.8,20461.0,c,0,003,1,missing,single,unemployed,Excel,R,1,17.0,Africa,2,Engineering & Product Dev,3
+42.2,66546.0,missing,0,missing,1,M,missing,employed,missing,PowerBI,1,799.0,Europe,2,Media & Creative Arts,3
+51.0,74687.0,missing,0,003,1,Other,missing,freelancer,SQL,R,10,725.8,Africa,2,Community & Admin Services,3
+36.4,91574.0,b,1,abc,1,F,single,missing,Python,Tableau,5,567.0,Africa,2,Community & Admin Services,0
+42.452599388379205,54266.0,a,0,001,1,M,missing,missing,SQL,missing,7,539.2338129496403,North America,2,Engineering & Product Dev,3
+33.2,129812.0,b,1,003,0,F,single,unemployed,missing,PowerBI,4,352.0,North America,2,Healthcare & Therapy,0
+38.0,35324.0,missing,0,002,0,F,single,employed,missing,PowerBI,2,682.0,Africa,2,Science & Research,3
+41.8,129859.0,b,0,missing,1,M,missing,unemployed,missing,missing,1,138.00000000000006,North America,2,"Business, Finance & Legal",2
+42.452599388379205,119547.0,a,0,003,1,Other,single,employed,Python,missing,3,539.2338129496403,Europe,2,Surveying & Real Estate,2
+45.0,87148.0,missing,0,missing,1,Other,married,missing,missing,R,5,1062.0,North America,2,"Business, Finance & Legal",2
+42.452599388379205,32940.0,missing,1,missing,1,Other,missing,unemployed,missing,missing,2,539.2338129496403,Africa,2,"Business, Finance & Legal",1
+36.0,85974.0,missing,1,003,1,F,missing,missing,Excel,R,2,282.0,Asia,2,Planning & Operations,1
+42.0,18779.0,c,0,missing,1,Other,married,employed,missing,missing,5,983.0,Europe,2,Engineering & Product Dev,3
+36.6,107514.0,b,0,missing,1,Other,married,missing,missing,PowerBI,2,642.0,Africa,2,Community & Admin Services,2
+55.0,47911.0,c,0,missing,1,Other,married,unemployed,SQL,PowerBI,5,689.0,Europe,2,Engineering & Product Dev,3
+54.0,116964.0,c,1,001,1,missing,single,employed,missing,R,9,180.99999999999997,Asia,2,Healthcare & Therapy,0
+42.452599388379205,36143.0,a,1,abc,1,missing,missing,employed,missing,missing,4,539.2338129496403,South America,2,Community & Admin Services,1
+47.4,35573.0,b,1,abc,0,M,missing,freelancer,Excel,missing,2,40.0,Europe,2,Science & Research,1
+42.452599388379205,37829.0,b,0,001,0,missing,single,missing,missing,missing,8,539.2338129496403,North America,2,Engineering & Product Dev,3
+42.452599388379205,37529.0,a,1,002,0,M,missing,freelancer,Excel,PowerBI,2,539.2338129496403,Oceania,2,"Business, Finance & Legal",1
+34.4,72308.0,a,1,001,1,Other,married,missing,Excel,Tableau,4,132.0,Unknown,2,Planning & Operations,1
+42.452599388379205,133566.0,c,0,003,0,M,single,unemployed,Excel,Tableau,2,539.2338129496403,Asia,2,Healthcare & Therapy,2
+31.0,99126.0,b,0,missing,1,M,missing,freelancer,missing,Tableau,6,528.2,Europe,2,Science & Research,2
+42.452599388379205,42550.0,missing,0,001,1,F,missing,missing,missing,missing,2,539.2338129496403,Asia,2,Community & Admin Services,3
+42.452599388379205,69880.0,b,1,001,1,missing,single,freelancer,Excel,R,5,539.2338129496403,Africa,2,Media & Creative Arts,1
+27.0,103869.0,a,1,001,1,F,missing,missing,missing,PowerBI,8,1061.0,Europe,2,Community & Admin Services,0
+35.2,30969.0,a,0,003,1,F,missing,missing,missing,Tableau,4,871.0,Europe,2,Media & Creative Arts,3
+46.2,42400.0,missing,0,missing,1,M,missing,unemployed,missing,missing,7,294.0,Unknown,2,Science & Research,3
+42.452599388379205,77305.0,missing,0,missing,0,Other,single,freelancer,missing,R,1,539.2338129496403,Oceania,2,Science & Research,3
+23.0,48283.0,a,1,missing,1,missing,single,missing,missing,Tableau,7,343.0,Asia,2,Planning & Operations,1
+42.452599388379205,111291.0,a,0,002,1,missing,missing,unemployed,missing,missing,0,539.2338129496403,Europe,2,Media & Creative Arts,2
+46.0,50826.0,b,0,002,1,M,missing,missing,SQL,R,1,672.0,North America,2,Engineering & Product Dev,3
+61.0,35897.0,b,1,abc,1,Other,single,missing,missing,Tableau,4,797.0,Europe,2,Surveying & Real Estate,1
+50.0,132996.0,a,0,001,1,Other,missing,employed,Excel,R,2,691.8,Asia,2,"Business, Finance & Legal",2
+40.0,56785.0,b,0,missing,0,missing,missing,employed,SQL,R,3,73.0,Unknown,2,Engineering & Product Dev,3
+37.8,52757.0,missing,1,001,1,missing,married,freelancer,missing,PowerBI,5,140.0,South America,2,Community & Admin Services,1
+30.0,40043.0,missing,1,missing,1,M,married,missing,Python,PowerBI,6,641.0,North America,2,"Business, Finance & Legal",1
+45.2,109825.0,missing,1,002,1,M,married,unemployed,Python,missing,0,267.0,Unknown,2,Community & Admin Services,0
+33.0,7104.0,missing,0,003,1,missing,missing,unemployed,missing,Tableau,8,151.99999999999994,Africa,2,Science & Research,3
+36.2,69842.0,missing,0,abc,1,missing,married,unemployed,missing,Tableau,3,577.0,Africa,2,Planning & Operations,3
+41.4,55378.0,c,1,001,0,M,missing,missing,missing,R,10,88.0,Asia,2,Engineering & Product Dev,1
+42.452599388379205,138657.0,missing,1,003,1,Other,missing,freelancer,missing,Tableau,5,539.2338129496403,Oceania,2,Healthcare & Therapy,0
+29.0,89315.0,a,1,abc,1,missing,missing,unemployed,Python,missing,5,226.0,Oceania,2,Engineering & Product Dev,0
+37.0,149642.0,c,0,003,1,missing,missing,unemployed,Python,Tableau,9,675.0,Africa,2,Planning & Operations,2
+23.0,36550.0,a,0,missing,0,F,missing,employed,Excel,missing,9,787.0,South America,2,Media & Creative Arts,3
+42.452599388379205,57952.0,missing,0,001,0,F,missing,missing,Python,R,7,539.2338129496403,Africa,2,Science & Research,3
+63.0,114839.0,missing,0,001,0,missing,married,freelancer,Excel,missing,0,574.4,Oceania,2,Healthcare & Therapy,2
+42.452599388379205,144583.0,missing,1,002,1,missing,missing,missing,missing,R,3,539.2338129496403,Oceania,2,Healthcare & Therapy,0
+18.0,7322.0,missing,0,missing,1,Other,missing,freelancer,missing,PowerBI,2,607.2,Europe,2,"Business, Finance & Legal",3
+49.0,43833.0,b,0,003,1,F,single,employed,Python,missing,5,468.0,Africa,2,Engineering & Product Dev,3
+42.452599388379205,40025.0,missing,0,003,1,M,single,freelancer,SQL,R,2,539.2338129496403,South America,2,Science & Research,3
+42.452599388379205,105134.0,b,0,missing,0,missing,missing,freelancer,SQL,missing,10,539.2338129496403,Asia,2,Engineering & Product Dev,2
+47.2,118745.0,c,0,abc,1,missing,missing,unemployed,SQL,Tableau,9,818.0,Africa,2,Media & Creative Arts,2
+64.0,47708.0,c,1,missing,0,M,single,missing,SQL,missing,10,164.0,Africa,2,Engineering & Product Dev,1
+42.452599388379205,8090.0,b,1,abc,1,M,single,unemployed,SQL,PowerBI,4,539.2338129496403,North America,2,Science & Research,1
+44.6,7463.0,b,0,missing,1,M,married,missing,missing,missing,2,629.0,North America,2,Engineering & Product Dev,3
+44.2,147482.0,b,0,001,1,M,missing,employed,missing,missing,2,114.0,North America,2,"Business, Finance & Legal",2
+32.0,43633.0,c,1,002,1,M,married,employed,SQL,PowerBI,4,312.0,Asia,2,Science & Research,1
+39.4,27230.0,a,0,002,0,missing,missing,missing,SQL,missing,2,300.0,Africa,2,Planning & Operations,3
+42.452599388379205,96327.0,b,1,abc,1,Other,single,employed,SQL,Tableau,5,539.2338129496403,South America,2,Engineering & Product Dev,0
+42.452599388379205,34665.0,missing,1,002,1,Other,married,missing,Python,R,7,539.2338129496403,Oceania,2,Community & Admin Services,1
+42.452599388379205,92415.0,c,0,abc,1,missing,missing,missing,missing,Tableau,6,539.2338129496403,Asia,2,"Business, Finance & Legal",2
+42.452599388379205,62497.0,b,0,003,1,F,missing,missing,missing,Tableau,1,539.2338129496403,Asia,2,Engineering & Product Dev,3
+52.8,42785.0,missing,1,002,0,F,married,employed,SQL,missing,0,8.0,North America,2,Science & Research,1
+33.2,24338.0,missing,0,002,1,F,married,employed,SQL,PowerBI,0,352.0,Europe,2,Planning & Operations,3
+44.0,41729.0,missing,1,abc,1,Other,single,freelancer,Excel,Tableau,0,81.00000000000006,Europe,2,Engineering & Product Dev,1
+42.4,7848.0,missing,1,missing,1,missing,missing,missing,missing,R,3,529.0,Asia,2,Engineering & Product Dev,1
+37.8,37802.0,a,1,missing,1,F,married,missing,missing,PowerBI,7,309.0,North America,2,Science & Research,1
+42.452599388379205,48207.0,a,0,missing,1,F,single,employed,Excel,R,9,539.2338129496403,Oceania,2,Planning & Operations,3
+19.0,32909.0,b,0,missing,1,Other,married,employed,SQL,R,1,267.0,Asia,2,Healthcare & Therapy,3
+54.0,131827.0,a,1,003,1,Other,missing,freelancer,missing,missing,3,374.6,Unknown,2,Surveying & Real Estate,0
+42.4,30527.0,c,1,missing,1,missing,single,missing,missing,missing,9,411.0,Africa,2,Media & Creative Arts,1
+36.0,25644.0,b,0,002,0,F,missing,missing,SQL,R,4,794.0,Africa,2,Engineering & Product Dev,3
+33.2,106615.0,a,0,missing,1,F,missing,employed,Excel,Tableau,4,357.0,Asia,2,"Business, Finance & Legal",2
+40.0,49490.0,b,0,001,1,missing,missing,employed,Excel,Tableau,7,1053.0,Africa,2,Media & Creative Arts,3
+42.452599388379205,41817.0,b,0,abc,1,Other,missing,missing,missing,Tableau,7,539.2338129496403,Europe,2,Surveying & Real Estate,3
+45.6,113316.0,missing,0,003,1,missing,single,unemployed,missing,PowerBI,2,1036.0,Europe,2,Media & Creative Arts,2
+49.0,24130.0,a,1,abc,1,Other,missing,missing,missing,PowerBI,1,467.0,Unknown,2,Engineering & Product Dev,1
+64.0,57290.0,missing,0,001,1,Other,missing,unemployed,missing,PowerBI,4,605.2,Africa,2,Science & Research,3
+42.8,43145.0,a,0,missing,1,missing,single,freelancer,missing,missing,3,69.0,Europe,2,Healthcare & Therapy,3
+31.0,51165.0,b,0,001,1,missing,missing,missing,missing,missing,3,528.2,Asia,2,Engineering & Product Dev,3
+34.0,117337.0,c,1,002,0,Other,missing,missing,missing,Tableau,6,348.0,Africa,2,Community & Admin Services,0
+42.452599388379205,57051.0,b,0,missing,0,Other,missing,employed,SQL,missing,2,539.2338129496403,Africa,2,Planning & Operations,3
+38.0,5963.0,missing,0,missing,1,missing,single,unemployed,SQL,missing,8,556.2,Asia,2,Healthcare & Therapy,3
+39.0,55111.0,a,0,003,1,Other,single,missing,missing,missing,6,961.0,North America,2,Media & Creative Arts,3
+42.452599388379205,93034.0,b,0,abc,1,Other,married,missing,missing,missing,4,539.2338129496403,Africa,2,"Business, Finance & Legal",2
+42.452599388379205,31011.0,b,1,001,1,missing,single,missing,missing,missing,1,539.2338129496403,Europe,2,"Business, Finance & Legal",1
+42.452599388379205,80996.0,missing,0,002,1,missing,single,unemployed,missing,PowerBI,5,539.2338129496403,Europe,2,Healthcare & Therapy,2
+42.452599388379205,103210.0,a,0,003,1,Other,missing,unemployed,Excel,missing,0,539.2338129496403,South America,2,"Business, Finance & Legal",2
+19.0,141043.0,c,0,002,1,F,missing,unemployed,missing,missing,0,1063.0,Asia,2,Engineering & Product Dev,2
+45.0,50538.0,missing,0,missing,0,missing,single,unemployed,missing,PowerBI,10,531.4,Asia,2,"Business, Finance & Legal",3
+38.6,46694.0,c,0,001,1,M,single,missing,SQL,PowerBI,9,746.0,Asia,2,"Business, Finance & Legal",3
+52.0,39222.0,missing,0,002,0,F,married,missing,SQL,missing,4,512.0,Unknown,2,Community & Admin Services,3
+37.2,11066.0,b,1,abc,1,M,missing,freelancer,SQL,PowerBI,1,950.0,Asia,2,Media & Creative Arts,1
+41.0,10755.0,missing,1,abc,1,F,missing,missing,Python,missing,2,479.6,Asia,2,Community & Admin Services,1
+37.0,13244.0,b,0,003,1,missing,single,unemployed,missing,R,1,308.0,North America,2,Planning & Operations,3
+56.0,139150.0,c,0,003,1,F,missing,unemployed,SQL,PowerBI,2,667.6,Asia,2,"Business, Finance & Legal",2
+41.8,96371.0,missing,1,abc,1,missing,missing,unemployed,Python,Tableau,3,900.0,Asia,2,Engineering & Product Dev,0
+42.452599388379205,86680.0,c,0,missing,1,missing,missing,missing,Python,R,9,539.2338129496403,North America,2,"Business, Finance & Legal",2
+42.452599388379205,97514.0,c,1,abc,0,M,missing,missing,missing,R,9,539.2338129496403,Asia,2,"Business, Finance & Legal",0
+42.452599388379205,52160.0,c,1,002,1,F,married,freelancer,Python,Tableau,5,539.2338129496403,Africa,2,Planning & Operations,1
+39.6,61039.0,missing,0,003,0,missing,missing,freelancer,missing,Tableau,8,535.0,North America,2,"Business, Finance & Legal",3
+37.4,24614.0,missing,1,003,1,F,single,missing,missing,PowerBI,4,376.0,Asia,2,Community & Admin Services,1
+25.0,90688.0,missing,0,missing,1,Other,single,missing,Python,Tableau,6,501.6,North America,2,Community & Admin Services,2
+46.2,9265.0,b,0,001,1,Other,missing,freelancer,missing,PowerBI,8,1049.0,Europe,2,Media & Creative Arts,3
+44.4,124165.0,missing,1,003,1,M,single,employed,SQL,PowerBI,5,283.0,Asia,2,Media & Creative Arts,0
+39.8,55111.0,c,0,001,1,Other,single,employed,Python,PowerBI,4,493.0,North America,2,Science & Research,3
+42.452599388379205,49653.0,c,0,abc,1,F,married,missing,missing,missing,10,539.2338129496403,Africa,2,Planning & Operations,3
+41.4,133477.0,b,0,missing,1,F,missing,freelancer,Excel,R,8,82.0,North America,2,Science & Research,2
+49.0,24698.0,missing,1,002,1,F,missing,unemployed,missing,PowerBI,5,471.0,South America,2,Planning & Operations,1
+42.452599388379205,86743.0,missing,0,missing,1,F,missing,missing,missing,missing,8,539.2338129496403,Asia,2,Community & Admin Services,2
+43.0,48043.0,b,0,missing,1,F,single,employed,SQL,PowerBI,7,154.0,Asia,2,Science & Research,3
+35.0,123657.0,c,1,001,1,Other,married,unemployed,missing,missing,6,567.6,North America,2,Community & Admin Services,0
+39.0,30641.0,a,1,missing,1,F,married,missing,SQL,missing,4,451.2000000000001,Unknown,2,Science & Research,1
+42.452599388379205,18073.0,a,1,002,1,M,missing,unemployed,Excel,missing,1,539.2338129496403,Unknown,2,Planning & Operations,1
+42.452599388379205,31556.0,a,1,abc,0,F,missing,freelancer,missing,R,0,539.2338129496403,Oceania,2,Science & Research,1
+42.452599388379205,85038.0,a,0,003,1,F,missing,missing,SQL,PowerBI,10,539.2338129496403,Asia,2,Engineering & Product Dev,2
+37.4,74162.0,b,0,missing,1,missing,missing,missing,Excel,missing,3,875.0,Europe,2,"Business, Finance & Legal",2
+25.0,81194.0,a,0,missing,0,F,single,freelancer,Python,missing,7,1074.0,North America,2,Engineering & Product Dev,3
+39.4,71463.0,c,0,001,1,Other,missing,missing,missing,missing,1,110.00000000000006,Oceania,2,Science & Research,3
+44.6,112562.0,a,0,003,1,M,missing,freelancer,SQL,PowerBI,3,322.0,Oceania,2,Healthcare & Therapy,2
+58.0,147846.0,missing,0,002,1,Other,missing,missing,missing,R,4,799.0,Europe,2,Engineering & Product Dev,2
+42.452599388379205,37233.0,missing,0,missing,1,Other,single,missing,SQL,missing,10,539.2338129496403,Africa,2,Community & Admin Services,3
+42.452599388379205,47626.0,b,0,003,1,Other,missing,employed,SQL,R,9,539.2338129496403,North America,2,Community & Admin Services,3
+38.2,97341.0,a,1,003,0,Other,married,employed,Python,Tableau,3,345.0,Europe,2,Community & Admin Services,0
+55.0,129040.0,c,0,missing,1,missing,single,freelancer,Python,missing,4,396.0,Oceania,2,Science & Research,2
+43.8,41484.0,a,1,002,1,missing,missing,freelancer,Excel,R,9,215.0,South America,2,"Business, Finance & Legal",1
+42.2,119528.0,b,0,missing,1,Other,missing,missing,Python,missing,7,902.0,Europe,2,"Business, Finance & Legal",2
+43.4,11926.0,missing,1,002,1,F,missing,unemployed,missing,missing,9,840.0,Oceania,2,Engineering & Product Dev,1
+36.8,6560.0,missing,0,abc,1,M,missing,employed,Python,missing,1,882.0,North America,2,Science & Research,3
+40.0,36835.0,missing,1,missing,0,missing,missing,unemployed,SQL,Tableau,4,93.99999999999994,Africa,2,Community & Admin Services,1
+49.0,57612.0,b,1,001,0,missing,single,unemployed,SQL,PowerBI,7,463.0,Asia,2,Science & Research,1
+42.452599388379205,36932.0,b,1,abc,0,F,missing,missing,missing,missing,1,539.2338129496403,Europe,2,Planning & Operations,1
+43.2,68093.0,c,0,missing,0,missing,missing,freelancer,Excel,missing,7,683.0,Unknown,2,Science & Research,3
+42.452599388379205,33137.0,missing,1,abc,0,M,missing,employed,missing,missing,0,539.2338129496403,North America,2,Science & Research,1
+37.0,97989.0,c,0,missing,1,Other,married,freelancer,missing,missing,3,413.8,Africa,2,Planning & Operations,2
+42.452599388379205,50743.0,c,0,missing,1,missing,married,freelancer,Python,missing,1,539.2338129496403,Asia,2,Science & Research,3
+42.452599388379205,52284.0,missing,0,003,0,Other,missing,missing,missing,missing,1,539.2338129496403,Europe,2,Community & Admin Services,3
+43.4,32845.0,missing,0,003,0,F,married,missing,missing,PowerBI,0,831.0,Africa,2,Community & Admin Services,3
+34.0,24105.0,missing,0,missing,1,F,single,missing,missing,Tableau,10,563.0,Africa,2,Engineering & Product Dev,3
+53.0,119691.0,b,0,002,0,missing,married,employed,missing,PowerBI,10,413.0,North America,2,"Business, Finance & Legal",2
+24.0,6372.0,c,1,missing,1,Other,missing,unemployed,SQL,missing,7,280.0,Africa,2,Surveying & Real Estate,1
+42.452599388379205,41142.0,b,0,abc,1,M,single,unemployed,missing,R,1,539.2338129496403,South America,2,"Business, Finance & Legal",3
+49.0,91748.0,a,0,003,1,missing,missing,employed,SQL,R,1,8.0,Africa,2,Community & Admin Services,2
+54.0,136084.0,b,1,missing,1,missing,single,missing,missing,R,10,374.6,South America,2,Engineering & Product Dev,0
+42.452599388379205,92697.0,a,0,002,1,M,missing,employed,missing,missing,0,539.2338129496403,Asia,2,Community & Admin Services,2
+42.452599388379205,26127.0,missing,0,002,1,M,single,missing,missing,Tableau,10,539.2338129496403,South America,2,Engineering & Product Dev,3
+37.0,64704.0,a,1,001,0,missing,missing,employed,missing,missing,0,551.0,Oceania,2,Science & Research,1
+39.2,116891.0,missing,0,001,1,M,missing,freelancer,SQL,R,6,405.0,North America,2,"Business, Finance & Legal",2
+33.0,64539.0,missing,0,missing,1,M,married,employed,Excel,PowerBI,2,104.0,Asia,2,"Business, Finance & Legal",3
+32.8,69027.0,b,0,missing,1,missing,single,employed,Excel,R,8,733.0,North America,2,Media & Creative Arts,3
+42.2,62746.0,missing,1,003,1,F,missing,freelancer,missing,missing,1,798.0,Europe,2,Community & Admin Services,1
+42.452599388379205,25564.0,a,0,missing,0,Other,married,employed,Python,Tableau,0,539.2338129496403,Unknown,2,Planning & Operations,3
+42.452599388379205,10580.0,missing,1,003,1,missing,missing,employed,Excel,R,9,539.2338129496403,South America,2,Engineering & Product Dev,1
+49.0,16643.0,a,0,abc,0,missing,single,freelancer,Excel,missing,5,592.8,North America,2,Science & Research,3
+39.0,61765.0,a,0,missing,1,missing,single,employed,missing,missing,10,304.0,South America,2,Healthcare & Therapy,3
+42.452599388379205,141029.0,b,0,abc,1,F,single,freelancer,Python,PowerBI,3,539.2338129496403,Oceania,2,Healthcare & Therapy,2
+42.452599388379205,76898.0,c,1,missing,1,missing,single,freelancer,missing,R,4,539.2338129496403,Asia,2,Science & Research,0
+49.0,127274.0,a,0,abc,0,missing,single,freelancer,missing,missing,5,467.0,Europe,2,Community & Admin Services,2
+46.0,77389.0,b,0,002,0,F,single,unemployed,Excel,PowerBI,2,1025.0,Europe,2,"Business, Finance & Legal",2
+42.452599388379205,64756.0,a,1,003,1,Other,single,missing,SQL,R,1,539.2338129496403,South America,2,"Business, Finance & Legal",1
+36.8,67122.0,a,0,missing,1,missing,missing,freelancer,SQL,PowerBI,5,865.0,Europe,2,Community & Admin Services,3
+42.452599388379205,103229.0,missing,1,missing,1,F,single,freelancer,SQL,missing,0,539.2338129496403,Africa,2,Planning & Operations,0
+56.0,138216.0,c,0,abc,1,F,single,employed,SQL,missing,8,1076.0,North America,2,Community & Admin Services,2
+42.452599388379205,36782.0,missing,1,missing,1,missing,missing,freelancer,Python,Tableau,9,539.2338129496403,Asia,2,Engineering & Product Dev,1
+38.2,99886.0,a,0,003,1,F,missing,freelancer,Excel,R,8,972.0,North America,2,Planning & Operations,2
+42.452599388379205,122694.0,missing,0,missing,0,missing,missing,missing,SQL,missing,4,539.2338129496403,Asia,2,"Business, Finance & Legal",2
+37.8,115368.0,missing,0,missing,1,F,missing,employed,SQL,PowerBI,6,389.0,Africa,2,Surveying & Real Estate,2
+42.452599388379205,38134.0,a,1,001,0,M,missing,missing,Python,Tableau,6,539.2338129496403,South America,2,Media & Creative Arts,1
+53.0,93248.0,b,1,001,1,missing,missing,missing,Python,missing,2,834.0,Africa,2,Community & Admin Services,0
+42.452599388379205,138529.0,b,0,001,1,missing,missing,missing,SQL,missing,9,539.2338129496403,Africa,2,Media & Creative Arts,2
+24.0,17658.0,missing,0,missing,1,Other,missing,freelancer,SQL,Tableau,0,140.0,Asia,2,Planning & Operations,3
+64.0,87409.0,b,0,003,0,M,missing,missing,missing,Tableau,2,605.2,Africa,2,Science & Research,2
+37.2,78040.0,c,1,002,0,M,single,missing,missing,Tableau,0,949.0,Europe,2,Media & Creative Arts,0
+44.6,116805.0,missing,0,002,1,Other,single,missing,missing,missing,4,322.0,Europe,2,Healthcare & Therapy,2
+36.8,25726.0,a,1,003,0,missing,missing,missing,missing,PowerBI,5,880.0,Africa,2,Planning & Operations,1
+45.0,14341.0,a,0,002,1,F,married,freelancer,missing,Tableau,7,531.4,Europe,2,"Business, Finance & Legal",3
+43.2,28255.0,missing,0,001,1,M,married,unemployed,Excel,missing,4,685.0,North America,2,Media & Creative Arts,3
+42.452599388379205,96410.0,missing,0,missing,0,Other,missing,missing,missing,missing,9,539.2338129496403,Asia,2,"Business, Finance & Legal",2
+53.2,34456.0,b,1,abc,1,F,missing,employed,SQL,missing,5,759.0,South America,2,Healthcare & Therapy,1
+42.452599388379205,131809.0,missing,0,abc,0,M,missing,missing,SQL,missing,0,539.2338129496403,Europe,2,Media & Creative Arts,2
+39.6,120854.0,missing,1,003,1,Other,married,freelancer,Excel,R,7,534.0,Africa,2,Surveying & Real Estate,0
+44.2,33918.0,c,0,missing,1,M,single,freelancer,Python,missing,1,931.0,North America,2,Planning & Operations,3
+37.8,57019.0,c,0,abc,0,Other,missing,freelancer,missing,Tableau,8,390.0,Africa,2,Healthcare & Therapy,3
+33.0,143033.0,b,0,abc,1,M,missing,freelancer,Excel,Tableau,10,154.0,Europe,2,Healthcare & Therapy,2
+33.0,104052.0,missing,0,missing,1,M,single,missing,missing,PowerBI,0,970.0,Asia,2,Healthcare & Therapy,2
+39.2,107530.0,a,0,003,1,missing,single,freelancer,Python,missing,3,621.0,Europe,2,Community & Admin Services,2
+42.452599388379205,81346.0,missing,1,002,1,missing,missing,freelancer,missing,missing,3,539.2338129496403,Unknown,2,Science & Research,0
+42.452599388379205,148283.0,b,0,002,1,missing,missing,freelancer,missing,missing,1,539.2338129496403,Africa,2,Healthcare & Therapy,2
+33.0,26924.0,b,0,002,0,missing,married,employed,SQL,missing,9,725.0,North America,2,"Business, Finance & Legal",3
+42.452599388379205,20448.0,missing,1,abc,1,Other,single,freelancer,missing,missing,6,539.2338129496403,Europe,2,Media & Creative Arts,1
+39.2,133116.0,missing,0,003,0,Other,missing,missing,missing,PowerBI,1,613.0,Europe,2,Science & Research,2
+62.0,8571.0,c,0,missing,1,F,missing,employed,Excel,missing,7,761.8,Asia,2,"Business, Finance & Legal",3
+42.452599388379205,148415.0,missing,1,001,1,M,missing,freelancer,missing,R,9,539.2338129496403,Oceania,2,Engineering & Product Dev,0
+46.8,142167.0,a,0,missing,1,missing,missing,missing,missing,Tableau,5,186.0,Unknown,2,"Business, Finance & Legal",2
+64.0,129222.0,a,0,abc,0,F,single,employed,Python,Tableau,3,445.0,Unknown,2,Engineering & Product Dev,2
+42.452599388379205,21019.0,missing,0,002,1,Other,married,freelancer,Excel,Tableau,4,539.2338129496403,Asia,2,Community & Admin Services,3
+41.0,110714.0,b,0,missing,0,M,married,employed,SQL,R,2,157.0,South America,2,Healthcare & Therapy,2
+54.0,105387.0,c,0,missing,1,missing,missing,unemployed,SQL,PowerBI,3,1093.0,Oceania,2,Community & Admin Services,2
+44.8,129640.0,a,0,001,1,F,missing,missing,missing,R,4,49.0,North America,2,Media & Creative Arts,2
+25.0,106064.0,missing,0,003,1,missing,married,unemployed,Python,Tableau,6,501.6,Africa,2,Planning & Operations,2
+38.0,119141.0,c,0,001,1,missing,missing,missing,SQL,missing,8,284.0,Europe,2,Science & Research,2
+37.2,7797.0,a,0,003,0,M,missing,freelancer,Excel,R,4,949.0,Europe,2,Planning & Operations,3
+41.8,77076.0,missing,1,001,1,Other,single,missing,Excel,missing,9,135.0,Europe,2,Engineering & Product Dev,1
+33.2,148022.0,b,1,003,1,missing,married,unemployed,SQL,PowerBI,6,372.0,Asia,2,Planning & Operations,0
+42.4,147628.0,b,0,missing,1,Other,missing,unemployed,missing,R,8,412.0,North America,2,Engineering & Product Dev,2
+42.452599388379205,21117.0,b,0,missing,0,Other,married,missing,Excel,R,9,539.2338129496403,Europe,2,Engineering & Product Dev,3
+42.452599388379205,5845.0,b,1,missing,1,M,missing,missing,Excel,missing,7,539.2338129496403,Asia,2,Community & Admin Services,1
+25.0,53669.0,c,0,missing,1,F,married,freelancer,missing,PowerBI,3,716.0,South America,2,Media & Creative Arts,3
+50.2,39795.0,b,1,abc,1,F,married,missing,Python,missing,3,37.00000000000006,North America,2,Engineering & Product Dev,1
+35.0,72988.0,missing,1,001,1,Other,missing,freelancer,missing,missing,10,365.0,South America,2,Healthcare & Therapy,1
+28.0,146020.0,a,1,003,1,F,missing,employed,missing,Tableau,4,607.8,North America,2,Surveying & Real Estate,0
+39.0,140536.0,c,0,002,1,missing,missing,missing,missing,missing,0,957.0,Oceania,2,"Business, Finance & Legal",2
+62.0,7070.0,c,1,abc,1,Other,single,unemployed,Python,R,2,1091.0,North America,2,Planning & Operations,1
+52.0,124654.0,missing,1,abc,0,Other,missing,missing,Python,missing,10,230.0,North America,2,Engineering & Product Dev,0
+37.0,137896.0,b,1,abc,1,missing,single,unemployed,missing,Tableau,4,268.0,Europe,2,Science & Research,0
+38.6,41581.0,c,0,001,1,Other,missing,missing,missing,Tableau,7,263.0,Unknown,2,Healthcare & Therapy,3
+60.0,83979.0,b,1,002,0,F,single,unemployed,SQL,missing,5,60.0,North America,2,Engineering & Product Dev,0
+48.0,149134.0,missing,0,abc,1,missing,married,employed,missing,Tableau,5,996.0,Asia,2,Science & Research,2
+40.0,116304.0,missing,0,001,1,missing,single,unemployed,missing,Tableau,3,91.0,Antarctica,2,Engineering & Product Dev,2
+42.452599388379205,109380.0,b,0,002,1,F,married,freelancer,missing,PowerBI,5,539.2338129496403,Africa,2,Community & Admin Services,2
+59.0,86550.0,missing,0,001,1,missing,married,missing,missing,PowerBI,7,540.0,Europe,2,Science & Research,2
+36.2,111030.0,a,0,003,0,missing,missing,missing,Excel,missing,10,574.0,Asia,2,Healthcare & Therapy,2
+42.8,72803.0,b,0,abc,1,missing,missing,missing,Python,PowerBI,2,68.0,Asia,2,Community & Admin Services,2
+42.4,93372.0,b,0,missing,1,missing,missing,freelancer,Excel,PowerBI,7,406.0,Oceania,2,Science & Research,2
+41.0,71145.0,missing,0,missing,1,M,missing,unemployed,Python,R,6,479.6,South America,2,Community & Admin Services,3
+35.2,34277.0,c,1,missing,1,F,single,missing,Excel,Tableau,2,239.0,Africa,2,Science & Research,1
+36.4,125070.0,a,0,missing,1,M,missing,freelancer,Excel,Tableau,9,363.0,Unknown,2,Planning & Operations,2
+58.0,25647.0,c,1,abc,1,M,missing,employed,missing,PowerBI,3,474.8,Asia,2,Engineering & Product Dev,1
+42.452599388379205,68898.0,a,0,missing,1,F,missing,unemployed,Python,missing,10,539.2338129496403,Oceania,2,Community & Admin Services,3
+44.8,76481.0,a,1,002,1,missing,married,freelancer,Python,missing,9,329.0,Unknown,2,Science & Research,0
+38.0,90094.0,a,1,missing,1,missing,missing,missing,Python,missing,6,669.0,North America,2,Science & Research,0
+53.0,95797.0,missing,0,abc,1,F,married,missing,Python,missing,0,509.0,Europe,2,Media & Creative Arts,2
+54.0,95518.0,b,0,missing,1,Other,missing,missing,missing,PowerBI,2,374.6,Africa,2,Healthcare & Therapy,2
+55.0,118123.0,missing,1,003,1,F,married,missing,missing,PowerBI,1,430.8,Europe,2,Science & Research,0
+31.0,51824.0,c,1,missing,1,Other,missing,missing,Python,R,5,342.0,Oceania,2,Healthcare & Therapy,1
+43.4,144593.0,missing,0,abc,1,missing,missing,unemployed,SQL,missing,4,832.0,Africa,2,Community & Admin Services,2
+42.452599388379205,30774.0,missing,0,missing,1,missing,married,employed,missing,Tableau,2,539.2338129496403,Asia,2,Engineering & Product Dev,3
+41.4,112157.0,a,0,missing,0,F,missing,employed,Python,PowerBI,9,84.0,Asia,2,Media & Creative Arts,2
+42.452599388379205,47304.0,missing,0,missing,0,F,married,freelancer,SQL,R,1,539.2338129496403,South America,2,"Business, Finance & Legal",3
+42.452599388379205,121301.0,a,0,abc,1,missing,married,unemployed,missing,PowerBI,0,539.2338129496403,Africa,2,Media & Creative Arts,2
+42.452599388379205,128262.0,missing,1,abc,1,missing,single,missing,missing,PowerBI,4,539.2338129496403,Unknown,2,Engineering & Product Dev,0
+64.0,139102.0,missing,1,001,1,F,single,unemployed,Python,missing,10,997.0,Oceania,2,Science & Research,0
+27.0,30460.0,c,1,abc,1,F,missing,freelancer,missing,R,7,515.0,Europe,2,"Business, Finance & Legal",1
+45.0,41705.0,c,0,003,1,F,missing,freelancer,Python,Tableau,9,196.00000000000009,North America,2,Planning & Operations,3
+42.452599388379205,45485.0,c,0,missing,1,missing,married,employed,SQL,missing,4,539.2338129496403,Africa,2,Engineering & Product Dev,3
+55.0,138324.0,missing,1,abc,0,Other,married,missing,missing,R,8,315.0,Oceania,2,Community & Admin Services,0
+38.2,131367.0,c,0,abc,1,M,married,freelancer,SQL,Tableau,2,970.0,South America,2,Community & Admin Services,2
+40.4,98454.0,missing,0,missing,1,missing,married,freelancer,Excel,missing,10,841.0,Africa,2,Engineering & Product Dev,2
+45.0,145182.0,missing,1,001,1,missing,married,unemployed,Python,Tableau,10,200.0,South America,2,Engineering & Product Dev,0
+42.452599388379205,74668.0,missing,1,001,0,M,missing,employed,SQL,Tableau,3,539.2338129496403,Europe,2,Science & Research,1
+42.452599388379205,18391.0,c,1,002,1,M,single,missing,SQL,PowerBI,8,539.2338129496403,North America,2,Media & Creative Arts,1
+42.452599388379205,7517.0,missing,1,missing,1,F,missing,employed,Python,missing,9,539.2338129496403,Asia,2,Science & Research,1
+45.6,131688.0,missing,1,missing,1,Other,married,freelancer,Python,missing,8,908.0,Asia,2,Media & Creative Arts,0
+33.2,52757.0,missing,1,003,1,missing,married,employed,missing,R,1,350.0,Oceania,2,Science & Research,1
+42.452599388379205,55749.0,b,0,002,1,missing,missing,missing,missing,PowerBI,10,539.2338129496403,Africa,2,Media & Creative Arts,3
+57.0,89873.0,c,0,abc,0,F,married,freelancer,missing,missing,10,450.0,Europe,2,Planning & Operations,2
+39.0,73905.0,missing,1,003,0,Other,missing,freelancer,missing,R,6,662.0,Asia,2,Community & Admin Services,1
+44.4,110927.0,a,1,003,0,missing,single,unemployed,SQL,R,4,283.0,Oceania,2,Community & Admin Services,0
+42.452599388379205,90376.0,missing,0,missing,0,F,missing,freelancer,Excel,PowerBI,3,539.2338129496403,Oceania,2,"Business, Finance & Legal",2
+42.452599388379205,128174.0,a,1,missing,1,F,missing,employed,Excel,PowerBI,10,539.2338129496403,Africa,2,Planning & Operations,0
+40.6,79510.0,b,0,002,1,Other,missing,unemployed,SQL,missing,4,859.0,Unknown,2,Surveying & Real Estate,3
+33.2,90941.0,missing,1,missing,1,M,single,freelancer,Python,missing,3,372.0,Europe,2,Media & Creative Arts,0
+39.2,92297.0,a,1,003,1,F,missing,missing,missing,missing,0,606.0,Africa,2,Community & Admin Services,0
+39.2,119611.0,a,0,003,1,Other,missing,employed,Excel,missing,1,332.0,Asia,2,Surveying & Real Estate,2
+33.2,27997.0,missing,0,missing,0,M,missing,freelancer,missing,missing,2,358.0,Africa,2,Engineering & Product Dev,3
+39.0,94079.0,missing,0,missing,1,M,missing,employed,missing,missing,0,554.0,Africa,2,Engineering & Product Dev,2
+42.452599388379205,63429.0,c,0,abc,0,missing,married,unemployed,SQL,Tableau,4,539.2338129496403,Africa,2,Science & Research,3
+24.0,15342.0,c,0,003,1,Other,married,unemployed,SQL,R,2,671.2,Oceania,2,Media & Creative Arts,3
+35.0,12155.0,c,0,001,1,M,married,missing,Excel,missing,7,854.0,Unknown,2,Media & Creative Arts,3
+30.0,37676.0,b,0,missing,1,F,single,missing,missing,R,5,498.0,Unknown,2,Community & Admin Services,3
+30.0,99334.0,missing,1,missing,1,missing,single,missing,missing,missing,1,288.0,Asia,2,Community & Admin Services,0
+45.0,83825.0,a,1,missing,1,missing,missing,freelancer,Excel,Tableau,3,201.0,North America,2,Engineering & Product Dev,0
+54.0,41757.0,missing,1,001,0,Other,missing,unemployed,missing,Tableau,2,774.0,Africa,2,Community & Admin Services,1
+46.2,33676.0,c,1,abc,0,Other,missing,freelancer,missing,R,0,293.0,Europe,2,Media & Creative Arts,1
+39.0,42838.0,missing,1,missing,1,missing,married,unemployed,Excel,PowerBI,5,451.2000000000001,Asia,2,Science & Research,1
+43.8,129699.0,missing,1,missing,1,F,single,freelancer,missing,missing,4,1016.0,Asia,2,"Business, Finance & Legal",0
+42.452599388379205,30270.0,missing,0,missing,0,F,married,unemployed,SQL,PowerBI,1,539.2338129496403,Africa,2,Planning & Operations,3
+42.452599388379205,64303.0,b,0,missing,1,Other,missing,missing,missing,missing,9,539.2338129496403,Unknown,2,Community & Admin Services,3
+42.452599388379205,43068.0,a,1,missing,1,F,single,unemployed,Excel,Tableau,2,539.2338129496403,Africa,2,Science & Research,1
+38.0,95151.0,a,0,abc,1,F,missing,missing,missing,PowerBI,4,556.2,Asia,2,Community & Admin Services,2
+39.0,53842.0,b,0,abc,1,M,missing,missing,Python,PowerBI,5,651.0,North America,2,Surveying & Real Estate,3
+59.0,64539.0,missing,1,001,1,F,missing,missing,missing,missing,1,540.0,Asia,2,Healthcare & Therapy,1
+42.452599388379205,63158.0,a,0,missing,1,missing,married,missing,missing,missing,0,539.2338129496403,Europe,2,Engineering & Product Dev,3
+50.2,144164.0,c,0,002,1,F,married,unemployed,missing,missing,6,1044.0,North America,2,Community & Admin Services,2
+35.0,141773.0,missing,0,abc,1,F,missing,employed,Excel,R,8,567.6,Asia,2,Healthcare & Therapy,2
+37.0,22515.0,a,1,002,0,missing,married,missing,SQL,missing,6,413.8,Oceania,2,Planning & Operations,1
+30.0,77408.0,c,1,001,0,F,married,freelancer,Python,PowerBI,10,724.0,Europe,2,"Business, Finance & Legal",0
+42.452599388379205,128498.0,a,0,003,1,missing,missing,unemployed,Excel,R,4,539.2338129496403,Asia,2,Engineering & Product Dev,2
+39.0,116649.0,c,0,003,0,missing,single,missing,missing,R,3,649.0,Oceania,2,Healthcare & Therapy,2
+42.452599388379205,32574.0,b,1,003,1,missing,missing,freelancer,Excel,PowerBI,1,539.2338129496403,North America,2,Media & Creative Arts,1
+49.0,118709.0,b,1,missing,1,missing,missing,missing,missing,missing,0,592.8,Africa,2,Media & Creative Arts,0
+36.2,35794.0,a,0,missing,1,missing,single,freelancer,missing,missing,9,544.0,Oceania,2,Planning & Operations,3
+42.452599388379205,11721.0,a,0,002,1,Other,missing,missing,Excel,missing,4,539.2338129496403,Asia,2,Planning & Operations,3
+53.2,70195.0,b,0,001,1,missing,missing,unemployed,SQL,missing,8,443.0,Europe,2,Planning & Operations,3
+42.452599388379205,50103.0,missing,1,003,1,missing,married,freelancer,Python,PowerBI,1,539.2338129496403,Africa,2,Media & Creative Arts,1
+42.452599388379205,53809.0,missing,0,003,1,Other,missing,freelancer,SQL,Tableau,5,539.2338129496403,North America,2,Engineering & Product Dev,3
+25.0,137676.0,missing,1,missing,0,missing,single,unemployed,Excel,PowerBI,9,501.6,Asia,2,"Business, Finance & Legal",0
+36.2,144677.0,c,1,002,1,M,missing,missing,missing,PowerBI,5,573.0,Europe,2,Community & Admin Services,0
+46.0,76771.0,a,0,002,0,F,missing,unemployed,SQL,PowerBI,4,558.0,Africa,2,Science & Research,3
+42.452599388379205,113665.0,missing,0,missing,0,missing,missing,missing,missing,R,5,539.2338129496403,Africa,2,Engineering & Product Dev,2
+42.4,66526.0,c,0,003,1,F,married,missing,missing,Tableau,1,502.0,North America,2,"Business, Finance & Legal",3
+42.452599388379205,64722.0,c,0,002,1,Other,single,missing,missing,missing,7,539.2338129496403,Unknown,2,Community & Admin Services,3
+45.0,122563.0,missing,1,003,1,F,missing,employed,Python,missing,4,128.0,Unknown,2,Planning & Operations,0
+42.452599388379205,39958.0,missing,0,missing,1,Other,missing,freelancer,SQL,missing,8,539.2338129496403,North America,2,Community & Admin Services,3
+42.452599388379205,6776.0,a,0,missing,1,M,single,missing,missing,Tableau,3,539.2338129496403,Africa,2,Engineering & Product Dev,3
+56.0,134754.0,b,0,001,1,missing,missing,missing,missing,missing,2,791.0,North America,2,"Business, Finance & Legal",2
+29.0,117816.0,b,0,001,0,Other,married,unemployed,Python,PowerBI,5,921.0,North America,2,"Business, Finance & Legal",2
+47.2,20964.0,missing,1,missing,1,M,single,missing,Excel,PowerBI,5,813.0,South America,2,Engineering & Product Dev,1
+37.0,23189.0,c,0,missing,1,F,married,freelancer,Excel,Tableau,9,413.8,Asia,2,Community & Admin Services,3
+54.0,51528.0,missing,0,abc,1,missing,single,freelancer,Python,PowerBI,5,374.6,Asia,2,Science & Research,3
+42.452599388379205,31141.0,missing,0,missing,0,missing,missing,missing,missing,missing,1,539.2338129496403,Unknown,2,Media & Creative Arts,3
+53.0,42062.0,a,0,002,1,M,single,missing,missing,PowerBI,8,730.0,Europe,2,"Business, Finance & Legal",3
+48.4,144441.0,missing,1,missing,0,Other,married,missing,SQL,R,10,693.0,Oceania,2,"Business, Finance & Legal",0
+42.452599388379205,11247.0,missing,1,003,1,missing,missing,missing,Python,PowerBI,8,539.2338129496403,Africa,2,Community & Admin Services,1
+30.0,147288.0,c,0,missing,1,missing,single,freelancer,missing,Tableau,5,528.0,Africa,2,Planning & Operations,2
+42.452599388379205,142359.0,c,0,003,1,F,missing,unemployed,SQL,R,1,539.2338129496403,Africa,2,Science & Research,2
+38.6,9087.0,a,1,002,1,Other,married,freelancer,SQL,missing,3,257.0,Africa,2,Planning & Operations,1
+43.0,69532.0,b,1,missing,1,F,missing,missing,Excel,missing,6,892.0,Asia,2,Community & Admin Services,1
+35.0,7734.0,missing,1,missing,1,F,married,employed,Excel,PowerBI,2,567.6,North America,2,Media & Creative Arts,1
+22.0,72239.0,missing,1,missing,1,Other,missing,employed,Excel,missing,3,902.0,Europe,2,Planning & Operations,1
+46.8,14357.0,missing,0,001,1,F,missing,unemployed,Excel,PowerBI,3,757.0,Asia,2,Surveying & Real Estate,3
+42.452599388379205,120873.0,a,0,002,0,Other,single,unemployed,Python,R,2,539.2338129496403,Asia,2,Planning & Operations,2
+47.0,45133.0,b,0,001,0,F,married,freelancer,missing,PowerBI,7,1033.0,North America,2,Engineering & Product Dev,3
+42.452599388379205,47230.0,c,0,003,1,M,single,missing,missing,missing,0,539.2338129496403,Africa,2,Engineering & Product Dev,3
+64.0,42614.0,b,0,001,1,M,single,missing,missing,PowerBI,3,23.0,Africa,2,Community & Admin Services,3
+42.452599388379205,129892.0,missing,1,missing,1,missing,married,missing,missing,R,5,539.2338129496403,Africa,2,Engineering & Product Dev,0
+39.8,99407.0,a,0,003,0,missing,married,freelancer,Excel,missing,4,303.0,Unknown,2,Healthcare & Therapy,2
+42.452599388379205,146950.0,a,1,002,1,F,missing,missing,missing,missing,7,539.2338129496403,Europe,2,Science & Research,0
+36.8,109564.0,c,0,002,0,F,married,missing,SQL,missing,5,868.0,Africa,2,Planning & Operations,2
+42.4,60971.0,missing,0,abc,1,missing,missing,freelancer,missing,missing,0,412.0,Oceania,2,Community & Admin Services,3
+42.452599388379205,105739.0,missing,1,002,1,M,married,missing,missing,Tableau,4,539.2338129496403,Europe,2,Engineering & Product Dev,0
+36.6,56854.0,c,1,003,1,F,married,missing,Python,missing,9,643.0,Asia,2,Science & Research,1
+37.8,22133.0,b,1,001,1,Other,missing,freelancer,SQL,Tableau,3,311.0,North America,2,Surveying & Real Estate,1
+42.452599388379205,122077.0,missing,0,missing,0,Other,single,missing,SQL,Tableau,2,539.2338129496403,Asia,2,Community & Admin Services,2
+42.452599388379205,149787.0,missing,1,missing,0,M,married,missing,Excel,PowerBI,2,539.2338129496403,Asia,2,Science & Research,0
+42.452599388379205,10230.0,c,0,missing,0,missing,missing,missing,Python,R,1,539.2338129496403,South America,2,"Business, Finance & Legal",3
+22.0,108184.0,c,1,missing,0,Other,single,freelancer,missing,missing,0,605.0,Asia,2,Science & Research,0
+36.4,71247.0,a,0,003,1,missing,married,employed,SQL,R,4,569.0,Africa,2,Healthcare & Therapy,3
+45.0,125084.0,b,0,missing,1,F,single,missing,Excel,R,6,525.0,Asia,2,Healthcare & Therapy,2
+42.452599388379205,75853.0,missing,0,003,1,missing,missing,unemployed,Python,R,8,539.2338129496403,Oceania,2,Healthcare & Therapy,3
+42.6,122931.0,b,0,missing,1,M,single,unemployed,Excel,Tableau,5,481.0,Africa,2,Planning & Operations,2
+38.8,24768.0,a,1,missing,1,missing,married,missing,missing,R,10,673.0,Europe,2,Science & Research,1
+57.0,57303.0,b,0,001,1,M,married,unemployed,Excel,PowerBI,6,26.0,Africa,2,Media & Creative Arts,3
+42.4,56720.0,missing,0,missing,0,missing,single,missing,SQL,missing,0,510.0,Europe,2,Media & Creative Arts,3
+29.0,147081.0,a,1,missing,1,F,missing,unemployed,SQL,missing,10,885.0,Europe,2,"Business, Finance & Legal",0
+42.452599388379205,79816.0,a,1,003,1,F,single,freelancer,Python,Tableau,1,539.2338129496403,Asia,2,Science & Research,0
+48.6,20834.0,missing,1,missing,1,M,single,freelancer,missing,R,10,1038.0,North America,2,Engineering & Product Dev,1
+61.0,88640.0,missing,0,missing,1,Other,missing,missing,Python,missing,3,797.0,Africa,2,Media & Creative Arts,2
+55.0,112408.0,missing,0,003,1,missing,missing,unemployed,SQL,missing,6,145.0,Oceania,2,Engineering & Product Dev,2
+42.452599388379205,44160.0,missing,0,001,1,F,married,unemployed,Excel,PowerBI,6,539.2338129496403,Antarctica,2,"Business, Finance & Legal",3
+42.2,135370.0,missing,0,003,1,F,missing,missing,missing,missing,6,902.0,Africa,2,Science & Research,2
+46.2,32790.0,b,0,missing,1,missing,married,unemployed,missing,missing,3,1049.0,North America,2,Engineering & Product Dev,3
+49.0,93756.0,b,0,abc,1,missing,missing,freelancer,Python,Tableau,5,442.0,Asia,2,Science & Research,2
+48.0,114314.0,a,0,003,0,Other,missing,freelancer,missing,R,9,114.0,Asia,2,Science & Research,2
+62.0,65011.0,a,0,abc,1,M,single,missing,SQL,missing,5,278.0,North America,2,Media & Creative Arts,3
+42.452599388379205,74732.0,b,0,abc,0,Other,married,freelancer,Excel,missing,3,539.2338129496403,Europe,2,Media & Creative Arts,3
+58.0,131498.0,missing,0,003,1,missing,married,unemployed,missing,missing,1,1004.0,South America,2,Community & Admin Services,2
+64.0,137154.0,b,0,abc,1,M,missing,unemployed,SQL,R,0,696.0,Europe,2,Media & Creative Arts,2
+42.452599388379205,126881.0,c,0,missing,1,missing,missing,freelancer,Excel,R,7,539.2338129496403,North America,2,Science & Research,2
+42.452599388379205,47703.0,c,0,001,1,M,missing,freelancer,SQL,R,6,539.2338129496403,Unknown,2,Engineering & Product Dev,3
+42.452599388379205,108687.0,c,0,missing,1,Other,single,missing,Excel,Tableau,7,539.2338129496403,Africa,2,Community & Admin Services,2
+22.0,47829.0,a,1,003,1,Other,missing,freelancer,Excel,missing,6,1091.0,Europe,2,"Business, Finance & Legal",1
+42.452599388379205,108806.0,c,0,001,0,missing,single,freelancer,SQL,Tableau,0,539.2338129496403,Asia,2,Community & Admin Services,2
+34.4,64118.0,missing,1,001,0,F,married,missing,Python,R,6,131.0,Europe,2,Engineering & Product Dev,1
+50.2,80927.0,missing,1,missing,1,missing,single,unemployed,missing,PowerBI,3,179.99999999999994,Africa,2,Community & Admin Services,0
+41.0,26135.0,c,0,002,1,F,single,missing,Python,R,8,155.0,Africa,2,Science & Research,3
+52.4,72181.0,c,0,003,1,missing,missing,missing,Excel,missing,9,992.0,Africa,2,Science & Research,3
+42.452599388379205,34541.0,a,1,001,0,F,missing,unemployed,missing,R,5,539.2338129496403,Africa,2,"Business, Finance & Legal",1
+42.4,71147.0,a,0,001,1,M,married,freelancer,SQL,missing,6,410.0,Africa,2,Surveying & Real Estate,3
+42.452599388379205,48321.0,missing,0,missing,1,F,single,employed,Excel,missing,0,539.2338129496403,North America,2,Community & Admin Services,3
+35.0,46808.0,b,1,003,0,F,missing,employed,Python,missing,10,404.0,Europe,2,Healthcare & Therapy,1
+37.0,73871.0,missing,0,001,1,missing,single,employed,Excel,Tableau,7,398.0,North America,2,Planning & Operations,3
+48.6,130757.0,b,0,002,1,missing,missing,employed,Excel,missing,6,1039.0,North America,2,Community & Admin Services,2
+44.0,16543.0,b,1,missing,1,missing,missing,employed,Python,Tableau,3,608.0,Europe,2,Planning & Operations,1
+46.0,119122.0,missing,0,002,1,Other,single,missing,Python,missing,7,184.0,Asia,2,Science & Research,2
+48.4,146758.0,c,0,missing,1,missing,missing,freelancer,missing,R,4,700.0,Africa,2,"Business, Finance & Legal",2
+42.452599388379205,118170.0,b,0,003,0,Other,missing,missing,missing,Tableau,0,539.2338129496403,Europe,2,"Business, Finance & Legal",2
+44.8,146613.0,c,0,002,0,missing,missing,employed,missing,missing,0,476.0,Antarctica,2,Engineering & Product Dev,2
+49.0,149296.0,c,0,missing,1,missing,missing,freelancer,missing,missing,8,465.0,Africa,2,"Business, Finance & Legal",2
+43.0,111954.0,b,0,missing,1,F,married,employed,missing,PowerBI,7,300.40000000000003,Europe,2,Healthcare & Therapy,2
+47.0,111461.0,b,0,missing,1,F,single,employed,Python,PowerBI,3,116.0,Europe,2,Planning & Operations,2
+61.0,36182.0,missing,0,missing,1,M,missing,freelancer,missing,R,3,886.0,Oceania,2,Community & Admin Services,3
+42.452599388379205,15977.0,missing,1,abc,1,Other,missing,missing,missing,missing,1,539.2338129496403,Europe,2,Engineering & Product Dev,1
+42.452599388379205,133531.0,a,1,001,1,M,missing,missing,Excel,PowerBI,3,539.2338129496403,North America,2,Healthcare & Therapy,0
+46.4,93442.0,a,0,abc,1,Other,missing,unemployed,missing,missing,1,299.0,North America,2,Engineering & Product Dev,2
+61.0,12401.0,missing,0,001,0,missing,missing,missing,Excel,R,9,797.0,Africa,2,Engineering & Product Dev,3
+42.452599388379205,123417.0,b,0,001,1,missing,missing,employed,SQL,PowerBI,3,539.2338129496403,Oceania,2,Engineering & Product Dev,2
+49.0,51302.0,missing,1,003,0,F,missing,unemployed,missing,PowerBI,1,917.0,Europe,2,Engineering & Product Dev,1
+26.0,119844.0,missing,0,missing,1,M,missing,missing,Excel,missing,7,593.6,North America,2,"Business, Finance & Legal",2
+42.452599388379205,22547.0,b,1,003,1,missing,married,unemployed,Excel,PowerBI,2,539.2338129496403,Asia,2,Community & Admin Services,1
+54.0,148109.0,c,0,003,1,M,married,missing,missing,PowerBI,8,274.0,North America,2,"Business, Finance & Legal",2
+32.0,107422.0,a,0,001,1,M,missing,missing,missing,PowerBI,4,971.0,Asia,2,Science & Research,2
+38.0,54457.0,missing,0,abc,0,M,missing,missing,missing,PowerBI,2,556.2,Asia,2,"Business, Finance & Legal",3
+34.4,22824.0,missing,0,001,0,F,missing,freelancer,SQL,R,6,724.0,Africa,2,Planning & Operations,3
+45.0,12252.0,a,0,abc,1,missing,married,missing,missing,missing,6,583.0,Oceania,2,Healthcare & Therapy,3
+58.0,80399.0,missing,1,abc,1,missing,single,unemployed,Excel,R,4,100.0,Europe,2,Engineering & Product Dev,0
+43.2,145323.0,c,1,abc,1,missing,married,missing,Python,PowerBI,7,684.0,Oceania,2,Healthcare & Therapy,0
+42.452599388379205,70953.0,b,1,003,0,Other,married,missing,SQL,R,4,539.2338129496403,Africa,2,Science & Research,1
+42.452599388379205,116109.0,a,0,002,1,F,missing,missing,missing,R,3,539.2338129496403,North America,2,Planning & Operations,2
+40.6,81404.0,a,0,missing,1,F,missing,freelancer,SQL,missing,7,858.0,Africa,2,Engineering & Product Dev,3
+42.452599388379205,43362.0,b,0,001,1,M,missing,employed,Excel,Tableau,4,539.2338129496403,Asia,2,Planning & Operations,3
+42.452599388379205,138986.0,missing,0,003,1,missing,missing,missing,Excel,missing,6,539.2338129496403,North America,2,Community & Admin Services,2
+38.0,99721.0,a,1,001,1,M,missing,unemployed,Excel,missing,3,791.0,Asia,2,Planning & Operations,0
+36.4,93501.0,b,1,abc,0,F,missing,missing,Python,Tableau,2,336.0,Europe,2,Engineering & Product Dev,0
+44.8,50047.0,missing,0,missing,1,F,missing,missing,Excel,PowerBI,3,710.0,South America,2,Media & Creative Arts,3
+32.0,50493.0,a,1,001,1,F,missing,missing,missing,missing,6,413.2000000000001,Europe,2,Science & Research,1
+31.0,112094.0,missing,0,002,1,missing,single,missing,Python,Tableau,10,547.0,North America,2,Science & Research,2
+37.8,135818.0,missing,0,abc,1,missing,missing,unemployed,Excel,missing,10,309.0,Europe,2,Science & Research,2
+37.8,97606.0,missing,1,002,1,F,missing,employed,missing,Tableau,10,139.00000000000006,North America,2,Science & Research,0
+44.8,95487.0,c,1,001,1,missing,missing,missing,Excel,missing,4,45.0,Asia,2,Community & Admin Services,0
+43.8,73120.0,missing,0,002,0,missing,married,employed,missing,R,0,222.0,Asia,2,Community & Admin Services,3
+42.4,149919.0,a,1,001,1,missing,missing,unemployed,missing,R,2,417.0,North America,2,Community & Admin Services,0
+49.6,65769.0,b,0,001,0,Other,missing,missing,SQL,Tableau,0,328.0,South America,2,Surveying & Real Estate,3
+40.4,31610.0,b,0,missing,1,missing,missing,unemployed,SQL,missing,2,916.0,Africa,2,Science & Research,3
+43.2,139544.0,a,0,missing,1,missing,married,employed,missing,Tableau,2,691.0,Oceania,2,Community & Admin Services,2
+42.452599388379205,126216.0,a,0,002,1,F,single,employed,missing,Tableau,0,539.2338129496403,Asia,2,Community & Admin Services,2

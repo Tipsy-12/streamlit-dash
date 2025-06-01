@@ -1,0 +1,1001 @@
+name,age,monthly income,ns1,ns2,ns3,city(made-up),nationality,sb,gender,phone,marital status,current employment status,most recent occupation,dbms,visualization tools,experience(in years),days_since_applying,continent,num_skills
+Isaac Herrera,58.0,69196.0,a,0,missing,Lake Tammyview,Azerbaijan,True,missing,4005980037,missing,employed,Museum/gallery exhibitions officer,Excel,PowerBI,3,10.0,Asia,2
+Mrs. Lisa Pope PhD,41.6,147853.0,missing,0,abc,Angelabury,Saudi Arabia,True,M,(732)263-0812x68867,missing,freelancer,Brewing technologist,Python,Tableau,3,1086.0,Asia,2
+Christopher Schmitt,24.0,95165.0,b,1,missing,North Charles,Kazakhstan,True,missing,253-972-2959x17988,missing,employed,"Journalist, newspaper",missing,R,10,671.2,Asia,2
+Carl Dunn,42.8,17012.0,a,1,001,North Charlesshire,Togo,False,M,241-881-5229x57396,missing,missing,Architect,Python,Tableau,5,398.0,Africa,2
+Sherry Morton,36.6,23717.0,c,0,missing,Port Johnview,Guinea-Bissau,False,F,+1-268-393-1282,missing,freelancer,Regulatory affairs officer,missing,Tableau,10,556.0,Africa,2
+Melissa Lopez,21.0,110162.0,b,1,002,Port Williamton,Isle of Man,True,F,391.862.0726,missing,missing,Child psychotherapist,missing,Tableau,4,380.0,Europe,2
+Natalie Castillo,42.452599388379205,117311.0,missing,0,002,North Joshua,Panama,False,missing,132-941-1502x2032,single,employed,Web designer,Excel,Tableau,10,539.2338129496403,North America,2
+Audrey Smith,42.452599388379205,105039.0,missing,0,003,Andrewville,Northern Mariana Islands,True,M,(272)854-5792x0708,missing,freelancer,Barrister's clerk,Excel,R,6,539.2338129496403,Oceania,2
+Melissa Dominguez,47.0,51832.0,missing,1,missing,Port Brianfurt,Cuba,True,missing,(651)583-1122,married,unemployed,"Psychotherapist, dance movement",Python,Tableau,8,235.0,North America,2
+John Myers,38.6,34325.0,c,1,002,Ryanberg,Niger,True,F,825.519.2222x57699,single,employed,Transport planner,missing,PowerBI,8,258.0,Africa,2
+Jennifer Bush,42.452599388379205,48287.0,b,0,missing,Lake Dawnshire,Jamaica,True,F,+1-228-384-2135x730,married,freelancer,Counselling psychologist,missing,R,7,539.2338129496403,North America,2
+Shelly White,46.0,93627.0,a,0,missing,Mindyfurt,Kyrgyz Republic,False,missing,280.432.1736x60738,single,employed,Airline pilot,Excel,Tableau,1,876.0,Asia,2
+Chelsea Long,39.0,132248.0,a,0,002,East Erica,Spain,True,F,101-150-9976x807,missing,unemployed,Transport planner,Excel,PowerBI,10,451.20000000000005,Europe,2
+Thomas Jones,42.452599388379205,19200.0,b,1,abc,Tiffanyburgh,Antigua and Barbuda,True,M,942-642-5573x004,married,unemployed,Fitness centre manager,missing,missing,2,539.2338129496403,North America,2
+Jennifer Barron,42.452599388379205,24761.0,missing,0,001,Tracyland,Nauru,True,missing,001-515-740-7520x066,single,unemployed,Call centre manager,SQL,missing,7,539.2338129496403,Oceania,2
+Michael Rogers,38.0,5565.0,missing,1,abc,New Chadport,Belize,True,missing,+1-668-847-4082x455,missing,unemployed,"Producer, television/film/video",SQL,R,3,284.0,North America,2
+Melanie Lee,42.452599388379205,87209.0,a,1,missing,Amberburgh,South Africa,True,missing,4950674644,married,employed,Communications engineer,missing,PowerBI,2,539.2338129496403,Africa,2
+Wesley Valdez,56.0,69543.0,a,0,001,South Wendyberg,Russian Federation,True,missing,807.585.6760x214,missing,freelancer,Network engineer,SQL,R,3,29.0,Europe,2
+William Lewis,43.0,24016.0,a,0,missing,New Lori,Bahrain,True,M,+1-485-428-3049x373,married,missing,"Therapist, occupational",Python,Tableau,5,344.0,Asia,2
+Zachary Allen,49.0,147401.0,b,0,missing,Rodriguezfort,Russian Federation,True,missing,(995)722-6963x471,single,unemployed,"Engineer, broadcasting (operations)",Python,PowerBI,1,470.0,Europe,2
+Lauren Dominguez,53.0,60215.0,c,0,missing,Robertsside,Lithuania,True,missing,454-704-0647,missing,employed,"Scientist, water quality",Excel,missing,4,597.0,Europe,2
+Stephen Campbell,45.0,73670.0,c,0,missing,South Charles,Uzbekistan,True,missing,(586)309-9012x982,single,employed,"Radiographer, diagnostic",SQL,missing,0,1071.0,Asia,2
+Andrea Smith,42.0,15965.0,b,0,001,New Brandon,Macao,True,F,001-790-650-5581,married,employed,Architectural technologist,Python,missing,6,853.0,Asia,2
+Hector Lee,65.0,51413.0,missing,1,002,South Michael,Bouvet Island (Bouvetoya),True,missing,+1-449-862-6817x0607,married,freelancer,"Surveyor, rural practice",SQL,PowerBI,6,1067.0,Unknown,2
+Victoria Yu,48.0,125665.0,c,1,002,East Briannaside,Palestinian Territory,False,M,265.322.0372x8833,married,missing,Professor Emeritus,Python,R,1,513.0,Unknown,2
+Paula Hutchinson,42.452599388379205,145565.0,c,1,001,Brianberg,Hong Kong,True,F,001-640-464-0965x010,missing,employed,Insurance risk surveyor,Excel,missing,6,539.2338129496403,Asia,2
+Joseph Long,42.452599388379205,139066.0,b,1,missing,Johntown,Hungary,False,Other,+1-299-929-2549x116,missing,employed,"Psychologist, sport and exercise",missing,missing,10,539.2338129496403,Europe,2
+Mr. Robert Cole,38.6,23343.0,c,0,003,Lake Daniel,Angola,True,Other,001-582-990-2013,missing,missing,Control and instrumentation engineer,Python,missing,4,103.0,Africa,2
+Mandy Oconnell,26.0,104390.0,c,0,missing,Aprilland,Paraguay,True,missing,(022)656-1218x7030,single,freelancer,Travel agency manager,Python,Tableau,6,593.6,South America,2
+Paul Figueroa,52.8,120909.0,a,0,abc,East Christine,Kazakhstan,False,M,+1-516-129-3372,missing,employed,Mining engineer,SQL,R,3,7.0,Asia,2
+Jamie Obrien,27.0,129554.0,b,0,abc,Lake Kyle,Belarus,False,missing,075-735-5797,missing,unemployed,"Therapist, drama",SQL,PowerBI,1,383.0,Europe,2
+Shannon Stevens,32.0,70325.0,b,0,002,Seanshire,Japan,True,missing,744-501-4743x0584,missing,missing,"Designer, industrial/product",missing,missing,6,413.20000000000005,Asia,2
+Krista Nelson,46.0,69812.0,b,0,abc,New Johnfort,Norfolk Island,False,Other,2825052849,single,freelancer,Conference centre manager,SQL,R,5,672.0,Oceania,2
+Barry Burton,52.0,105410.0,c,0,001,Johnland,El Salvador,True,missing,001-517-776-8117x003,missing,missing,Sales promotion account executive,Excel,Tableau,6,714.0,North America,2
+Ruben Martin,41.0,104714.0,missing,1,003,Lake Judithburgh,Botswana,True,missing,(294)493-6976,married,missing,Software engineer,SQL,R,6,161.0,Africa,2
+Angela Thomas,46.4,110989.0,c,0,002,Ortizland,Cuba,True,missing,845-357-5003,single,employed,Commercial/residential surveyor,missing,Tableau,7,780.0,North America,2
+Jerome Zuniga,42.452599388379205,124196.0,c,0,abc,North Anthonyfort,Svalbard & Jan Mayen Islands,True,missing,620.694.9930x75902,single,missing,Oceanographer,Excel,missing,0,539.2338129496403,Unknown,2
+Kathy Johnson,50.2,15553.0,a,0,002,East Barbara,United States Virgin Islands,True,missing,019-220-6556,married,unemployed,"Engineer, aeronautical",missing,PowerBI,9,1042.0,North America,2
+John Torres,35.8,48984.0,b,0,003,Michelemouth,Greenland,True,missing,+1-338-023-5504x912,missing,missing,"Engineer, aeronautical",missing,missing,3,564.0,North America,2
+Christopher Lewis,36.8,84058.0,b,0,001,Fowlerfort,Saint Lucia,True,missing,+1-661-050-1124x599,missing,employed,Conference centre manager,missing,R,0,248.0,North America,2
+Donald Strickland,49.0,125517.0,c,1,002,South Michaelmouth,Puerto Rico,True,missing,(653)669-4143x1283,missing,missing,Health and safety inspector,missing,missing,4,592.8,North America,2
+Anthony Lee,33.0,68927.0,missing,0,missing,Greenfurt,New Zealand,True,Other,+1-480-842-5240x050,missing,freelancer,Government social research officer,SQL,missing,3,21.0,Oceania,2
+Patricia Robertson,48.0,77422.0,missing,1,missing,Brownborough,Ireland,False,M,745.025.7085x713,missing,missing,Corporate investment banker,missing,Tableau,7,122.0,Europe,2
+Phillip Collins PhD,42.452599388379205,29393.0,b,0,abc,Danielleton,Cambodia,False,Other,(186)264-8348x23113,missing,missing,Ceramics designer,missing,missing,5,539.2338129496403,Asia,2
+Jaclyn Morales,40.4,123946.0,b,1,003,Sharonmouth,Guadeloupe,False,M,(029)028-1963x66055,married,freelancer,Midwife,Excel,missing,2,917.0,North America,2
+Deanna Monroe,42.452599388379205,142530.0,b,1,002,North Noahstad,French Polynesia,True,F,001-055-206-9314,married,freelancer,"Therapist, occupational",Excel,missing,2,539.2338129496403,Oceania,2
+Robert Atkinson,20.0,38103.0,missing,1,001,Lake Marthashire,Mali,True,missing,026.589.2997x601,missing,freelancer,Food technologist,SQL,PowerBI,4,526.6,Africa,2
+William Khan,25.0,19053.0,c,0,missing,Ortizstad,Guinea-Bissau,True,M,391-726-8528,single,missing,English as a second language teacher,missing,missing,9,501.6,Africa,2
+Jacqueline Thomas,42.452599388379205,121056.0,b,0,abc,Gabrielaton,Lebanon,True,missing,001-460-336-6472x482,single,missing,"Embryologist, clinical",Excel,Tableau,10,539.2338129496403,Asia,2
+Melissa Wood MD,43.2,50564.0,missing,1,002,Port Raven,Cook Islands,True,missing,9410097954,missing,freelancer,Writer,Excel,Tableau,4,691.0,Oceania,2
+Andrea Rogers,42.452599388379205,66190.0,b,0,missing,West Austinberg,Nigeria,False,missing,(716)392-4048x65802,married,unemployed,Field trials officer,Python,Tableau,1,539.2338129496403,Africa,2
+Brandon Howell,42.452599388379205,80657.0,missing,1,abc,Chavezborough,Togo,True,missing,+1-823-306-4353x937,missing,missing,"Surveyor, minerals",Excel,missing,0,539.2338129496403,Africa,2
+Felicia Ford,42.452599388379205,28940.0,a,0,missing,Lake Ericchester,Antarctica (the territory South of 60 deg S),True,Other,624.579.5091,single,unemployed,Automotive engineer,missing,missing,10,539.2338129496403,Unknown,2
+Lisa Schroeder,35.0,133902.0,b,0,003,West Arthur,Guadeloupe,True,Other,101-463-3567,single,unemployed,Catering manager,Python,missing,7,567.6,North America,2
+Kimberly Macias,42.452599388379205,28084.0,c,1,003,West Christinahaven,Namibia,True,missing,307-541-1660,single,missing,"Psychologist, forensic",missing,missing,0,539.2338129496403,Africa,2
+Kristi Cummings,42.452599388379205,120878.0,a,0,003,Richardbury,Lesotho,False,Other,+1-397-188-7852x094,missing,employed,Broadcast engineer,Excel,missing,3,539.2338129496403,Africa,2
+Rachel Miranda,42.452599388379205,111952.0,b,0,001,Schwartzville,Samoa,True,M,520-798-2388,married,missing,Training and development officer,Python,missing,4,539.2338129496403,Oceania,2
+Jeffery White,35.2,42917.0,missing,0,missing,Port Dominiqueberg,Belgium,False,M,001-942-687-1894x27930,missing,freelancer,Computer games developer,missing,R,0,874.0,Europe,2
+David Montes,42.452599388379205,133356.0,c,0,missing,Caitlinstad,Syrian Arab Republic,True,Other,347-408-1666,missing,missing,Podiatrist,Python,Tableau,3,539.2338129496403,Asia,2
+Robert Lopez,42.0,128987.0,missing,1,missing,Carrhaven,French Polynesia,False,missing,073.605.1346x7211,married,missing,"Producer, radio",missing,R,1,309.0,Oceania,2
+Austin Lester,42.452599388379205,42789.0,missing,0,001,Yolandafurt,Martinique,True,Other,001-059-540-6718x227,missing,employed,"Surveyor, insurance",Python,missing,6,539.2338129496403,North America,2
+Christopher Tran,42.452599388379205,14410.0,b,0,missing,Taylortown,United Kingdom,True,F,999-029-5235x3392,single,missing,Podiatrist,Excel,PowerBI,7,539.2338129496403,Europe,2
+Roy Perkins,49.0,19711.0,b,0,003,Mirandaton,Iran,True,F,211-229-9690,missing,missing,Orthoptist,SQL,Tableau,2,449.0,Asia,2
+Michael Jones,42.452599388379205,135460.0,c,0,abc,Lake Nicoleton,Heard Island and McDonald Islands,True,missing,0539686182,single,missing,Armed forces training and education officer,Python,missing,2,539.2338129496403,Antarctica,2
+Heather Edwards,42.452599388379205,116230.0,b,0,003,Martinezfort,Singapore,False,missing,(963)876-9289,single,unemployed,Tourist information centre manager,missing,missing,5,539.2338129496403,Asia,2
+Mary Lewis,45.0,108758.0,b,1,missing,Kathrynmouth,Netherlands,True,missing,046-924-6024,missing,freelancer,"Engineer, agricultural",SQL,missing,5,524.0,Europe,2
+Kathleen Moreno,58.0,40855.0,b,1,003,Willieborough,Panama,True,M,001-428-847-1241x312,missing,unemployed,Education administrator,Excel,R,5,474.8,North America,2
+David Turner,44.0,146402.0,c,0,missing,Port Elizabethfurt,Peru,True,F,001-607-220-2871x929,missing,freelancer,"Production assistant, radio",Python,PowerBI,7,199.0,South America,2
+Anna Austin,27.0,100885.0,b,1,001,Robinsonville,Taiwan,True,missing,990-951-7260x43210,missing,freelancer,Software engineer,Python,missing,6,515.0,Asia,2
+William Fisher,41.0,90984.0,a,1,missing,Huffton,Saint Martin,True,Other,001-156-656-8112x7988,missing,employed,Health promotion specialist,SQL,PowerBI,0,732.0,North America,2
+Elizabeth Mcintyre,49.0,145914.0,c,1,abc,Laurastad,Netherlands Antilles,True,missing,726-897-3827x10292,married,missing,"Research officer, political party",Excel,missing,9,1049.0,Unknown,2
+Lisa Davis,35.0,121574.0,a,0,001,Arellanohaven,Malta,True,missing,836.114.4022x22742,missing,employed,Site engineer,missing,R,3,280.0,Europe,2
+Brenda Bernard,47.0,10598.0,a,0,002,Sabrinafort,Vanuatu,False,missing,(166)792-0805,single,missing,Community arts worker,SQL,missing,3,197.0,Oceania,2
+Billy Young,39.0,42929.0,c,0,003,Johnsonhaven,Belize,False,M,(755)980-3533x9988,single,unemployed,Accounting technician,Excel,R,3,451.20000000000005,North America,2
+Alexander Rice,38.0,38228.0,missing,0,001,South Raymondside,Guam,True,missing,(755)157-7991,missing,missing,Local government officer,missing,PowerBI,7,714.0,Oceania,2
+Tammy Holder,38.2,141695.0,b,0,missing,Mariaburgh,Guatemala,True,M,+1-561-378-0578x420,missing,missing,Hospital doctor,Excel,missing,7,342.0,North America,2
+Sherri Mahoney,42.452599388379205,38080.0,b,0,missing,Millerton,Thailand,True,missing,599-156-0004x6101,missing,missing,Optometrist,missing,missing,6,539.2338129496403,Asia,2
+Jamie Hess,62.0,61367.0,missing,0,002,Davidview,Netherlands Antilles,True,Other,146-489-0365x7940,missing,missing,"Scientist, research (physical sciences)",Excel,R,6,761.8,Unknown,2
+Kimberly Lee,43.4,129326.0,b,1,001,West Edward,French Polynesia,True,missing,(668)197-6720x158,missing,unemployed,Clinical cytogeneticist,missing,PowerBI,9,986.0,Oceania,2
+Jose Williams,39.8,115870.0,a,1,missing,Lake Josephmouth,Romania,True,Other,808.673.1314,married,unemployed,Event organiser,missing,Tableau,1,490.0,Europe,2
+Eugene Jackson,52.4,64286.0,missing,0,missing,Lake Dennis,Norway,True,missing,(142)960-7376,missing,employed,Research scientist (maths),SQL,R,4,991.0,Europe,2
+Devon Clark,40.0,110063.0,b,0,missing,Robertstad,Eritrea,True,M,001-295-092-8027x504,married,missing,Contractor,missing,missing,5,749.0,Africa,2
+Xavier Jenkins,42.4,27270.0,a,0,002,New Benjamin,Georgia,True,M,253-892-2888x25451,missing,missing,"Geologist, engineering",missing,missing,7,411.0,Asia,2
+Faith Wolfe,35.0,117699.0,b,1,missing,Edwardsmouth,India,True,missing,(550)102-6564,missing,employed,Sports administrator,SQL,missing,9,567.6,Asia,2
+Elizabeth Lopez,18.0,40975.0,b,1,003,West David,Sri Lanka,True,M,121.733.0318x1642,missing,unemployed,Furniture designer,SQL,missing,8,721.0,Asia,2
+Andrew Sanchez,42.452599388379205,97842.0,b,1,missing,New Joelshire,Togo,True,missing,+1-928-736-6241x865,missing,employed,"Designer, exhibition/display",Python,missing,6,539.2338129496403,Africa,2
+Charles Velasquez,42.452599388379205,111176.0,a,0,002,East Samantha,Honduras,True,Other,6620010620,missing,employed,Corporate investment banker,SQL,missing,9,539.2338129496403,North America,2
+Lisa Williams,51.0,94001.0,a,0,002,Port Randallfurt,Senegal,True,missing,313-885-6435x7643,single,missing,Insurance broker,missing,Tableau,5,725.8,Africa,2
+Darryl Jones,45.0,43389.0,b,0,002,Andrewside,Cook Islands,False,M,001-544-820-2981,missing,missing,Multimedia specialist,missing,missing,7,203.0,Oceania,2
+Devon Nelson,42.452599388379205,87873.0,c,0,001,Garciabury,Ghana,True,missing,920.688.2605,missing,freelancer,Purchasing manager,missing,PowerBI,5,539.2338129496403,Africa,2
+William Lawrence,42.452599388379205,19913.0,c,1,001,New Beckytown,Svalbard & Jan Mayen Islands,True,missing,001-896-172-4778x0263,missing,missing,Materials engineer,missing,missing,0,539.2338129496403,Unknown,2
+Jo Liu,41.6,129683.0,missing,0,001,West Patrickstad,Algeria,True,M,854.380.9569x8717,single,missing,Rural practice surveyor,SQL,PowerBI,3,1093.0,Africa,2
+Jennifer Matthews,42.452599388379205,46614.0,c,0,003,Nguyenstad,Tanzania,True,missing,+1-453-309-5464x4876,single,freelancer,"Designer, graphic",Excel,R,1,539.2338129496403,Africa,2
+Whitney Schultz,43.4,44419.0,c,1,missing,Merrittport,Maldives,False,Other,001-426-594-5589x6301,missing,unemployed,Volunteer coordinator,missing,PowerBI,4,598.0,Asia,2
+Natasha Ellison,48.0,142990.0,b,1,missing,South Albertton,Ecuador,True,M,+1-423-645-7731x394,missing,unemployed,Surgeon,SQL,R,7,821.0,South America,2
+Nicholas Coleman,32.0,31513.0,missing,0,missing,New Codyburgh,Malawi,True,Other,(045)861-5232,married,missing,Scientific laboratory technician,missing,Tableau,2,140.0,Africa,2
+Maria Lee,46.8,16453.0,missing,0,missing,Mcconnellville,Zambia,False,missing,546.778.4989x84287,missing,missing,Clinical embryologist,SQL,missing,3,1033.0,Africa,2
+Megan Lara,48.0,120499.0,missing,1,abc,East Davidfurt,Latvia,True,F,(512)928-8232x54878,married,freelancer,"Scientist, biomedical",Excel,missing,5,591.0,Europe,2
+Brenda Green,42.452599388379205,79727.0,b,0,003,New Zachary,Guatemala,True,missing,834.753.1015x6665,missing,employed,Chief Financial Officer,SQL,missing,5,539.2338129496403,North America,2
+Nicole Jackson,44.0,66807.0,missing,1,003,East Mistyhaven,Bulgaria,False,M,064-596-8196,single,freelancer,Mudlogger,SQL,Tableau,0,384.8,Europe,2
+Zachary Williams,48.4,127974.0,missing,0,001,Port Russellfurt,Zambia,True,M,+1-059-216-6187x865,married,unemployed,Wellsite geologist,missing,missing,8,693.0,Africa,2
+Raymond Booth,39.2,17517.0,a,1,missing,New Timothy,Central African Republic,True,M,4671580242,missing,missing,"Horticulturist, commercial",missing,PowerBI,10,1067.0,Africa,2
+Maureen White,54.0,5410.0,c,0,missing,East Nicole,Gibraltar,True,F,001-461-534-8728,single,missing,Futures trader,Python,PowerBI,8,1054.0,Europe,2
+Kimberly Ingram,42.452599388379205,128243.0,a,1,003,Lopezchester,Vietnam,True,M,0124139533,single,freelancer,Brewing technologist,SQL,PowerBI,9,539.2338129496403,Asia,2
+Holly Wright,39.0,93748.0,c,0,missing,Sanchezmouth,Nepal,True,F,7879511674,single,missing,Water engineer,Excel,R,3,109.00000000000006,Asia,2
+David Davis,30.0,140104.0,missing,0,abc,Stevenside,Canada,True,M,(366)192-5013x51850,married,freelancer,Warehouse manager,Python,PowerBI,10,309.0,North America,2
+Johnny Johnson,35.0,109863.0,missing,1,003,Xaviermouth,Bosnia and Herzegovina,False,missing,(789)670-7826x0804,missing,freelancer,"Psychologist, sport and exercise",missing,R,1,542.0,Europe,2
+Daniel Hernandez,45.0,52305.0,missing,1,003,New Brady,Swaziland,True,M,921.774.2247x1711,missing,freelancer,Secretary/administrator,missing,missing,6,531.4,Africa,2
+Emily Joseph,43.4,97421.0,missing,1,missing,Lake Tiffanyport,Mozambique,True,M,119.037.9193x3533,missing,freelancer,"Psychologist, forensic",missing,Tableau,0,838.0,Africa,2
+Tracey Sanders,42.452599388379205,22624.0,a,0,003,North Kenneth,Nauru,True,missing,+1-744-795-8435x641,married,missing,"Therapist, nutritional",Python,R,7,539.2338129496403,Oceania,2
+Vanessa Jones,54.0,87414.0,b,0,001,Adrianbury,Falkland Islands (Malvinas),True,F,103-530-7406x06289,missing,missing,Community pharmacist,Excel,R,4,374.6,South America,2
+James Ryan,46.0,133765.0,a,1,002,Heatherside,Ghana,True,missing,5211558523,missing,employed,"Surveyor, planning and development",Python,R,1,672.0,Africa,2
+Nicole Hernandez,44.2,50636.0,c,0,002,Dennismouth,Egypt,True,F,(685)395-8366x282,married,missing,Medical illustrator,Excel,R,8,807.0,Africa,2
+Stephanie Drake,42.452599388379205,27600.0,b,1,abc,Port Paulshire,Azerbaijan,True,missing,+1-498-500-1764x478,missing,missing,Rural practice surveyor,Excel,Tableau,5,539.2338129496403,Asia,2
+Theodore Mooney,42.452599388379205,95312.0,c,0,missing,Lorimouth,Rwanda,False,F,001-062-933-7783x64868,single,employed,"Education officer, community",missing,Tableau,4,539.2338129496403,Africa,2
+Amanda Oconnor,42.4,141025.0,b,1,003,Lake Richard,Bahamas,False,missing,+1-780-801-0111x69819,married,freelancer,Animal nutritionist,missing,missing,1,530.0,North America,2
+Sarah Campbell,59.0,45421.0,c,0,missing,North Rogermouth,China,True,missing,170-811-6326x9997,single,employed,"Horticulturist, commercial",Excel,missing,4,540.0,Asia,2
+Melissa Butler,42.452599388379205,12939.0,missing,0,003,Port Jenniferview,Indonesia,True,missing,069.297.7785x433,missing,freelancer,Immunologist,missing,PowerBI,0,539.2338129496403,Asia,2
+Robert Taylor,42.452599388379205,94179.0,c,0,missing,Port Christina,Saint Helena,True,Other,1674844940,married,freelancer,Tourism officer,missing,missing,1,539.2338129496403,Unknown,2
+Natasha Roberts,46.2,69990.0,c,1,001,New Arielton,Isle of Man,True,missing,142-645-6615x91314,missing,unemployed,Photographer,SQL,R,9,292.0,Europe,2
+Robin Hubbard,38.0,139932.0,missing,0,003,Rangelstad,Saint Pierre and Miquelon,True,M,524-079-6563,missing,missing,"Doctor, hospital",missing,Tableau,3,510.0,North America,2
+Joshua Jones,40.0,128361.0,b,0,001,Mariobury,Saint Lucia,True,missing,(790)698-1931x122,missing,freelancer,Theatre director,missing,R,0,843.0,North America,2
+Katrina Garcia,42.452599388379205,80655.0,b,1,missing,Caldwellbury,Iran,True,missing,580.829.0181x5797,single,unemployed,Community development worker,Excel,missing,5,539.2338129496403,Asia,2
+Danielle Luna,42.6,138463.0,missing,0,001,Catherinebury,Gibraltar,True,M,8255676123,missing,missing,"Lecturer, higher education",missing,missing,2,1081.0,Europe,2
+Martha Orr,50.0,88500.0,c,1,missing,North Elizabethfurt,Ghana,True,missing,235-342-7506,missing,missing,Product manager,Python,missing,0,765.0,Africa,2
+Dorothy Payne,45.0,85655.0,a,0,abc,Smithland,Lebanon,True,missing,540-745-2141,married,employed,Immigration officer,missing,missing,2,526.0,Asia,2
+Gerald Robbins,42.452599388379205,104664.0,c,0,001,West Barbaraborough,Cuba,True,F,(985)656-5711,missing,freelancer,Actuary,missing,Tableau,6,539.2338129496403,North America,2
+Michelle Yoder,42.452599388379205,128628.0,a,0,missing,East Stanleyhaven,United Arab Emirates,False,missing,255.677.7751x204,missing,missing,Horticultural consultant,missing,R,2,539.2338129496403,Asia,2
+Michael Johnson,42.452599388379205,74300.0,missing,0,002,Shermanborough,Benin,True,missing,288-024-9262,married,freelancer,Metallurgist,Python,Tableau,7,539.2338129496403,Africa,2
+Desiree Myers,42.452599388379205,76685.0,b,1,missing,East Sharon,Samoa,True,missing,0839417786,married,freelancer,Armed forces technical officer,Excel,R,1,539.2338129496403,Oceania,2
+Harold Bailey,36.2,61095.0,a,0,003,Port Shawnmouth,Marshall Islands,True,F,3024790665,married,unemployed,Museum/gallery conservator,Excel,missing,3,574.0,Oceania,2
+Julia Nelson,32.0,128837.0,b,0,001,West Kimberlyshire,Guam,False,missing,426-940-6302x7709,missing,missing,Waste management officer,SQL,R,5,159.0,Oceania,2
+Aaron Myers,59.0,65875.0,missing,1,002,New Nicole,Benin,True,F,775.930.0662x321,missing,missing,Advertising account executive,SQL,R,0,292.0,Africa,2
+Joshua Hill,42.452599388379205,92829.0,b,0,missing,North Kathleenberg,Norway,True,F,651.014.9501x8873,missing,freelancer,"Scientist, marine",SQL,PowerBI,5,539.2338129496403,Europe,2
+Leslie Brandt,39.0,8692.0,c,1,missing,Tammyland,Maldives,False,F,+1-530-373-4367x53495,missing,missing,Marketing executive,missing,R,1,659.0,Asia,2
+Patrick Decker,60.0,130161.0,c,0,001,Zacharyfurt,Palestinian Territory,True,missing,916-662-7568x1705,missing,freelancer,Armed forces training and education officer,Python,R,9,120.0,Unknown,2
+Rebecca Woods,54.0,66945.0,a,1,abc,West Lindsey,Tunisia,True,F,001-046-327-1292x11932,missing,employed,Financial adviser,Python,R,9,276.0,Africa,2
+Jason Shaw,32.0,102943.0,missing,0,abc,New Ralphland,Spain,False,F,284.488.7396x123,single,missing,Clinical biochemist,missing,missing,5,413.20000000000005,Europe,2
+Barbara Thompson,54.0,137510.0,a,0,missing,Lake Michael,Uzbekistan,False,F,773-890-5841x74406,missing,employed,"Scientist, biomedical",SQL,missing,7,49.0,Asia,2
+Michael Baldwin,44.2,139544.0,missing,0,missing,New Craigmouth,Macao,True,missing,390.783.6167x089,missing,employed,"Scientist, water quality",missing,R,0,805.0,Asia,2
+Lisa Norris,38.6,95316.0,b,0,001,Martinezview,Netherlands,True,missing,(081)336-3500x446,missing,missing,Health physicist,SQL,Tableau,10,260.0,Europe,2
+Crystal Rivera,33.2,105264.0,missing,1,abc,Garciamouth,Equatorial Guinea,True,missing,001-194-778-7681x583,missing,employed,Ceramics designer,SQL,missing,6,369.0,Africa,2
+Edwin Alvarado,41.0,10959.0,b,0,missing,Jamesside,Estonia,True,missing,229-076-4146x9664,married,unemployed,Clinical psychologist,missing,R,2,156.0,Europe,2
+Ryan Andersen,36.4,114901.0,a,0,002,Curtishaven,Hungary,True,M,+1-232-277-6597x571,single,missing,Systems developer,missing,PowerBI,3,337.0,Europe,2
+Linda Johnson,42.452599388379205,61955.0,a,0,missing,Aguilarmouth,Serbia,True,F,001-364-137-2395x60407,missing,missing,Jewellery designer,missing,R,3,539.2338129496403,Europe,2
+Tamara Montgomery,42.452599388379205,83774.0,b,1,missing,Lake Christinabury,Macao,False,missing,+1-418-733-9992x1200,missing,employed,Physiotherapist,Python,missing,8,539.2338129496403,Asia,2
+Andrew Vaughn,42.452599388379205,103686.0,c,0,abc,Lake Larry,Papua New Guinea,False,F,261-548-4154,married,missing,Higher education lecturer,Excel,missing,6,539.2338129496403,Oceania,2
+Brooke Smith,40.2,71845.0,a,0,missing,Jaychester,Korea,True,missing,+1-844-394-2815,single,missing,Community development worker,SQL,PowerBI,4,639.0,Unknown,2
+Raymond Vasquez,42.452599388379205,24079.0,a,0,missing,Goodwinmouth,Brazil,False,missing,902.585.3024x9504,missing,freelancer,Financial controller,Excel,Tableau,3,539.2338129496403,South America,2
+Michelle Martinez,42.452599388379205,58611.0,missing,0,missing,Heatherberg,Micronesia,True,Other,031-861-8126x6233,missing,missing,"Teacher, music",Python,R,4,539.2338129496403,Oceania,2
+Dr. Joseph Cortez,42.452599388379205,128074.0,c,0,003,East Roberttown,Egypt,True,missing,742-088-4818,married,unemployed,Equities trader,Excel,R,8,539.2338129496403,Africa,2
+Theodore Brown,42.452599388379205,56430.0,c,0,abc,Davisburgh,Jordan,False,missing,060-617-9575,missing,freelancer,"Scientist, forensic",missing,missing,7,539.2338129496403,Asia,2
+Joshua Johnson,42.4,148273.0,missing,0,missing,Jamesborough,Cook Islands,True,missing,001-467-376-0968,single,employed,"Accountant, chartered management",Excel,missing,2,410.0,Oceania,2
+Erica Gregory,32.0,137574.0,missing,0,001,Christopherfort,Lebanon,True,missing,+1-274-535-0266,single,missing,Chief Technology Officer,missing,missing,0,484.0,Asia,2
+Crystal Malone,38.8,80153.0,a,0,missing,Jessicabury,China,True,F,927.684.1150,single,missing,"Presenter, broadcasting",SQL,Tableau,3,668.0,Asia,2
+Jonathan Anderson,33.2,109044.0,b,0,abc,Port Kenneth,San Marino,True,missing,001-833-502-2137,married,freelancer,Health promotion specialist,Excel,PowerBI,1,360.0,Europe,2
+Vanessa Hogan,42.452599388379205,7477.0,c,1,abc,Shawnstad,Monaco,True,Other,001-940-840-1053x984,single,missing,Sports therapist,Excel,Tableau,3,539.2338129496403,Europe,2
+Mr. Ryan Henry DDS,49.2,24489.0,b,0,missing,East Susanport,India,True,F,(439)059-7192,single,unemployed,Web designer,missing,Tableau,6,169.0,Asia,2
+Dr. David Martin,37.0,107015.0,missing,0,abc,North Lauren,Libyan Arab Jamahiriya,False,M,+1-774-962-4075x8689,missing,employed,Theatre director,Excel,missing,3,413.8,Unknown,2
+Alyssa Cole,42.452599388379205,108993.0,c,1,missing,Port Seanmouth,Guam,True,missing,001-932-932-2103x234,married,freelancer,Geophysical data processor,missing,missing,6,539.2338129496403,Oceania,2
+Carol Jimenez,42.452599388379205,82431.0,a,1,001,West Sean,Svalbard & Jan Mayen Islands,True,F,+1-209-897-6130x87341,married,missing,Hydrologist,Python,R,1,539.2338129496403,Unknown,2
+Amy Fisher,42.452599388379205,75717.0,b,0,001,Allenfurt,China,False,missing,(837)949-6997,missing,employed,Solicitor,Excel,PowerBI,5,539.2338129496403,Asia,2
+Rachel Williams,42.452599388379205,105987.0,a,1,abc,Lake Sarah,Fiji,True,M,105.336.2305,married,missing,General practice doctor,missing,Tableau,10,539.2338129496403,Oceania,2
+Patrick Berry,28.0,134269.0,c,1,002,Lake Susanborough,Kazakhstan,True,Other,001-752-185-8762x565,missing,missing,Higher education careers adviser,Excel,R,4,506.0,Asia,2
+Michael Noble,42.452599388379205,56261.0,missing,1,002,Port Kevin,Ukraine,True,M,988.623.6184x2258,missing,missing,Computer games developer,missing,R,7,539.2338129496403,Europe,2
+John Kidd,42.452599388379205,89060.0,a,0,003,New Victoriaberg,Cuba,False,missing,354.276.0823x1383,missing,missing,Further education lecturer,missing,Tableau,5,539.2338129496403,North America,2
+Steven Potter,42.4,57376.0,missing,0,missing,South Michaelmouth,Honduras,True,missing,001-477-143-9456x148,married,missing,Event organiser,Python,PowerBI,6,412.0,North America,2
+Rebecca Howard,49.0,45407.0,missing,1,001,Sheltonton,Armenia,True,missing,3347834165,missing,missing,"Nurse, adult",missing,missing,8,381.0,Asia,2
+Steve Patel,42.452599388379205,27277.0,b,0,missing,Natashaburgh,Finland,True,F,144-531-4116x2325,single,missing,Web designer,missing,R,6,539.2338129496403,Europe,2
+Julia Benson,18.0,140999.0,missing,0,missing,South Heather,Ukraine,False,missing,864.490.3632x53191,missing,missing,Insurance claims handler,missing,missing,2,864.0,Europe,2
+Andrew Miller,35.2,27506.0,b,0,003,Rogerstown,Croatia,True,Other,(737)453-0039x13048,married,missing,"Civil engineer, consulting",missing,R,7,238.0,Europe,2
+Kevin Lowe,42.452599388379205,83712.0,a,1,001,Edwardton,Nauru,True,M,(213)814-3404x2584,married,unemployed,Biomedical scientist,missing,Tableau,8,539.2338129496403,Oceania,2
+Maria Mitchell,42.452599388379205,65779.0,missing,0,002,Conleyview,Denmark,True,missing,8874352128,married,missing,Child psychotherapist,missing,missing,6,539.2338129496403,Europe,2
+Ashley Trujillo,63.0,21400.0,b,0,002,West Steven,Philippines,True,Other,+1-023-688-0320x1367,missing,employed,Metallurgist,Python,missing,8,519.0,Asia,2
+Patrick Liu,42.452599388379205,34945.0,c,0,abc,North Jade,Sao Tome and Principe,False,Other,001-187-783-9764,single,unemployed,Armed forces technical officer,Python,PowerBI,3,539.2338129496403,Africa,2
+Natasha Perez,25.0,138909.0,missing,1,missing,Port Marissa,Suriname,False,missing,001-605-092-1148x0464,missing,unemployed,"Scientist, forensic",missing,missing,10,109.00000000000006,South America,2
+Diana Huffman MD,53.0,54046.0,c,0,missing,Mooreport,Nepal,True,Other,(777)862-4399,missing,unemployed,Chemical engineer,SQL,missing,8,411.2,Asia,2
+Kathleen Avila,42.452599388379205,113955.0,missing,0,002,Lake Veronica,Burkina Faso,True,missing,118.982.3627x8214,married,freelancer,"Engineer, mining",Excel,R,3,539.2338129496403,Africa,2
+Mark Rogers,36.0,134843.0,missing,0,001,Lake Richard,Malaysia,True,Other,001-448-753-5112x350,missing,missing,Administrator,Excel,missing,8,629.0,Asia,2
+Robert Clark,45.0,13449.0,missing,1,003,North Markhaven,Gibraltar,True,missing,001-106-666-8412x722,married,unemployed,Careers adviser,missing,R,9,515.0,Europe,2
+Ryan Sanchez,45.0,59164.0,a,1,missing,Murphyshire,Thailand,True,missing,(137)983-9793x85722,married,freelancer,Soil scientist,Python,R,9,531.4,Asia,2
+Laura Rose DDS,48.4,112897.0,a,1,missing,Alexisshire,Rwanda,False,F,252-425-8184x777,married,freelancer,"Radiographer, therapeutic",SQL,missing,7,1020.0,Africa,2
+Amber Li,43.4,103349.0,missing,1,missing,West Bradleytown,Mozambique,True,missing,935-963-5227,missing,freelancer,Plant breeder/geneticist,missing,missing,5,831.0,Africa,2
+Cheryl Thomas,37.2,125179.0,c,1,missing,North Davidchester,Liechtenstein,True,F,001-545-180-9441x7744,married,missing,Exhibition designer,Python,R,4,948.0,Europe,2
+Kristen Casey,37.2,132228.0,c,1,001,Karenchester,Guernsey,True,missing,396.505.6249,single,unemployed,"Therapist, speech and language",missing,missing,0,951.0,Europe,2
+Kimberly Clark,48.4,84132.0,c,1,001,Markburgh,Kenya,True,Other,560-534-0463,missing,unemployed,"Civil engineer, consulting",Excel,missing,10,701.0,Africa,2
+Lauren Woods,46.8,28907.0,b,1,002,Lake Robertostad,Malawi,True,M,865.525.9925x55006,married,missing,Charity fundraiser,missing,PowerBI,0,756.0,Africa,2
+Dawn Ware,39.0,130226.0,b,0,abc,Elizabethhaven,Nigeria,True,M,861-860-4299,missing,freelancer,Health and safety adviser,Python,Tableau,6,451.20000000000005,Africa,2
+Amy Carroll,39.0,7221.0,c,0,003,Karenville,United Kingdom,False,F,(087)392-6685x1433,missing,unemployed,Magazine features editor,Excel,PowerBI,2,957.0,Europe,2
+Alexander Macdonald,42.452599388379205,117561.0,c,0,002,Ericksonbury,Mayotte,True,M,(333)506-8317x527,missing,employed,Animal technologist,Python,Tableau,8,539.2338129496403,Africa,2
+William Wilson,50.0,19304.0,a,0,abc,Stewartmouth,Timor-Leste,True,F,001-495-636-4363x601,single,missing,Sports administrator,Excel,R,5,691.8,Unknown,2
+David Scott,42.452599388379205,50290.0,missing,1,001,Lake Nicole,Aruba,True,M,001-299-909-5088x93385,married,employed,Community education officer,Excel,missing,8,539.2338129496403,North America,2
+Michael Carlson,42.452599388379205,116037.0,missing,1,missing,Davidshire,Mali,False,Other,492-962-0824x223,missing,employed,Archivist,missing,Tableau,2,539.2338129496403,Africa,2
+Alyssa Hampton DDS,42.452599388379205,22331.0,b,1,missing,Ryanport,Cocos (Keeling) Islands,False,M,4648176782,single,missing,"Therapist, art",Excel,missing,9,539.2338129496403,Asia,2
+William Roach,49.0,40969.0,a,0,abc,Christopherville,Belgium,True,missing,380-374-1537,missing,unemployed,Theatre stage manager,Python,Tableau,4,465.0,Europe,2
+Susan Foster,25.0,76298.0,missing,1,003,Lake Cindyview,Djibouti,True,missing,(838)174-4545x467,missing,employed,Operational investment banker,missing,missing,2,741.0,Africa,2
+Kimberly Wood,36.8,35234.0,a,0,001,Greenmouth,Puerto Rico,True,M,4684916784,single,missing,Television camera operator,Python,missing,2,878.0,North America,2
+Linda Morris,42.452599388379205,70080.0,missing,0,003,South James,Italy,True,missing,3853869362,single,missing,Prison officer,Excel,Tableau,3,539.2338129496403,Europe,2
+Amy Griffin,43.2,79005.0,b,0,001,Laramouth,Guam,True,M,554-129-2738,married,freelancer,Data scientist,missing,R,9,683.0,Oceania,2
+Casey Harris,42.452599388379205,56228.0,missing,0,002,New Carolyn,Palestinian Territory,True,missing,261-296-1354,married,missing,Tour manager,Python,PowerBI,5,539.2338129496403,Unknown,2
+Michael Klein,46.8,143887.0,a,1,abc,Gonzalezville,Peru,True,F,+1-882-483-8586x44935,missing,employed,Licensed conveyancer,Excel,Tableau,8,1032.0,South America,2
+Desiree Daugherty,42.452599388379205,27256.0,b,0,002,Curtishaven,Tokelau,True,M,001-569-371-4072,single,missing,Manufacturing engineer,SQL,Tableau,4,539.2338129496403,Oceania,2
+Theresa Davis,42.2,76291.0,a,1,002,East Michelleberg,Malaysia,False,missing,272-630-6145x716,married,employed,Jewellery designer,SQL,missing,7,279.0,Asia,2
+Amanda Reeves,44.0,59430.0,missing,1,abc,Donaldbury,Mali,True,M,288.008.0600,married,freelancer,Forest/woodland manager,missing,PowerBI,3,384.8,Africa,2
+Nicole Miller,27.0,108873.0,missing,1,missing,Reyesmouth,Japan,True,Other,754.698.5447x37199,single,missing,Multimedia programmer,missing,missing,8,569.0,Asia,2
+Monica Smith,47.2,41645.0,b,1,001,Jordanmouth,Congo,False,F,042-997-9144x61032,missing,freelancer,Charity fundraiser,Excel,missing,9,815.0,Africa,2
+Steve Brown,22.0,121242.0,c,1,003,New Teresamouth,Liberia,True,M,001-524-299-1443x6830,single,unemployed,"Research officer, trade union",missing,missing,6,741.0,Africa,2
+Victoria Odonnell,42.452599388379205,61286.0,c,1,003,Smithstad,Costa Rica,True,F,(031)580-7934,married,freelancer,Editorial assistant,missing,missing,8,539.2338129496403,North America,2
+Jason Hall,21.0,114899.0,a,0,002,North Dillonmouth,Cayman Islands,True,missing,(499)057-1712x555,missing,missing,Energy manager,missing,missing,5,46.0,North America,2
+Kevin Medina,42.452599388379205,11832.0,c,0,002,Smithfort,Armenia,True,Other,(536)508-0098x0530,missing,missing,Analytical chemist,Python,missing,3,539.2338129496403,Asia,2
+Angela Henry,24.0,19656.0,a,0,abc,East Christopher,Poland,True,F,3119376543,married,missing,Leisure centre manager,Python,R,9,999.0,Europe,2
+Kelsey Warren,41.6,42251.0,a,0,missing,East Debrafurt,Bulgaria,True,F,001-124-134-0332,single,employed,Music therapist,Excel,Tableau,9,1094.0,Europe,2
+Zachary Allen,42.452599388379205,57812.0,c,0,missing,Amandahaven,British Virgin Islands,False,Other,001-322-790-9637x186,single,unemployed,Estate manager/land agent,missing,Tableau,1,539.2338129496403,North America,2
+Casey Mercer,41.0,108703.0,b,0,003,Catherineland,Norfolk Island,True,F,8002784960,missing,missing,Occupational hygienist,Python,Tableau,8,296.0,Oceania,2
+Dawn Hobbs,34.4,50967.0,missing,1,missing,Michaeltown,Cote d'Ivoire,True,F,510.094.6846,single,missing,Wellsite geologist,missing,missing,0,132.0,Unknown,2
+Jorge Cardenas,42.452599388379205,32291.0,missing,0,003,Paulfurt,Morocco,True,F,323.264.7287,missing,unemployed,Furniture conservator/restorer,Excel,R,7,539.2338129496403,Africa,2
+Scott Stone,34.0,96876.0,b,1,missing,Alexanderland,Azerbaijan,True,M,+1-538-510-6899,missing,missing,"Development worker, international aid",SQL,missing,7,188.0,Asia,2
+Stacy Garcia,42.452599388379205,130695.0,a,0,abc,Collierburgh,Sweden,True,M,271-519-9381,single,freelancer,Stage manager,Python,PowerBI,1,539.2338129496403,Europe,2
+Victoria Sloan,41.8,148404.0,b,0,missing,New Heidibury,Aruba,True,M,001-617-400-0097,married,missing,IT technical support officer,missing,Tableau,0,749.0,North America,2
+Cindy Hunt,39.0,146590.0,b,1,003,South Paul,Korea,False,M,001-931-717-7597x6426,missing,missing,Physiological scientist,missing,missing,2,996.0,Unknown,2
+Scott Coleman,41.0,130915.0,a,1,001,Lake Zachary,Bhutan,False,F,001-607-196-0842x963,missing,employed,Special educational needs teacher,missing,PowerBI,4,479.6,Asia,2
+Joshua Jones,48.4,147639.0,missing,0,003,Lake Timothy,Luxembourg,True,Other,+1-162-091-7027x8083,missing,employed,Secretary/administrator,Python,missing,7,1019.0,Europe,2
+Dean Ortiz,42.452599388379205,30350.0,b,0,missing,South Kristopherport,Tajikistan,True,missing,(351)361-1882x77209,single,missing,Patent attorney,missing,missing,8,539.2338129496403,Asia,2
+Stephanie Stevens,42.6,25697.0,missing,1,missing,Johnsonside,Bahamas,False,M,549-838-2061x50228,married,unemployed,Arboriculturist,SQL,Tableau,2,1082.0,North America,2
+Mariah Ray,45.0,43765.0,b,0,missing,Lake Bobbyton,Nepal,True,M,(682)966-6413x552,missing,missing,"Education officer, community",Python,R,8,531.4,Asia,2
+Julie Anderson,42.452599388379205,114994.0,b,1,002,Barretttown,Armenia,False,missing,661.215.1425,single,employed,Futures trader,missing,PowerBI,4,539.2338129496403,Asia,2
+Rachel Martinez,43.2,132293.0,missing,1,002,East Kevintown,Paraguay,True,missing,001-361-661-8562x8794,missing,employed,Medical sales representative,missing,R,3,692.0,South America,2
+Leslie Cox,46.6,10303.0,c,1,003,Lake Ryan,Netherlands,True,missing,001-882-025-9328x5002,single,unemployed,"Programme researcher, broadcasting/film/video",SQL,R,7,124.00000000000006,Europe,2
+Theresa Randall,42.452599388379205,28406.0,a,0,002,Davidmouth,Saint Pierre and Miquelon,True,missing,(126)838-8021,missing,employed,"Scientist, physiological",missing,Tableau,1,539.2338129496403,North America,2
+Alan Wagner,42.452599388379205,142438.0,a,0,002,Port Williamtown,Nauru,False,M,(650)135-6262x6271,single,missing,Electronics engineer,Excel,R,3,539.2338129496403,Oceania,2
+Jose Hutchinson,42.452599388379205,37472.0,a,0,003,Wiseville,Bermuda,True,missing,(661)174-1890x1321,married,missing,"Therapist, horticultural",missing,missing,5,539.2338129496403,North America,2
+Natalie Mason,46.4,106335.0,a,0,missing,West Vanessa,Saint Helena,False,F,(198)742-7571x408,married,unemployed,"Scientist, product/process development",Python,missing,8,298.0,Unknown,2
+Mary Woods,61.0,50403.0,a,0,003,East Kevinstad,Saudi Arabia,True,Other,+1-790-045-6995x82707,missing,freelancer,"Nurse, mental health",missing,R,3,797.0,Asia,2
+Richard Bradshaw,42.452599388379205,109111.0,b,1,missing,New Alexis,Guatemala,True,missing,+1-014-579-8477x371,missing,freelancer,Paediatric nurse,Excel,missing,1,539.2338129496403,North America,2
+Jeremy Garcia,45.2,73458.0,b,0,002,Chapmanburgh,Indonesia,False,M,421-435-3129x79442,missing,freelancer,"Scientist, audiological",SQL,PowerBI,10,270.0,Asia,2
+Tyler Colon,42.452599388379205,14258.0,a,0,missing,Sanfordborough,Guadeloupe,False,missing,812-684-5773,missing,freelancer,Speech and language therapist,missing,R,2,539.2338129496403,North America,2
+Suzanne Benson,53.0,38539.0,b,0,002,Burkeview,Djibouti,True,M,983-819-6595x39079,missing,unemployed,"Geologist, wellsite",Python,missing,5,124.00000000000006,Africa,2
+Melissa Lee,33.2,35875.0,missing,1,missing,South Jesse,Saint Kitts and Nevis,True,missing,+1-663-033-3161x55578,single,missing,Fisheries officer,missing,R,6,372.0,North America,2
+Matthew Cantu,27.0,124949.0,c,0,missing,Markbury,Saint Barthelemy,False,M,958-457-8100,missing,unemployed,"Engineer, broadcasting (operations)",Python,PowerBI,0,883.0,Unknown,2
+Megan Johns,35.0,46532.0,missing,1,002,Wyattland,Panama,True,missing,001-897-834-9952x9867,missing,missing,Environmental health practitioner,missing,PowerBI,0,315.0,North America,2
+Larry Boone,52.8,89466.0,missing,0,001,New Troyport,Montenegro,True,F,(913)785-0216,missing,freelancer,Restaurant manager,SQL,PowerBI,6,15.0,Europe,2
+Rebecca Wolfe,38.6,16984.0,b,1,abc,Danielside,Slovenia,True,missing,571.702.0196,married,freelancer,Petroleum engineer,missing,R,3,263.0,Europe,2
+Ryan Vasquez,43.0,39394.0,a,1,missing,North Heatherberg,Jordan,False,M,934-999-9258,single,missing,Animal technologist,Python,missing,9,54.0,Asia,2
+Kenneth Johnson,56.0,10175.0,a,1,abc,South Lucas,Anguilla,True,missing,(014)414-3193,missing,missing,Lawyer,SQL,Tableau,10,833.0,North America,2
+Lisa Smith,42.452599388379205,141395.0,b,0,missing,Daviestown,India,False,missing,6308125868,single,freelancer,Historic buildings inspector/conservation officer,Excel,PowerBI,7,539.2338129496403,Asia,2
+Linda Matthews,56.0,57867.0,c,1,003,North Julie,Faroe Islands,False,M,4731770255,missing,unemployed,Retail manager,missing,R,3,609.0,Europe,2
+Jacob Escobar,44.2,134526.0,c,1,missing,West Davidtown,Cook Islands,True,M,5788214561,married,missing,Building control surveyor,Python,R,7,59.0,Oceania,2
+Paul Park,24.0,99428.0,c,1,missing,Ericachester,Turkmenistan,True,M,811-217-6383,single,unemployed,"Designer, jewellery",SQL,R,5,956.0,Asia,2
+Vincent Simon,42.4,94842.0,c,1,abc,North Cindyview,Montserrat,True,missing,153-670-6914,missing,missing,"Surveyor, mining",missing,Tableau,1,502.0,North America,2
+April Solomon,49.0,46784.0,b,1,missing,Owensfort,Zambia,True,missing,834-197-1402,missing,unemployed,English as a foreign language teacher,missing,missing,5,453.0,Africa,2
+Daniel Brown,46.8,132958.0,b,1,abc,East Edward,Belize,True,M,+1-574-957-5322x205,missing,employed,Oncologist,missing,missing,9,1032.0,North America,2
+Brian Palmer,42.452599388379205,29967.0,missing,0,abc,Thomasburgh,Macedonia,True,missing,001-062-517-1287x1075,single,employed,Structural engineer,SQL,missing,7,539.2338129496403,Europe,2
+Thomas Holt,28.0,91742.0,b,1,missing,East Jessica,Cote d'Ivoire,False,missing,561.533.2454x116,missing,missing,Forensic scientist,SQL,PowerBI,7,607.8,Unknown,2
+Dennis Proctor,45.0,122196.0,c,1,abc,Wilsonfurt,Austria,True,M,1625874472,missing,employed,Newspaper journalist,missing,missing,0,165.0,Europe,2
+Misty Hawkins,48.4,59224.0,missing,0,003,Gonzalezburgh,Kenya,True,F,5394710184,missing,missing,"Psychologist, forensic",missing,missing,7,1019.0,Africa,2
+Crystal Abbott,42.452599388379205,63129.0,a,0,003,Heathfurt,Gibraltar,True,missing,030-154-7629x945,missing,employed,Medical illustrator,Excel,Tableau,7,539.2338129496403,Europe,2
+Nathan White,42.452599388379205,56359.0,a,1,abc,Chandlerport,Algeria,False,missing,4659005532,missing,employed,Analytical chemist,missing,PowerBI,10,539.2338129496403,Africa,2
+Carl Neal,55.0,137172.0,c,0,001,Thompsonchester,Iraq,True,missing,(823)864-1952,missing,missing,Glass blower/designer,SQL,missing,2,430.8,Asia,2
+Anthony Gregory,26.0,89369.0,missing,1,abc,Wyattfurt,Costa Rica,False,Other,902.677.7174x28070,missing,freelancer,Amenity horticulturist,missing,Tableau,2,593.6,North America,2
+Joseph Fry,42.452599388379205,148604.0,c,0,missing,Santosfurt,Sierra Leone,False,F,+1-579-008-8262x426,missing,freelancer,"Nurse, learning disability",SQL,Tableau,8,539.2338129496403,Africa,2
+Scott Richards,39.2,97337.0,missing,0,missing,Riversfurt,Azerbaijan,True,missing,463.186.6895,missing,employed,Claims inspector/assessor,missing,PowerBI,0,149.0,Asia,2
+Ashley Nelson,27.0,47188.0,b,1,002,West Rita,Dominican Republic,True,Other,(045)747-6511x94640,single,freelancer,Farm manager,missing,PowerBI,9,79.99999999999994,North America,2
+Juan Fisher,46.8,106944.0,a,0,missing,South Richardland,Gambia,True,M,+1-320-725-9686x34565,missing,missing,"Doctor, general practice",Python,missing,0,1031.0,Africa,2
+Danielle Curtis MD,49.0,121146.0,a,0,missing,Lowefort,Mexico,False,F,+1-815-137-1750x5855,missing,unemployed,Control and instrumentation engineer,Excel,Tableau,2,449.0,North America,2
+Briana Bennett,50.0,78167.0,missing,1,002,Simmonsstad,Bouvet Island (Bouvetoya),False,missing,356.060.4497x8657,single,freelancer,Recycling officer,missing,Tableau,0,691.8,Unknown,2
+Melissa Stein,44.2,83945.0,missing,0,missing,Stevensmouth,Malta,True,M,+1-775-988-3016x5161,missing,missing,Museum education officer,SQL,Tableau,8,808.0,Europe,2
+Theresa Harper,50.0,110753.0,b,0,002,Hillberg,Macao,False,Other,+1-060-230-3910x6526,missing,freelancer,Geographical information systems officer,SQL,missing,8,691.8,Asia,2
+Jared Brown,39.8,95703.0,missing,0,missing,Lake Maryport,Estonia,False,M,+1-223-330-1884x53651,missing,missing,"Therapist, nutritional",Excel,missing,4,487.0,Europe,2
+Alyssa Hernandez,43.8,103293.0,missing,0,abc,Port Miguelberg,Lithuania,True,M,(263)386-8769x1016,married,freelancer,Radiation protection practitioner,missing,PowerBI,1,1011.0,Europe,2
+Jeffrey Burgess,44.8,60255.0,a,1,001,Janicechester,Brunei Darussalam,False,missing,(736)661-7119,missing,employed,Civil Service administrator,SQL,PowerBI,7,603.0,Asia,2
+Wayne Davenport,39.0,51659.0,b,0,001,East Bradley,Tunisia,False,Other,140-279-0742x51884,missing,missing,"Programmer, applications",missing,missing,5,524.0,Africa,2
+Michael Marks,45.0,21577.0,a,1,003,East Bobby,Trinidad and Tobago,True,Other,(778)069-3239,missing,missing,"Producer, radio",Excel,R,7,1069.0,North America,2
+Sarah Trujillo,37.8,144845.0,a,0,missing,Lake Brianport,Bermuda,True,missing,062-882-4491x637,married,freelancer,Regulatory affairs officer,Python,PowerBI,8,306.0,North America,2
+Cindy Diaz,27.0,108306.0,missing,0,001,New Jasonfort,Trinidad and Tobago,True,F,118-615-1765x29847,missing,unemployed,Magazine features editor,missing,missing,2,660.0,North America,2
+Cindy Cooper,29.0,55941.0,b,0,missing,North Joshuafort,Palau,True,missing,001-888-014-8928x749,single,freelancer,Chiropodist,Excel,R,1,584.8,Oceania,2
+Kayla Hall,42.452599388379205,98621.0,c,0,001,Timothychester,Fiji,True,missing,(734)973-2557,married,freelancer,Television camera operator,missing,missing,5,539.2338129496403,Oceania,2
+Timothy Phillips,42.452599388379205,100549.0,c,1,002,West Angela,Iceland,True,Other,526.957.2138,married,missing,"Conservation officer, historic buildings",Python,R,2,539.2338129496403,Europe,2
+Jeremy Arnold,42.452599388379205,99041.0,b,0,missing,North Douglasberg,Pitcairn Islands,True,F,186-983-7664,single,freelancer,Retail banker,SQL,missing,3,539.2338129496403,Unknown,2
+Matthew Murray,46.2,9883.0,missing,1,missing,Lake Matthew,Korea,True,missing,(475)798-5082x18803,single,missing,Housing manager/officer,Python,missing,8,292.0,Unknown,2
+Janet Jones,59.0,81283.0,c,0,missing,Port Christina,Ghana,True,missing,001-338-029-7939x7906,single,unemployed,Lawyer,missing,Tableau,8,981.0,Africa,2
+John Chen,46.0,43325.0,missing,0,001,East Joseph,Guatemala,False,missing,+1-269-075-4313x95971,single,freelancer,Geographical information systems officer,Python,Tableau,0,921.0,North America,2
+Sherry Hunt,43.6,124182.0,a,1,missing,Gibbston,Pakistan,True,M,+1-368-271-1254x7945,missing,freelancer,Chemical engineer,missing,missing,9,591.0,Asia,2
+Brittany Barton,42.452599388379205,25404.0,missing,1,abc,Flemingchester,Bolivia,False,missing,004-736-5839,missing,freelancer,"Social research officer, government",missing,missing,9,539.2338129496403,South America,2
+Veronica Gill,50.0,25208.0,missing,1,002,Gordonbury,Taiwan,False,F,(597)279-8990x9177,missing,missing,"Engineer, manufacturing systems",Excel,Tableau,6,691.8,Asia,2
+Benjamin Mcdonald,64.0,130572.0,a,0,002,Normanmouth,Yemen,True,M,920.135.6657x8950,single,unemployed,Secondary school teacher,missing,missing,2,605.2,Asia,2
+Kristin Myers,40.2,43499.0,a,0,003,Rileyside,Peru,False,missing,455.512.1257,single,freelancer,Intelligence analyst,Excel,Tableau,7,229.0,South America,2
+Zachary Ward,39.0,112680.0,c,0,002,Williamschester,Algeria,True,F,(717)306-9986,missing,missing,Health promotion specialist,missing,missing,1,645.0,Africa,2
+Patrick Taylor,39.8,58044.0,missing,0,missing,Lake Staceyfort,Chad,True,F,001-100-485-6301,single,unemployed,"Engineer, automotive",missing,missing,9,499.0,Africa,2
+Timothy Vincent,33.2,39164.0,missing,1,missing,New Nicolebury,Somalia,True,missing,001-830-472-8760x2910,missing,employed,Learning disability nurse,missing,missing,3,355.0,Africa,2
+Laura Fisher,42.452599388379205,30615.0,missing,0,003,West Steven,Turks and Caicos Islands,True,F,3960937901,missing,missing,Paediatric nurse,missing,missing,4,539.2338129496403,North America,2
+Derek Hall,50.2,35888.0,missing,1,abc,Robersonfort,Austria,False,Other,001-951-040-7117x4490,missing,employed,Magazine journalist,SQL,missing,10,1040.0,Europe,2
+Joseph Stephens,42.452599388379205,100851.0,b,1,002,Cainberg,Guinea,True,missing,(182)181-3733x02951,missing,unemployed,Barrister's clerk,Python,missing,8,539.2338129496403,Africa,2
+Rachel Miller,42.452599388379205,109367.0,c,1,missing,Clementston,Cook Islands,False,missing,876.985.4025,married,employed,"Engineer, manufacturing systems",SQL,missing,6,539.2338129496403,Oceania,2
+John Smith,39.0,6386.0,b,0,abc,Juanmouth,Uruguay,True,M,+1-066-471-7226,missing,unemployed,Arboriculturist,Python,PowerBI,9,580.0,South America,2
+Donna Booker,42.452599388379205,141578.0,b,0,001,Davidbury,Mexico,False,missing,(098)198-5247,single,unemployed,Equality and diversity officer,missing,R,3,539.2338129496403,North America,2
+Dean French,42.452599388379205,49428.0,a,0,002,West Bruce,Tunisia,True,F,400-805-9094,missing,missing,Product/process development scientist,Python,missing,6,539.2338129496403,Africa,2
+Luis Hart,49.6,22987.0,b,0,003,Thomasside,Faroe Islands,True,Other,8425660681,married,missing,Medical sales representative,SQL,missing,6,428.0,Europe,2
+Mrs. Sarah Mcdaniel DDS,39.2,32909.0,missing,1,missing,Elizabethville,Netherlands,True,Other,766-863-5284x965,missing,missing,Geographical information systems officer,missing,R,7,151.99999999999994,Europe,2
+Karen Raymond,39.6,125284.0,missing,0,001,North Christopherburgh,Micronesia,True,M,011-415-7085,single,missing,Surgeon,SQL,Tableau,5,532.0,Oceania,2
+Adrian Hanna,42.452599388379205,74035.0,a,1,001,Alexisland,Hungary,True,Other,(189)005-5327,married,missing,Chief Executive Officer,Python,R,3,539.2338129496403,Europe,2
+Nina Ochoa,35.0,57341.0,a,0,003,South Amy,Finland,False,F,(560)803-4581x78260,married,missing,Land,Python,Tableau,1,935.0,Europe,2
+Eric Stone,42.452599388379205,146944.0,a,0,003,Alexanderport,Aruba,True,missing,249-540-4415x238,missing,missing,Barista,SQL,missing,4,539.2338129496403,North America,2
+Eric Carter,42.8,115933.0,missing,0,001,West Angela,Peru,True,missing,538-592-4961,married,missing,"Administrator, sports",Excel,missing,7,69.0,South America,2
+Kevin Burns,62.0,104464.0,b,0,003,Williamsfurt,Chad,True,F,702-194-3102x015,missing,unemployed,"Scientist, research (life sciences)",Python,missing,9,954.0,Africa,2
+Cameron Prince,41.0,114862.0,c,0,abc,Laurenland,Burkina Faso,True,missing,+1-955-312-6024x46840,married,missing,Dealer,SQL,PowerBI,4,479.6,Africa,2
+Valerie Leblanc,42.452599388379205,44203.0,missing,1,002,Port Michael,Puerto Rico,True,missing,510.705.1257x506,missing,missing,"Solicitor, Scotland",Python,R,8,539.2338129496403,North America,2
+Susan Harrison,44.8,20738.0,a,1,abc,South Julietown,Slovenia,True,missing,001-141-162-7345x65805,missing,freelancer,Forensic scientist,Python,R,8,603.0,Europe,2
+Jessica Rodriguez,37.8,97036.0,a,0,missing,Lake Matthew,Macao,False,Other,(531)550-3786,missing,missing,Quarry manager,missing,missing,1,140.0,Asia,2
+Heather Martin,42.452599388379205,42971.0,c,0,abc,South Tammychester,Fiji,True,M,4176291195,married,freelancer,"Education officer, community",SQL,R,5,539.2338129496403,Oceania,2
+Stacey Young,37.0,108666.0,b,0,003,Port Lauren,Pakistan,True,missing,714.014.7604x7511,married,employed,Medical illustrator,SQL,Tableau,10,551.0,Asia,2
+William Morgan,39.2,109083.0,b,1,001,South Michaelafort,Palestinian Territory,True,missing,(561)306-1320x48036,single,missing,"Production assistant, television",missing,PowerBI,1,938.0,Unknown,2
+Nicholas Fisher,57.0,107195.0,b,0,002,New Jeffreyfurt,Poland,True,missing,(327)141-8525x9062,married,unemployed,Materials engineer,missing,Tableau,0,761.0,Europe,2
+Jennifer Miller,30.200000000000003,127471.0,missing,1,missing,East Christopher,Guatemala,True,F,001-110-922-3975x27616,married,missing,Theatre stage manager,missing,missing,10,740.0,North America,2
+Richard Torres,42.452599388379205,144928.0,b,0,abc,New Michelleland,Turks and Caicos Islands,False,M,798-482-3509x2598,missing,freelancer,Information systems manager,missing,R,2,539.2338129496403,North America,2
+David Beasley,18.0,40730.0,c,1,abc,Nicholasshire,Timor-Leste,True,missing,726-557-6005,missing,employed,Hydrologist,missing,R,9,607.2,Unknown,2
+Cole Griffin,42.4,119584.0,missing,0,002,Alexanderburgh,Philippines,True,missing,6274011006,missing,employed,"Conservator, furniture",missing,Tableau,8,407.0,Asia,2
+Ashley Hartman,48.8,144445.0,b,1,002,Kathrynshire,India,True,F,(900)305-3378,missing,employed,Primary school teacher,missing,missing,7,1004.0,Asia,2
+Denise Sanders,42.452599388379205,10084.0,c,1,missing,Shawburgh,Estonia,True,F,(814)437-2125,missing,freelancer,"Engineer, land",SQL,missing,0,539.2338129496403,Europe,2
+Veronica Gillespie,23.0,94630.0,missing,1,abc,Morantown,Sweden,True,missing,5407475841,single,freelancer,"Therapist, occupational",Excel,Tableau,0,732.0,Europe,2
+Steven Castaneda,43.0,55382.0,b,1,001,South Roberthaven,Croatia,True,F,677-330-8241,missing,unemployed,Colour technologist,Excel,Tableau,7,300.40000000000003,Europe,2
+Alexis Soto,44.8,86817.0,c,0,missing,Port Laurenton,Pitcairn Islands,True,missing,230-575-2009x988,single,freelancer,Furniture designer,missing,R,3,711.0,Unknown,2
+Tonya Jackson,35.2,66857.0,missing,0,001,Harrisborough,Libyan Arab Jamahiriya,False,Other,(427)288-7030,single,missing,Hydrographic surveyor,SQL,PowerBI,0,235.0,Unknown,2
+Stephen Grant,42.452599388379205,28456.0,a,0,abc,Lake Jerry,Finland,True,missing,315.185.1068x8953,single,employed,Commercial/residential surveyor,Python,Tableau,8,539.2338129496403,Europe,2
+Claudia Horton,47.6,96047.0,missing,0,001,East Caleb,Saint Helena,True,Other,6834432927,married,freelancer,Manufacturing engineer,Excel,missing,7,586.0,Unknown,2
+James Roth,42.452599388379205,53923.0,missing,0,003,Sarahmouth,Guatemala,True,Other,692-063-6843,married,employed,Clinical psychologist,missing,Tableau,7,539.2338129496403,North America,2
+Bailey Wells,39.0,137633.0,missing,0,001,Hammondville,Albania,True,missing,(834)175-9711,missing,employed,Special effects artist,missing,missing,3,657.0,Europe,2
+Jacob Solomon,42.452599388379205,79220.0,c,1,missing,Lake Belinda,Dominican Republic,True,M,816.824.2171,single,employed,Transport planner,SQL,Tableau,0,539.2338129496403,North America,2
+Jason Harper,40.0,106868.0,missing,0,missing,Murrayborough,Isle of Man,True,M,628.395.7483,married,missing,Legal executive,Excel,PowerBI,3,206.0,Europe,2
+Emily Lopez,49.0,20912.0,c,0,missing,Garciahaven,Saint Vincent and the Grenadines,True,Other,(482)349-1997,single,missing,Psychiatrist,Python,missing,0,592.8,North America,2
+Sarah Jones,39.2,141179.0,b,1,missing,Taylorside,Belgium,False,missing,(360)902-4052x37617,married,unemployed,Chief Marketing Officer,missing,Tableau,9,618.0,Europe,2
+Kathryn Cordova,42.452599388379205,32659.0,c,0,missing,North Michaelview,Guadeloupe,True,M,001-848-476-2117x27324,married,missing,Clinical embryologist,missing,missing,5,539.2338129496403,North America,2
+Kevin Francis,42.452599388379205,97359.0,c,0,003,Port Dennisstad,Norfolk Island,True,missing,+1-418-131-9295x534,missing,freelancer,Computer games developer,missing,Tableau,9,539.2338129496403,Oceania,2
+Geoffrey Spence,42.452599388379205,71607.0,c,0,abc,New Dorothyshire,Gabon,True,M,550.628.8312x4986,single,freelancer,Computer games developer,missing,PowerBI,8,539.2338129496403,Africa,2
+Amanda Stevens,37.0,61314.0,c,1,missing,East Jacobchester,Puerto Rico,True,missing,610.147.0278x3758,married,employed,"Lighting technician, broadcasting/film/video",Excel,missing,5,406.0,North America,2
+Jennifer Smith,38.6,70498.0,a,1,003,North Michaelport,Guinea-Bissau,True,missing,001-020-740-4698x1506,married,employed,"Surveyor, building control",Python,missing,2,260.0,Africa,2
+Jeffrey Weiss,42.452599388379205,29999.0,b,1,missing,Marilynland,Swaziland,True,M,+1-030-602-7928,missing,freelancer,Industrial buyer,missing,missing,1,539.2338129496403,Africa,2
+Sara Smith,42.452599388379205,105266.0,a,1,missing,South Joanna,Niue,True,Other,573-140-9335x902,married,freelancer,"Surveyor, mining",missing,Tableau,2,539.2338129496403,Oceania,2
+Joel Griffith,42.452599388379205,137311.0,b,0,abc,Garzashire,Mauritius,True,missing,173.614.1604,married,freelancer,Fish farm manager,Excel,missing,9,539.2338129496403,Africa,2
+David Williams,42.452599388379205,109471.0,missing,1,missing,East Andrewhaven,Chile,False,F,+1-887-621-1243,married,missing,Animal technologist,missing,missing,3,539.2338129496403,South America,2
+Brandon Miller,42.452599388379205,23781.0,b,1,003,Jeffreyberg,Pitcairn Islands,True,M,9273210504,missing,missing,Diplomatic Services operational officer,Python,R,3,539.2338129496403,Unknown,2
+Justin Brown,47.4,49369.0,c,0,abc,Perkinsview,Kuwait,False,missing,6020467445,married,unemployed,"Runner, broadcasting/film/video",Python,Tableau,1,1010.0,Asia,2
+Scott Wong,65.0,43712.0,b,1,003,Kevinborough,Japan,True,Other,756.864.4643,missing,employed,Retail merchandiser,Python,Tableau,8,754.0,Asia,2
+Dana Gardner,42.452599388379205,148864.0,missing,0,missing,Simpsonland,Marshall Islands,False,M,001-930-143-2554x4014,single,freelancer,Magazine features editor,SQL,PowerBI,4,539.2338129496403,Oceania,2
+Joseph Green,47.0,7184.0,b,1,missing,Gabrielton,Tanzania,True,Other,+1-131-137-0538x70711,single,freelancer,Games developer,missing,Tableau,6,115.0,Africa,2
+Ashley Davis,63.0,144345.0,b,0,002,Dannybury,Benin,True,missing,001-824-743-9618x143,single,employed,Music therapist,SQL,missing,4,43.0,Africa,2
+Patricia Monroe,42.8,97251.0,c,1,002,Ravenshire,Ghana,True,M,+1-760-073-7201x9318,missing,missing,Applications developer,Excel,missing,4,68.0,Africa,2
+Charles Smith,42.452599388379205,28014.0,missing,0,missing,New Suzanneville,Cameroon,False,missing,125-864-4028,married,missing,"Surveyor, minerals",Python,missing,5,539.2338129496403,Africa,2
+Sonya Valenzuela DDS,52.0,146912.0,a,0,003,Richmondbury,Saint Kitts and Nevis,False,missing,(333)372-2375x57880,married,freelancer,"Journalist, newspaper",Excel,missing,8,117.0,North America,2
+Matthew Stevens,25.0,43147.0,a,0,abc,West David,Bangladesh,True,Other,521.574.1059x7554,missing,unemployed,Gaffer,SQL,PowerBI,2,613.0,Asia,2
+Derrick Collins,42.452599388379205,65532.0,a,0,missing,Charlesport,Christmas Island,True,Other,(539)878-8917,missing,unemployed,Ship broker,missing,missing,7,539.2338129496403,Asia,2
+Timothy Hoover,44.8,133829.0,missing,0,002,Erinland,Papua New Guinea,False,F,001-350-020-6580x286,missing,employed,Community arts worker,Python,missing,3,714.0,Oceania,2
+Carrie Nelson,60.0,120155.0,missing,0,abc,South Josephfort,Cyprus,False,missing,(441)404-2378,single,missing,Electronics engineer,missing,R,6,331.0,Asia,2
+Jamie Gutierrez MD,42.452599388379205,15095.0,missing,1,abc,Stewartborough,Netherlands,True,M,316.087.1267,missing,employed,"Programmer, applications",missing,missing,8,539.2338129496403,Europe,2
+Brooke Hernandez,21.0,84837.0,b,0,002,Port Mary,Kuwait,True,Other,001-103-891-9225x752,single,missing,Theatre manager,SQL,missing,10,877.0,Asia,2
+Emily Hampton,42.452599388379205,148237.0,c,1,abc,Kimberlyborough,Suriname,True,missing,929.806.7506x82733,married,missing,Automotive engineer,missing,Tableau,7,539.2338129496403,South America,2
+Kyle Edwards,37.0,37386.0,b,1,missing,Belindaberg,Zambia,True,Other,+1-412-020-0276x96221,missing,missing,"Programmer, multimedia",missing,Tableau,6,552.0,Africa,2
+Christina Black,42.0,44345.0,c,0,002,West Noah,Netherlands Antilles,True,missing,885-742-5576,missing,missing,"Engineer, mining",Python,Tableau,1,405.0,Unknown,2
+Richard Robbins,30.0,8200.0,missing,0,abc,Brownchester,India,True,missing,400-367-9433x836,married,unemployed,Control and instrumentation engineer,missing,missing,7,498.0,Asia,2
+Charles Dixon,46.0,69150.0,missing,1,missing,South Jacobside,France,False,M,+1-193-938-2265,married,employed,Careers information officer,Python,PowerBI,2,672.0,Europe,2
+Sarah Davenport,42.452599388379205,27990.0,a,1,abc,Lake Morganburgh,Turks and Caicos Islands,False,F,416.860.1123x14499,missing,missing,Retail manager,missing,missing,8,539.2338129496403,North America,2
+Dale Gordon,42.452599388379205,14395.0,b,1,003,North Michaelborough,United Arab Emirates,True,missing,+1-480-827-6326x170,missing,missing,Charity fundraiser,Excel,R,7,539.2338129496403,Asia,2
+Nathan Garcia,46.8,113464.0,missing,0,missing,New Margaretburgh,Vietnam,False,missing,(674)447-4601,single,missing,Historic buildings inspector/conservation officer,missing,PowerBI,7,1025.0,Asia,2
+John Christian,49.2,87965.0,b,0,missing,South Jasonchester,Tajikistan,True,F,001-169-163-2553x041,missing,missing,Building surveyor,missing,missing,2,169.0,Asia,2
+Mary Lambert,43.2,5414.0,b,1,abc,Mcmillanberg,Ecuador,True,F,465.557.6156x951,missing,missing,"Engineer, materials",Excel,R,5,686.0,South America,2
+Melissa Ferguson,58.0,78826.0,b,1,003,West David,Lao People's Democratic Republic,True,missing,001-898-635-4900x351,missing,employed,Artist,Excel,R,5,461.0,Asia,2
+Anthony Miller,42.452599388379205,51040.0,a,0,003,West Markport,British Virgin Islands,True,missing,719.353.8750x85446,married,missing,Clinical research associate,SQL,missing,8,539.2338129496403,North America,2
+Brandon Edwards,54.0,83471.0,c,0,missing,Kimville,Korea,True,F,(290)514-4487x50614,missing,freelancer,Land/geomatics surveyor,Excel,Tableau,4,25.0,Unknown,2
+Carl Raymond,42.452599388379205,107122.0,c,0,001,Grahamtown,Uzbekistan,True,Other,156.785.7286x559,single,freelancer,Risk analyst,missing,PowerBI,7,539.2338129496403,Asia,2
+Robert Romero,39.0,84250.0,c,1,003,East Erin,Eritrea,True,F,758.333.5041x93002,missing,missing,Armed forces operational officer,Excel,missing,8,649.0,Africa,2
+Jessica Murphy MD,42.452599388379205,142265.0,b,0,002,Jenniferport,Mauritania,True,missing,061.385.0768x551,married,unemployed,Occupational psychologist,Excel,missing,6,539.2338129496403,Africa,2
+Nicole Moreno,51.0,16542.0,b,0,abc,Clarkfort,Congo,True,M,455.291.7699x820,missing,employed,Surgeon,missing,R,10,320.0,Africa,2
+Amy Boone,38.0,144532.0,c,0,missing,South Laura,British Virgin Islands,True,Other,001-426-397-3475x437,married,freelancer,Ship broker,Excel,PowerBI,9,97.0,North America,2
+Colton Allen,50.0,149012.0,c,1,002,Vangville,Israel,True,missing,022.675.4404x78093,married,employed,"Radiographer, therapeutic",Python,missing,5,1041.0,Asia,2
+Melissa Walsh,46.0,18226.0,b,1,001,Amandastad,Kenya,True,missing,001-360-143-7463x52525,married,missing,Accounting technician,missing,missing,9,717.0,Africa,2
+William Perez,44.8,144849.0,b,0,missing,Monicaton,Guadeloupe,False,M,203.082.3086x7009,missing,employed,Armed forces training and education officer,missing,R,10,714.0,North America,2
+Benjamin Owen,42.452599388379205,63666.0,c,0,003,Christopherville,Syrian Arab Republic,True,missing,001-962-900-9323x249,missing,freelancer,Cartographer,missing,missing,0,539.2338129496403,Asia,2
+Matthew Delgado,48.0,49774.0,b,0,missing,Pageside,Central African Republic,False,missing,001-384-074-8933x1360,missing,employed,Special effects artist,Python,missing,10,1086.0,Africa,2
+William Mitchell,42.452599388379205,113381.0,a,0,002,Nicoleview,Afghanistan,False,missing,086-905-6573x817,single,freelancer,"Nurse, mental health",SQL,missing,6,539.2338129496403,Asia,2
+Timothy Brown,42.452599388379205,50373.0,b,0,abc,Ramirezville,Nicaragua,True,missing,550-093-7846x5483,missing,freelancer,Dentist,missing,PowerBI,7,539.2338129496403,North America,2
+Tyler Reynolds,33.2,104329.0,c,0,missing,Kylemouth,South Georgia and the South Sandwich Islands,True,M,001-819-896-8237x92352,married,missing,Chief Strategy Officer,Excel,Tableau,10,361.0,South America,2
+Robert Williams,40.2,122220.0,a,0,missing,North Aaron,Isle of Man,True,Other,742.107.0937x095,missing,missing,Dealer,Python,PowerBI,9,227.0,Europe,2
+Joy Hill,42.452599388379205,82118.0,a,0,missing,Rhondaborough,Ecuador,True,M,(370)507-8550,missing,employed,"Therapist, nutritional",Python,PowerBI,3,539.2338129496403,South America,2
+Jill Hernandez,42.452599388379205,105346.0,missing,1,abc,Jasonfort,Mali,False,F,001-571-255-9732x46454,married,unemployed,"Designer, graphic",missing,missing,5,539.2338129496403,Africa,2
+Brandon Murray,40.4,23807.0,a,0,missing,Lake Emily,Guam,True,missing,(357)369-1305x87622,single,unemployed,Tax adviser,missing,missing,9,918.0,Oceania,2
+Roberto Jones,57.0,149716.0,missing,1,003,Kingville,Lao People's Democratic Republic,False,F,001-703-605-8285,single,missing,Professor Emeritus,missing,Tableau,8,450.0,Asia,2
+Jason Johnson,42.452599388379205,14926.0,missing,0,001,Kleinland,Greenland,True,M,770-721-8450x32234,missing,missing,Restaurant manager,missing,PowerBI,8,539.2338129496403,North America,2
+Alexander Lee,23.0,25468.0,missing,0,003,New Michael,Denmark,True,Other,001-819-818-2108,single,missing,Publishing copy,missing,missing,7,707.0,Europe,2
+Andrew Cole,42.452599388379205,82232.0,b,0,001,East Vincentside,Argentina,True,missing,(449)510-6750,single,missing,Higher education lecturer,missing,Tableau,9,539.2338129496403,South America,2
+Gary Hudson,42.452599388379205,132076.0,b,0,missing,South George,Belize,True,Other,001-748-151-7928x7589,married,missing,Dance movement psychotherapist,Python,R,4,539.2338129496403,North America,2
+Kimberly Lucas,65.0,44619.0,missing,0,002,Lake Amandashire,Malawi,True,F,001-086-962-0994x51043,married,missing,Psychiatrist,Excel,R,1,760.4,Africa,2
+Gina Jimenez,56.0,113251.0,missing,0,missing,Nicholasport,Chile,True,F,001-161-344-8878,missing,employed,"Pharmacist, hospital",Python,PowerBI,0,667.6,South America,2
+Martha Bean,42.452599388379205,144597.0,a,1,missing,Kennedymouth,Argentina,True,missing,(082)619-8451x04265,married,missing,Education administrator,missing,PowerBI,4,539.2338129496403,South America,2
+Larry Blair,54.6,15752.0,b,0,missing,Osbornton,Armenia,True,missing,759.428.7762x69333,missing,freelancer,"Editor, film/video",Python,R,1,31.0,Asia,2
+Kimberly Daniel,42.452599388379205,68385.0,a,0,003,Gregorymouth,Antigua and Barbuda,False,Other,(344)731-1851,single,employed,"Producer, television/film/video",Excel,PowerBI,6,539.2338129496403,North America,2
+Alexander Andersen,51.0,79264.0,b,0,001,Connieport,Philippines,True,missing,+1-878-451-6838,single,missing,Occupational therapist,SQL,missing,10,725.8,Asia,2
+John Coffey,63.0,39054.0,missing,0,002,Parkerbury,Uganda,True,F,+1-674-457-6872x583,missing,missing,"Civil engineer, contracting",Excel,missing,4,710.0,Africa,2
+Donald Sparks,49.4,24397.0,b,1,abc,Wardport,Suriname,True,Other,+1-325-025-3327x006,missing,freelancer,Acupuncturist,SQL,missing,1,516.0,South America,2
+Thomas Smith,42.452599388379205,133989.0,b,0,missing,South Robertport,Tokelau,True,F,020.079.3054x321,single,missing,Audiological scientist,Python,PowerBI,0,539.2338129496403,Oceania,2
+Amy Singh,36.8,9919.0,missing,0,missing,Lake Jennifer,French Guiana,True,M,(070)869-2772x4581,missing,freelancer,"Restaurant manager, fast food",SQL,R,6,880.0,South America,2
+Alexander Thompson,42.452599388379205,110883.0,b,0,002,Danielmouth,Bhutan,True,missing,001-413-520-6162x0868,missing,employed,Gaffer,missing,missing,5,539.2338129496403,Asia,2
+Tammy Miles,42.452599388379205,28767.0,c,0,003,Simmonsstad,Western Sahara,True,missing,290-300-4604x5594,married,unemployed,Museum education officer,missing,PowerBI,6,539.2338129496403,Unknown,2
+Steven Powers,42.452599388379205,99178.0,missing,1,missing,Hallfurt,Mozambique,True,F,4684944011,single,unemployed,Fish farm manager,Excel,missing,3,539.2338129496403,Africa,2
+Lindsey Burke,42.0,135989.0,missing,0,001,Dorisberg,Georgia,True,Other,625-352-3676x64101,missing,employed,Health promotion specialist,missing,PowerBI,3,309.0,Asia,2
+Carla Smith,42.452599388379205,145656.0,c,0,002,West Stephanie,Kazakhstan,True,M,(821)203-1852,married,missing,IT technical support officer,Excel,missing,9,539.2338129496403,Asia,2
+Travis Oneal Jr.,35.2,18096.0,b,1,abc,Maxwellberg,Indonesia,False,missing,3927797051,single,employed,Health promotion specialist,missing,missing,9,245.0,Asia,2
+Victoria Cunningham,22.0,110384.0,c,1,missing,North Jessicafort,Eritrea,False,Other,865.007.1783,single,missing,Games developer,SQL,R,1,902.0,Africa,2
+Lucas Wood,35.0,101974.0,missing,0,abc,Haasville,Iran,False,missing,001-637-227-4084x14099,married,employed,"Buyer, retail",missing,missing,2,567.6,Asia,2
+Jose Hurley,49.0,28367.0,b,1,missing,Janetberg,Cote d'Ivoire,True,F,092-437-1199x4689,married,freelancer,Police officer,missing,missing,6,609.0,Unknown,2
+Donald Williams DVM,33.2,136042.0,b,1,003,Victoriaberg,Slovakia (Slovak Republic),True,M,001-006-111-1320x18353,married,unemployed,Sport and exercise psychologist,Excel,missing,1,364.0,Unknown,2
+Rose Wood,42.452599388379205,59554.0,b,1,002,Wolfemouth,Mozambique,True,F,(336)398-4922x475,missing,missing,"Administrator, local government",SQL,Tableau,10,539.2338129496403,Africa,2
+Brett Willis,39.6,118946.0,b,0,missing,Nataliefort,Luxembourg,True,M,728.704.0440x90875,single,missing,Actuary,SQL,Tableau,0,535.0,Europe,2
+Jeffery Heath,50.0,121607.0,c,1,002,South Danny,Brazil,True,F,+1-816-417-1010x893,missing,unemployed,Secondary school teacher,Excel,Tableau,6,596.0,South America,2
+Leslie Green,42.0,131984.0,a,1,002,West Mandy,Malaysia,False,missing,082-716-8656x392,married,missing,Research scientist (medical),Python,Tableau,7,454.0,Asia,2
+Matthew Carpenter,39.2,58008.0,c,0,001,East Jacobbury,Norway,True,Other,502-506-8016x52685,single,missing,Social researcher,missing,missing,2,393.0,Europe,2
+William Hughes,42.452599388379205,49547.0,missing,0,001,Port Justin,Cayman Islands,True,missing,001-625-891-0838x9558,married,missing,"Research officer, trade union",missing,missing,4,539.2338129496403,North America,2
+Brandon Jones,41.8,118835.0,a,0,002,Port Stanleystad,Vanuatu,True,missing,+1-559-290-5293x29812,single,missing,Database administrator,missing,PowerBI,6,753.0,Oceania,2
+Leslie Atkins,49.6,68048.0,b,0,001,Bensonborough,Poland,True,F,001-011-690-5165,missing,freelancer,Careers adviser,SQL,PowerBI,0,324.0,Europe,2
+Megan Hughes,33.0,11399.0,missing,0,002,North Zacharymouth,Wallis and Futuna,True,F,376-681-4134x1841,missing,employed,"Buyer, retail",Excel,missing,5,726.0,Oceania,2
+Alison Clark,42.452599388379205,147196.0,a,1,missing,Johnsonberg,Tuvalu,True,M,471.219.9852x0790,missing,employed,Commercial/residential surveyor,Excel,missing,5,539.2338129496403,Oceania,2
+Jason Ward,57.0,22565.0,missing,0,002,Donaldside,Switzerland,True,F,2439859504,single,missing,Technical sales engineer,missing,Tableau,3,1020.0,Europe,2
+Paige Harrison,42.452599388379205,77651.0,a,1,003,Mooreport,Montserrat,True,missing,+1-426-904-6244x050,single,missing,"Scientist, research (physical sciences)",missing,missing,4,539.2338129496403,North America,2
+Deborah White,54.400000000000006,125028.0,b,1,abc,Caitlynmouth,Guam,False,Other,017-070-2191,single,unemployed,Ophthalmologist,Python,PowerBI,2,19.0,Oceania,2
+Tiffany Alexander,27.0,10948.0,b,1,missing,Princeberg,Belgium,False,missing,619.157.4476x590,missing,missing,Bonds trader,Excel,R,3,515.0,Europe,2
+Natalie Martin,19.0,112922.0,c,0,abc,East Kevin,Turkey,True,missing,(922)301-9266,married,freelancer,Government social research officer,SQL,R,3,607.2,Asia,2
+Douglas Ellis,47.0,79549.0,missing,0,missing,Codyview,Belgium,False,missing,133-802-0959,married,unemployed,Interpreter,SQL,Tableau,3,118.0,Europe,2
+Thomas Henry,42.452599388379205,73264.0,c,0,002,South Michael,Nigeria,True,Other,001-442-632-2241,married,freelancer,Wellsite geologist,missing,missing,2,539.2338129496403,Africa,2
+Teresa Neal,37.0,135919.0,c,0,003,West Johnchester,Puerto Rico,False,M,+1-396-210-3425,missing,freelancer,Fish farm manager,missing,R,9,689.0,North America,2
+Sheri Patel,42.452599388379205,34442.0,missing,1,002,Debbiefort,Uzbekistan,True,Other,979.381.3441x388,missing,missing,Advertising art director,SQL,missing,5,539.2338129496403,Asia,2
+Robert Grant,38.0,143001.0,a,1,002,Port Ashley,Cuba,True,M,665-458-1616x86765,missing,employed,"Designer, fashion/clothing",missing,missing,3,556.2,North America,2
+Jill Nguyen,42.452599388379205,19692.0,c,1,002,Kaylafurt,Honduras,True,Other,3825541378,missing,employed,"Nurse, children's",Python,R,5,539.2338129496403,North America,2
+Brian Mcbride,42.4,121449.0,missing,0,003,Karenside,New Caledonia,False,missing,+1-300-863-6015x8696,missing,unemployed,IT trainer,missing,missing,1,582.0,Oceania,2
+Desiree Pena,42.452599388379205,142704.0,c,1,missing,East Rickeyville,Malawi,True,M,356-374-0944x273,missing,freelancer,Chartered management accountant,missing,Tableau,8,539.2338129496403,Africa,2
+Mark Gonzalez,53.2,105078.0,b,0,abc,West Michelle,French Guiana,True,Other,(709)505-2818x582,missing,missing,Clinical biochemist,missing,missing,3,439.0,South America,2
+Jennifer Hughes,18.0,128873.0,b,1,abc,Edwardton,Cameroon,False,missing,(057)510-2346,married,employed,"Surveyor, quantity",Excel,R,7,121.0,Africa,2
+Timothy Lopez,36.2,119312.0,b,0,missing,Andrewhaven,Czech Republic,True,Other,001-866-260-9634x36182,single,freelancer,"Doctor, general practice",SQL,missing,0,574.0,Europe,2
+Andrew Anderson,48.4,18864.0,b,0,abc,Amyland,Mali,True,M,313.737.7454,missing,missing,"Designer, ceramics/pottery",Excel,missing,3,698.0,Africa,2
+Jacob Moore,29.0,147530.0,c,0,missing,Simsburgh,Belize,True,Other,181.709.1940,missing,employed,Technical sales engineer,missing,missing,5,584.8,North America,2
+Christopher Kelly,18.0,132113.0,missing,0,002,East Christopherview,South Africa,True,F,1918576631,married,unemployed,"Psychologist, forensic",missing,missing,8,607.2,Africa,2
+Dr. Paul Nelson,45.0,25027.0,b,0,001,New Danielfurt,Senegal,True,Other,(371)132-1336x7772,missing,unemployed,Architectural technologist,missing,missing,8,1062.0,Africa,2
+Scott Wallace,37.8,36089.0,a,0,missing,Lake Megan,Somalia,False,F,+1-914-577-6377x25837,married,unemployed,"Psychotherapist, child",SQL,PowerBI,6,307.0,Africa,2
+Christine Mcbride,25.0,118048.0,a,0,001,West Susan,Kiribati,True,missing,001-666-784-1265x3873,single,missing,"Engineer, communications",Excel,R,0,329.0,Oceania,2
+Chloe Nelson,39.0,37451.0,a,0,002,West Yolandamouth,Andorra,False,Other,8901551080,single,unemployed,Food technologist,Python,missing,5,648.0,Europe,2
+Zachary Fleming,42.452599388379205,22914.0,b,0,001,Baxterland,Tunisia,False,F,+1-061-416-0814x63746,married,missing,Tourism officer,Excel,PowerBI,3,539.2338129496403,Africa,2
+Michael Brown,39.8,53529.0,missing,1,002,Lake Nicole,Suriname,True,missing,001-282-291-3339x94555,married,missing,Advertising account planner,SQL,missing,1,493.0,South America,2
+Charles Foster,52.4,134975.0,c,1,missing,Garrisonborough,Philippines,True,M,944.916.9514,missing,employed,"Scientist, product/process development",missing,R,7,992.0,Asia,2
+Jeremiah Rodriguez,42.452599388379205,111766.0,b,1,002,Michaelport,Western Sahara,True,missing,230-406-1617x970,missing,unemployed,Seismic interpreter,Excel,missing,10,539.2338129496403,Unknown,2
+Tyler Rodriguez,42.452599388379205,27283.0,b,0,abc,Port Joshuashire,Saint Lucia,True,missing,(324)704-2819x587,married,employed,Solicitor,Python,Tableau,5,539.2338129496403,North America,2
+Phyllis Mcdonald,41.6,116333.0,missing,1,missing,Jenkinsside,Malaysia,True,missing,517.370.2984x760,missing,missing,Applications developer,missing,missing,8,1090.0,Asia,2
+Robin Mathews,38.2,133277.0,missing,0,missing,East Ann,Kiribati,False,M,939-648-7094x4896,single,employed,Computer games developer,missing,PowerBI,2,975.0,Oceania,2
+Heather Love,39.6,30253.0,b,0,abc,South Joshua,Namibia,True,F,(296)350-6941,missing,missing,Chiropodist,missing,R,8,531.0,Africa,2
+Shane Daniels,48.4,13283.0,missing,1,abc,East Amanda,Panama,True,Other,(268)798-5890x285,missing,missing,Textile designer,Excel,PowerBI,2,1021.0,North America,2
+Catherine Snow,39.6,40255.0,b,1,abc,North David,Singapore,True,missing,(303)067-0672x136,missing,missing,Cabin crew,missing,missing,7,533.0,Asia,2
+Robert Meadows,53.0,74046.0,missing,0,abc,Port Rachelland,Germany,True,Other,803.882.9844,single,employed,"Research officer, political party",missing,PowerBI,2,411.2,Europe,2
+Stephanie Gill,42.452599388379205,94458.0,missing,1,abc,Lake Mark,Oman,True,Other,9439610137,missing,employed,Interpreter,SQL,Tableau,3,539.2338129496403,Asia,2
+Daniel Smith,40.0,22170.0,b,1,003,Jacobmouth,Switzerland,False,M,235-021-7677,missing,employed,Art therapist,missing,missing,9,206.0,Europe,2
+David Stephenson,45.2,10829.0,c,1,missing,Cochranview,Falkland Islands (Malvinas),True,Other,4443473552,single,missing,Systems analyst,Excel,Tableau,5,425.0,South America,2
+Dakota Washington,41.8,83517.0,c,1,002,Harrisburgh,Australia,True,M,8437377584,married,freelancer,Operations geologist,Python,PowerBI,4,747.0,Oceania,2
+Susan Thomas,43.0,29106.0,b,0,003,Chandlermouth,United States Minor Outlying Islands,True,M,+1-915-564-6302x872,missing,missing,Product/process development scientist,SQL,R,1,300.40000000000003,Unknown,2
+Kristen Woods,37.2,146544.0,c,0,abc,East Kellymouth,Sri Lanka,True,Other,+1-668-883-6276x99804,missing,missing,Camera operator,SQL,PowerBI,10,953.0,Asia,2
+Emily Adams,51.0,127498.0,b,0,missing,Millerside,Bosnia and Herzegovina,True,missing,279-921-2729x28904,single,missing,Prison officer,SQL,R,7,725.8,Europe,2
+Kristi Peterson,33.0,112547.0,c,1,missing,Kimberlymouth,Macedonia,False,missing,616.784.6299,missing,unemployed,Insurance claims handler,Python,missing,3,565.0,Europe,2
+Carmen Krueger,33.0,69379.0,b,0,abc,Williamsfort,Turkmenistan,True,missing,855-992-0569x141,single,unemployed,"Editor, magazine features",SQL,R,2,817.0,Asia,2
+Joshua Cardenas MD,42.452599388379205,16070.0,missing,1,001,Scottton,Saint Lucia,True,Other,(338)635-2378x13487,missing,employed,"Psychologist, educational",missing,R,10,539.2338129496403,North America,2
+Monica Hunter,39.4,136137.0,b,0,missing,Johnmouth,Tanzania,True,missing,170-906-0576x81320,married,missing,Magazine features editor,Excel,R,5,111.0,Africa,2
+Robin Lambert,44.800000000000004,62149.0,c,1,002,New Joseph,Puerto Rico,False,Other,+1-600-428-1230,missing,freelancer,Chief Operating Officer,missing,PowerBI,7,475.0,North America,2
+Yvonne Christensen,44.8,116091.0,missing,0,003,West Joshua,Reunion,False,Other,(857)424-2809x7103,missing,freelancer,"Engineer, civil (consulting)",Excel,missing,0,47.0,Unknown,2
+Melissa Davis,60.0,105844.0,b,0,missing,Smithport,Slovenia,True,missing,633-043-8249x883,missing,missing,Soil scientist,Excel,missing,4,1067.0,Europe,2
+Jane Alexander,23.0,47002.0,missing,0,missing,Brentfort,Bahamas,True,M,001-472-553-2102,single,missing,Research scientist (physical sciences),missing,missing,5,692.0,North America,2
+Phillip Cunningham,45.0,137732.0,b,0,abc,Melissahaven,Mexico,True,missing,001-060-260-0936x72134,single,employed,Music tutor,SQL,missing,10,406.0,North America,2
+Karen Anderson,41.6,87240.0,b,1,002,East Jacquelineview,France,False,missing,(433)775-6553x89317,married,missing,"Nurse, mental health",missing,R,7,1090.0,Europe,2
+Michele Rogers,65.0,90873.0,b,0,001,Timothystad,Eritrea,True,Other,001-342-633-3248x0654,missing,missing,Barrister,missing,Tableau,0,288.0,Africa,2
+Andrew Gutierrez,42.452599388379205,28324.0,missing,0,003,North Joelberg,Heard Island and McDonald Islands,False,M,763-376-2827x1271,missing,missing,Chartered loss adjuster,Python,Tableau,1,539.2338129496403,Antarctica,2
+Sarah Rosario,44.8,142845.0,missing,0,missing,South Jeffreyhaven,Azerbaijan,True,M,566-237-7878,married,unemployed,Gaffer,Python,R,7,45.0,Asia,2
+Kimberly Ramirez,43.6,79178.0,a,1,002,Friedmanland,Angola,True,F,451-888-8593x761,missing,freelancer,"Conservator, furniture",SQL,missing,7,593.0,Africa,2
+Barbara Blair,42.452599388379205,127914.0,c,0,missing,Higginshaven,Uganda,True,F,862.495.6343x4708,missing,missing,"Psychologist, occupational",missing,R,1,539.2338129496403,Africa,2
+David Garcia,53.0,66562.0,missing,0,missing,Port Robertbury,Iraq,True,M,3854225986,missing,freelancer,Data processing manager,missing,R,2,176.0,Asia,2
+Sharon Johnson,46.6,137054.0,missing,0,abc,Deborahbury,Ukraine,False,M,(408)455-4370,missing,unemployed,Biomedical scientist,Python,PowerBI,5,122.99999999999994,Europe,2
+Jeff Brown,50.8,117744.0,b,1,missing,South Kelly,United Kingdom,True,missing,(237)565-0459,missing,unemployed,Biomedical scientist,Python,missing,2,1075.0,Europe,2
+Kyle Williams,42.452599388379205,43960.0,a,0,002,Helenmouth,Burundi,True,missing,+1-783-579-8408x7009,married,missing,Broadcast journalist,missing,PowerBI,7,539.2338129496403,Africa,2
+Gregory Kennedy,42.452599388379205,134233.0,b,0,001,New Katie,Tanzania,True,M,001-508-563-3342x348,missing,unemployed,Corporate treasurer,SQL,missing,4,539.2338129496403,Africa,2
+John Diaz,35.2,6081.0,missing,0,002,Jamesmouth,Kyrgyz Republic,True,M,023-308-9453,missing,employed,"Embryologist, clinical",Python,PowerBI,4,245.0,Asia,2
+Tony Ortiz,61.0,32805.0,c,0,001,Lake Kennethport,Montenegro,True,missing,001-335-988-7147,missing,missing,Web designer,Python,missing,10,797.0,Europe,2
+Ryan Brady,39.0,90174.0,c,0,001,Cartermouth,Croatia,True,Other,152-649-3724,single,missing,Hospital doctor,missing,missing,1,451.20000000000005,Europe,2
+Adam Brooks,34.0,109573.0,b,1,002,Willietown,China,False,missing,001-737-308-8753x6412,missing,unemployed,Hydrologist,Excel,R,7,1024.0,Asia,2
+Veronica Mcgrath,42.452599388379205,30195.0,c,0,002,Cynthiaborough,Aruba,True,missing,(633)115-7710,missing,freelancer,Audiological scientist,missing,missing,6,539.2338129496403,North America,2
+Jennifer Lopez,42.452599388379205,116677.0,b,1,missing,Kaylafurt,Argentina,True,missing,(148)190-1682,married,unemployed,Press photographer,missing,missing,10,539.2338129496403,South America,2
+Lindsay Barr,51.0,25757.0,missing,1,002,Christinaport,Svalbard & Jan Mayen Islands,False,Other,001-504-353-2614x222,missing,freelancer,Personnel officer,missing,PowerBI,8,1048.0,Unknown,2
+Dawn Vaughn,48.4,113270.0,b,0,missing,Port Lauraville,Philippines,True,Other,(793)171-0299,single,missing,Clinical molecular geneticist,Excel,PowerBI,10,695.0,Asia,2
+Roger Scott PhD,29.0,114117.0,b,0,missing,Donaldbury,Botswana,True,missing,4149865794,missing,freelancer,Higher education careers adviser,SQL,Tableau,2,584.8,Africa,2
+Kenneth Hall,35.2,32873.0,missing,0,001,Smithfurt,Bahamas,True,missing,001-216-026-9360x30269,single,unemployed,"Presenter, broadcasting",missing,missing,6,235.0,North America,2
+Mallory Beck,42.452599388379205,99562.0,missing,1,001,Haleymouth,Timor-Leste,False,F,202-896-7714x1018,married,employed,"Engineer, biomedical",Excel,Tableau,0,539.2338129496403,Unknown,2
+Tanya Salazar,38.0,119239.0,missing,0,001,Lake Robert,Czech Republic,True,missing,(550)139-9792x92278,missing,missing,"Administrator, local government",Excel,PowerBI,2,679.0,Europe,2
+Kimberly Moore,42.452599388379205,128598.0,a,0,missing,Lake Michael,Marshall Islands,False,F,711-849-9628x31692,missing,employed,Research scientist (maths),Python,PowerBI,1,539.2338129496403,Oceania,2
+Jessica Johnston,42.452599388379205,81224.0,a,0,abc,Jennifershire,Guatemala,True,missing,576.334.6981x22016,missing,unemployed,"Engineer, chemical",Excel,missing,0,539.2338129496403,North America,2
+Scott Jenkins,42.452599388379205,114350.0,missing,1,abc,East Kristy,Canada,True,missing,+1-843-553-2996x799,missing,employed,Chartered loss adjuster,SQL,R,3,539.2338129496403,North America,2
+David Christian,41.4,93906.0,missing,0,003,East Don,British Indian Ocean Territory (Chagos Archipelago),True,missing,(520)337-7791x4724,missing,missing,Office manager,SQL,missing,3,86.0,Unknown,2
+Alyssa Ayala,49.6,38841.0,c,0,002,Karenchester,Oman,True,M,(353)609-3987x78529,missing,freelancer,Field seismologist,SQL,Tableau,8,426.0,Asia,2
+Kenneth Hernandez,44.2,46577.0,c,0,001,East Codyberg,Lithuania,True,Other,(077)005-4318x2650,single,missing,Chiropodist,SQL,PowerBI,8,807.0,Europe,2
+Lisa Cardenas,44.8,17235.0,missing,1,002,Jeffersonside,Jordan,True,M,297-807-3027,missing,employed,Town planner,Excel,missing,9,49.0,Asia,2
+Gary White,53.0,35948.0,a,0,002,New Jenniferburgh,Kyrgyz Republic,True,missing,(563)122-0456,missing,employed,Industrial/product designer,SQL,R,5,411.2,Asia,2
+Catherine Espinoza,25.0,6726.0,a,0,003,Port Dana,French Polynesia,True,missing,+1-033-885-3600x8515,single,freelancer,Medical laboratory scientific officer,Python,missing,5,501.6,Oceania,2
+Michael Rodriguez,60.0,143844.0,missing,0,002,Marcview,Central African Republic,True,missing,+1-386-852-5663x5481,missing,missing,"Production assistant, radio",Python,PowerBI,7,14.0,Africa,2
+Jacob Hart,42.452599388379205,27224.0,c,0,abc,New Beverly,New Zealand,False,missing,108.184.9293x49466,missing,employed,Electronics engineer,SQL,missing,0,539.2338129496403,Oceania,2
+Lisa Moore,42.452599388379205,114918.0,missing,0,003,Quinnland,French Southern Territories,True,Other,169-221-1940,missing,missing,Research scientist (physical sciences),missing,Tableau,6,539.2338129496403,Unknown,2
+Cindy Miller,59.0,120905.0,c,1,002,Branchland,Cayman Islands,True,M,001-502-563-6993x8409,missing,missing,Psychotherapist,SQL,missing,8,540.0,North America,2
+Drew Tyler,31.0,141665.0,c,0,001,Reginamouth,Congo,True,missing,0148072996,missing,unemployed,Marine scientist,Python,missing,8,528.2,Africa,2
+Jacqueline Thompson,64.0,138037.0,c,1,001,Matthewburgh,Anguilla,True,missing,8910927314,single,missing,IT sales professional,Python,Tableau,9,865.0,North America,2
+Kathleen Anderson,42.452599388379205,66299.0,c,1,003,Andrewport,Ukraine,False,missing,458.642.6897x73563,married,employed,Insurance account manager,Python,missing,9,539.2338129496403,Europe,2
+Adam Walker,36.2,116592.0,missing,1,001,Flynnmouth,Georgia,True,missing,2406576386,missing,unemployed,Health service manager,missing,PowerBI,5,574.0,Asia,2
+Michelle Christensen,42.452599388379205,108489.0,b,0,abc,South Gabrielport,Venezuela,True,missing,(845)741-7513,missing,missing,Building control surveyor,SQL,Tableau,8,539.2338129496403,South America,2
+Dana Cross,42.452599388379205,139528.0,missing,1,missing,Martinfort,Puerto Rico,False,missing,335.519.6851x5149,single,unemployed,"Production assistant, radio",missing,R,1,539.2338129496403,North America,2
+Michelle Smith,44.0,80914.0,a,0,002,Lake Breannaton,Malaysia,True,Other,658.897.7300,missing,freelancer,Dispensing optician,Python,missing,0,978.0,Asia,2
+Mary Cohen,42.452599388379205,84996.0,b,0,002,New Judymouth,Svalbard & Jan Mayen Islands,True,M,(264)890-5920x332,missing,employed,"Loss adjuster, chartered",Excel,missing,7,539.2338129496403,Unknown,2
+Matthew Bell,42.452599388379205,103908.0,missing,0,002,East Sharishire,Sierra Leone,False,missing,+1-360-387-4686x1327,missing,missing,"Engineer, drilling",missing,Tableau,5,539.2338129496403,Africa,2
+James Wilson,42.452599388379205,66032.0,missing,0,missing,New Mark,Anguilla,True,missing,001-523-503-3499x99918,missing,employed,Archaeologist,SQL,PowerBI,9,539.2338129496403,North America,2
+Marc Jones,42.452599388379205,27322.0,a,0,missing,Lake Matthew,Jamaica,True,missing,+1-245-202-5716x118,married,missing,Glass blower/designer,missing,PowerBI,1,539.2338129496403,North America,2
+Angela Stuart,52.0,58950.0,a,0,abc,Lake Lynn,Wallis and Futuna,True,missing,(243)550-3518,missing,missing,Retail buyer,missing,PowerBI,7,990.0,Oceania,2
+Robert Rivers,33.2,143386.0,c,1,003,West Barbara,India,True,M,+1-394-942-5470x52885,married,freelancer,Arts administrator,SQL,Tableau,4,356.0,Asia,2
+Debra Lopez,42.452599388379205,20443.0,c,0,001,Whiteton,Malta,True,Other,+1-284-561-4105x8826,single,freelancer,Human resources officer,SQL,missing,5,539.2338129496403,Europe,2
+Nichole Wall,42.0,66994.0,missing,0,missing,North Michelleside,Macedonia,True,M,+1-929-869-5539,single,freelancer,"Administrator, arts",missing,missing,6,574.0,Europe,2
+Laurie Snyder,48.0,9881.0,b,0,missing,Lake Crystal,Austria,True,F,351.882.0345,married,freelancer,Ceramics designer,missing,missing,7,660.0,Europe,2
+Mark Barnes,43.8,42320.0,c,0,002,Moorebury,Madagascar,False,missing,+1-861-210-3659,missing,employed,Chartered legal executive (England and Wales),Excel,missing,9,213.0,Africa,2
+Holly Martinez,59.0,131402.0,b,0,003,Port Abigail,Solomon Islands,True,Other,001-199-670-9840,married,missing,Production manager,missing,R,0,996.0,Oceania,2
+Ethan Patterson,42.452599388379205,28518.0,missing,1,002,Tuckerberg,Tajikistan,True,missing,6961244471,missing,freelancer,TEFL teacher,Python,missing,4,539.2338129496403,Asia,2
+Christopher Gilbert,39.2,91103.0,a,0,missing,West Jessica,British Virgin Islands,True,missing,889-783-0198x5751,single,employed,"Administrator, arts",SQL,missing,8,332.0,North America,2
+James Smith,42.452599388379205,25322.0,missing,1,missing,South Randallmouth,Hungary,True,M,049.629.4421x3365,missing,missing,"Engineer, energy",Python,missing,2,539.2338129496403,Europe,2
+Steven Jones,18.0,55591.0,missing,1,002,Keithberg,Italy,True,Other,(693)533-1796x71615,missing,unemployed,Metallurgist,Excel,missing,10,607.2,Europe,2
+Michael Davis,63.0,100158.0,a,1,abc,East Jessica,Dominica,False,M,001-410-450-6323,missing,employed,Naval architect,Python,missing,8,646.0,North America,2
+Brittany Burch,42.2,51013.0,b,0,002,Port Rebeccafort,Ghana,True,F,+1-807-266-1531,married,missing,"Buyer, industrial",Python,Tableau,10,798.0,Africa,2
+Mr. Carlos Black Jr.,42.452599388379205,123994.0,a,1,missing,West Jeffrey,Papua New Guinea,True,Other,(085)101-1947,missing,freelancer,Arts administrator,Excel,missing,7,539.2338129496403,Oceania,2
+Alex Gonzales,37.4,63863.0,a,1,abc,West Valerie,Myanmar,True,Other,(911)014-9802x0574,missing,unemployed,Tourist information centre manager,Python,PowerBI,9,142.0,Asia,2
+Travis Adams,65.0,70531.0,a,0,003,Steeleberg,Taiwan,True,M,+1-172-594-3042x6871,single,employed,Music tutor,missing,missing,0,760.4,Asia,2
+Danielle Rogers,42.4,129145.0,a,0,001,Tammymouth,El Salvador,True,missing,685.975.2622x29390,single,missing,"Engineer, electrical",missing,missing,1,411.0,North America,2
+Angela Jones,37.8,20908.0,a,1,003,Lake Robert,Sao Tome and Principe,True,F,(858)248-1063x6007,missing,employed,Accommodation manager,Python,missing,10,389.0,Africa,2
+Joseph Brooks,22.0,82310.0,missing,1,001,Lake Heatherborough,Myanmar,True,F,704-033-9213x783,single,missing,Physiotherapist,missing,missing,6,1092.0,Asia,2
+Stephen Estes,57.0,11808.0,missing,0,003,Lake Bailey,Montserrat,False,M,337.993.4331,single,missing,Equality and diversity officer,Excel,missing,3,120.0,North America,2
+Leslie Davis,42.452599388379205,115364.0,missing,0,abc,Lake Shelbyview,Anguilla,False,F,002-472-0635,single,employed,Media buyer,SQL,R,9,539.2338129496403,North America,2
+Stephen Herman,48.4,146857.0,c,0,abc,Robertsview,Luxembourg,True,missing,001-579-347-1991x4313,missing,freelancer,Contractor,Excel,missing,9,1019.0,Europe,2
+Sarah Chan,61.0,19314.0,missing,0,002,Matthewchester,Palestinian Territory,False,F,(056)874-2341x9249,missing,unemployed,Trade union research officer,missing,missing,9,776.0,Unknown,2
+Donald Howell,42.452599388379205,83546.0,missing,0,002,Lopezton,Malaysia,True,missing,+1-547-323-6104x92693,missing,unemployed,Clinical research associate,Excel,Tableau,3,539.2338129496403,Asia,2
+Robert Brown,57.0,91904.0,missing,0,abc,West Courtneyhaven,Paraguay,False,M,170-378-4763,single,employed,Geoscientist,Python,PowerBI,8,323.0,South America,2
+Christopher Mckinney,42.452599388379205,99348.0,a,1,002,Greenfurt,Nepal,False,Other,6401285867,married,freelancer,Furniture conservator/restorer,SQL,R,8,539.2338129496403,Asia,2
+Robert Barnett,29.0,73626.0,b,1,missing,South Shawnhaven,Zambia,False,missing,459.021.3764,single,freelancer,Fashion designer,SQL,R,7,251.0,Africa,2
+Philip Chavez,42.0,118696.0,b,1,002,Mcdanielport,Pitcairn Islands,False,F,(164)869-2230,missing,freelancer,Arboriculturist,Python,missing,6,852.0,Unknown,2
+Katherine Soto,33.0,145369.0,b,0,003,Claymouth,Syrian Arab Republic,False,M,(431)327-8874,missing,unemployed,Clothing/textile technologist,missing,missing,7,522.0,Asia,2
+Douglas Long,64.0,22006.0,c,0,abc,Ramirezland,Timor-Leste,True,missing,+1-814-758-6923x313,missing,unemployed,Plant breeder/geneticist,Python,R,8,605.2,Unknown,2
+Helen Tapia,42.452599388379205,110105.0,a,0,002,North Brian,Uzbekistan,False,missing,514-942-3035,missing,unemployed,Occupational therapist,Python,missing,6,539.2338129496403,Asia,2
+Tracie Smith,41.4,40213.0,b,1,abc,Christopherport,Montserrat,True,F,346-854-2153x9418,single,missing,Secretary/administrator,missing,missing,5,88.0,North America,2
+Kenneth Klein,42.452599388379205,135427.0,c,1,abc,West Helenport,British Virgin Islands,True,F,541-545-5304x610,married,freelancer,Translator,Excel,R,1,539.2338129496403,North America,2
+Vernon Price,42.452599388379205,77463.0,a,1,001,Torresland,Sierra Leone,True,Other,058-342-0979,married,freelancer,Architectural technologist,SQL,R,4,539.2338129496403,Africa,2
+Justin Hernandez,37.2,41140.0,missing,1,001,Adamsfurt,Montenegro,True,Other,5040260024,missing,missing,"Therapist, speech and language",missing,PowerBI,7,954.0,Europe,2
+Anthony Turner,50.0,60017.0,missing,0,missing,West Jesus,Korea,True,missing,001-119-734-3925x02473,single,freelancer,Broadcast engineer,SQL,missing,6,691.8,Unknown,2
+Mary Turner,42.452599388379205,41424.0,c,1,missing,East Mary,Macao,True,missing,020.273.4904x80006,missing,freelancer,Public relations officer,SQL,missing,6,539.2338129496403,Asia,2
+Ronald Tyler,42.452599388379205,11092.0,a,0,002,Port Brandonstad,Indonesia,True,missing,024.112.3222x076,missing,missing,Physiotherapist,SQL,missing,1,539.2338129496403,Asia,2
+Hector Wolfe,42.0,123367.0,b,1,002,Angelaberg,Uganda,True,missing,8963583687,single,missing,Television camera operator,missing,PowerBI,2,309.0,Africa,2
+Michelle Coffey,37.4,81311.0,missing,1,abc,Port Alexa,Syrian Arab Republic,True,Other,886-729-6488,single,unemployed,Patent examiner,Python,missing,6,374.0,Asia,2
+David Garcia,25.0,23025.0,missing,0,002,Lindsaytown,Bulgaria,False,Other,941-962-7018x4408,missing,unemployed,"Copywriter, advertising",missing,missing,4,501.6,Europe,2
+Kara Mccormick,42.452599388379205,6951.0,c,0,001,Wendyview,France,True,missing,3739842605,missing,missing,"Psychologist, clinical",missing,missing,7,539.2338129496403,Europe,2
+Sean Hart,38.6,124618.0,c,1,abc,North Zacharyville,Malaysia,False,missing,+1-628-379-4680,married,missing,Pathologist,missing,missing,6,256.0,Asia,2
+Matthew Lucas,42.452599388379205,16446.0,a,0,003,Michaelmouth,Wallis and Futuna,True,M,001-183-562-7580x62662,married,missing,Public house manager,missing,missing,1,539.2338129496403,Oceania,2
+Melissa Spears,22.0,90462.0,missing,0,002,New Lisastad,Switzerland,True,F,619.565.7709x4642,single,missing,"Loss adjuster, chartered",Excel,PowerBI,10,902.0,Europe,2
+Austin Jackson,42.452599388379205,109685.0,a,1,001,Brentstad,Serbia,True,Other,6350088462,married,freelancer,Materials engineer,missing,missing,7,539.2338129496403,Europe,2
+Cameron Baker,37.4,119746.0,c,0,003,Port Colin,Burkina Faso,False,F,+1-526-345-1108x4180,single,unemployed,Conference centre manager,Python,PowerBI,8,145.0,Africa,2
+William Flores,43.0,7938.0,b,0,abc,Reginaport,Christmas Island,True,F,6516612179,single,missing,Barrister,SQL,missing,0,58.0,Asia,2
+Misty Short,43.6,85825.0,missing,1,missing,North Suzannemouth,British Virgin Islands,True,M,+1-730-148-3511,married,unemployed,Theme park manager,Python,Tableau,3,594.0,North America,2
+Jacob Rojas,36.2,93373.0,a,1,002,Port Kurt,Christmas Island,True,F,+1-116-411-1126x03638,married,employed,Engineering geologist,missing,missing,1,885.0,Asia,2
+Steven Bartlett,43.4,147004.0,missing,1,001,Port Russellburgh,Aruba,False,F,338-422-3138,missing,freelancer,Industrial/product designer,SQL,PowerBI,6,598.0,North America,2
+Paul Shelton,38.0,62696.0,b,1,missing,South Leonard,Papua New Guinea,True,M,+1-363-951-4047,married,missing,"Administrator, education",Python,missing,7,556.2,Oceania,2
+Jonathan Collins,42.452599388379205,29836.0,c,1,missing,Goodmantown,Hong Kong,False,Other,(904)225-6082x40036,missing,missing,Psychiatrist,Excel,R,0,539.2338129496403,Asia,2
+Timothy Vasquez,42.452599388379205,65928.0,missing,0,missing,Mcgeemouth,Liberia,True,F,001-353-646-6772x3349,single,freelancer,Secretary/administrator,SQL,missing,3,539.2338129496403,Africa,2
+Jonathon Howard,23.0,82755.0,a,0,abc,West Maryton,Chile,False,M,001-826-793-6119,missing,freelancer,Chartered accountant,SQL,R,5,981.0,South America,2
+Jennifer Walters,42.452599388379205,80616.0,a,0,missing,North Amy,Israel,True,Other,(862)647-9284x129,married,missing,Archivist,Excel,Tableau,10,539.2338129496403,Asia,2
+Joseph Rhodes MD,64.0,141700.0,c,0,abc,Yangbury,Saint Barthelemy,True,M,403.534.4448x8010,single,unemployed,Environmental consultant,Excel,Tableau,3,605.2,Unknown,2
+Kelly Baker,23.0,58575.0,a,0,001,East Monica,Hungary,True,missing,001-955-100-2842,married,unemployed,Lawyer,SQL,missing,2,707.0,Europe,2
+Patrick Sherman,50.199999999999996,57796.0,b,0,001,Shieldshaven,French Polynesia,True,missing,421-500-6023x7840,married,missing,Education administrator,missing,missing,8,176.0,Oceania,2
+Cassie Pierce,42.8,131353.0,a,1,abc,New Catherine,Aruba,True,Other,(904)736-7515x41377,married,missing,Energy manager,SQL,R,6,288.0,North America,2
+Kimberly Clark,43.4,131050.0,b,0,002,Lake Steven,Malta,True,F,+1-028-579-1156x89476,married,employed,Technical brewer,Excel,missing,5,598.0,Europe,2
+Todd Carrillo,42.452599388379205,102817.0,missing,0,003,Alexanderfurt,Antarctica (the territory South of 60 deg S),True,missing,+1-246-450-2508x42081,single,missing,Medical physicist,missing,Tableau,3,539.2338129496403,Unknown,2
+Reginald Green,42.8,133089.0,c,1,missing,Richardmouth,Chad,True,missing,(232)349-9413,married,unemployed,Civil Service administrator,missing,PowerBI,5,76.0,Africa,2
+Jessica Bennett,46.8,43766.0,b,0,abc,Port Matthewchester,Malta,False,Other,001-137-231-4410x57744,married,employed,Archaeologist,Excel,PowerBI,10,183.0,Europe,2
+David Salinas,42.452599388379205,26062.0,missing,0,abc,New Eric,Macedonia,False,missing,659.003.3590x210,missing,missing,"Accountant, chartered",missing,missing,9,539.2338129496403,Europe,2
+Kathy Richardson,50.2,95280.0,c,1,missing,East Joshuabury,Myanmar,False,missing,001-864-584-1689x24188,missing,employed,Geographical information systems officer,SQL,missing,0,1040.0,Asia,2
+Joseph Dunlap,42.452599388379205,80586.0,missing,0,002,Port Christyland,Congo,True,F,(032)646-3961,married,unemployed,Administrator,missing,Tableau,8,539.2338129496403,Africa,2
+Michelle Warren,52.8,20461.0,c,0,003,East Sarah,Seychelles,True,missing,680-090-7359,single,unemployed,Maintenance engineer,Excel,R,1,17.0,Africa,2
+Sydney Harrison,42.2,66546.0,missing,0,missing,Maryhaven,Bosnia and Herzegovina,True,M,+1-735-487-5130,missing,employed,Media buyer,missing,PowerBI,1,799.0,Europe,2
+Larry Howell,51.0,74687.0,missing,0,003,Port Hannah,Mauritania,True,Other,(969)931-2288,missing,freelancer,Administrator,SQL,R,10,725.8,Africa,2
+Lynn Hernandez,36.4,91574.0,b,1,abc,Cherylview,Central African Republic,True,F,+1-213-758-0914x58610,single,missing,Probation officer,Python,Tableau,5,567.0,Africa,2
+Valerie Walker,42.452599388379205,54266.0,a,0,001,Port Billyshire,Guatemala,True,M,986.485.2451,missing,missing,"Engineer, structural",SQL,missing,7,539.2338129496403,North America,2
+Emily Nguyen,33.2,129812.0,b,1,003,Mcintyrechester,Turks and Caicos Islands,False,F,001-621-542-5458x3932,single,unemployed,"Psychologist, clinical",missing,PowerBI,4,352.0,North America,2
+Eric Collier,38.0,35324.0,missing,0,002,East Stephenville,Zimbabwe,False,F,(779)404-8723x8329,single,employed,Health visitor,missing,PowerBI,2,682.0,Africa,2
+Christopher Bradshaw,41.8,129859.0,b,0,missing,East Stevenfort,Guatemala,True,M,(774)756-9141x4526,missing,unemployed,"Accountant, chartered management",missing,missing,1,138.00000000000006,North America,2
+Richard Clark,42.452599388379205,119547.0,a,0,003,Petersonbury,Estonia,True,Other,001-929-044-8006x6358,single,employed,Rural practice surveyor,Python,missing,3,539.2338129496403,Europe,2
+Austin Gonzales,45.0,87148.0,missing,0,missing,Alexanderberg,Bahamas,True,Other,+1-414-979-8279x4685,married,missing,Insurance broker,missing,R,5,1062.0,North America,2
+David Nixon,42.452599388379205,32940.0,missing,1,missing,New Michaelland,Central African Republic,True,Other,(646)065-3920,missing,unemployed,Financial adviser,missing,missing,2,539.2338129496403,Africa,2
+Patricia Cooper,36.0,85974.0,missing,1,003,North Martin,Brunei Darussalam,True,F,4574088891,missing,missing,Facilities manager,Excel,R,2,282.0,Asia,2
+Jose Stafford,42.0,18779.0,c,0,missing,North Lee,Albania,True,Other,6995440499,married,employed,Network engineer,missing,missing,5,983.0,Europe,2
+Lauren Fischer,36.6,107514.0,b,0,missing,Joneston,Zimbabwe,True,Other,719-158-8762,married,missing,Emergency planning/management officer,missing,PowerBI,2,642.0,Africa,2
+Chad Mcdaniel,55.0,47911.0,c,0,missing,Nathanmouth,Poland,True,Other,001-711-949-4427x9664,married,unemployed,Ceramics designer,SQL,PowerBI,5,689.0,Europe,2
+David Waller,54.0,116964.0,c,1,001,South Jeremychester,India,True,missing,443-483-4569x62259,single,employed,"Therapist, speech and language",missing,R,9,180.99999999999994,Asia,2
+Jose Phillips,42.452599388379205,36143.0,a,1,abc,Angelaland,Falkland Islands (Malvinas),True,missing,001-253-287-7073x744,missing,employed,Air traffic controller,missing,missing,4,539.2338129496403,South America,2
+Jeffrey Wood,47.4,35573.0,b,1,abc,Lake Anthonytown,Isle of Man,False,M,425.580.8013x5478,missing,freelancer,Dietitian,Excel,missing,2,40.0,Europe,2
+Raymond Clark,42.452599388379205,37829.0,b,0,001,Donaldchester,Greenland,False,missing,789-305-0208,single,missing,Network engineer,missing,missing,8,539.2338129496403,North America,2
+Casey Smith,42.452599388379205,37529.0,a,1,002,Carriestad,French Polynesia,False,M,(471)049-5541,missing,freelancer,"Accountant, chartered public finance",Excel,PowerBI,2,539.2338129496403,Oceania,2
+Courtney Brown,34.4,72308.0,a,1,001,West Eric,Timor-Leste,True,Other,(125)554-3800,married,missing,"Secretary, company",Excel,Tableau,4,132.0,Unknown,2
+Jordan Phillips,42.452599388379205,133566.0,c,0,003,Lake Lucasfurt,Singapore,False,M,(979)748-3236,single,unemployed,"Psychologist, educational",Excel,Tableau,2,539.2338129496403,Asia,2
+Robert Miller,31.0,99126.0,b,0,missing,Mercedesfort,Malta,True,M,6674908730,missing,freelancer,Animal nutritionist,missing,Tableau,6,528.2,Europe,2
+Theodore Henson,42.452599388379205,42550.0,missing,0,001,Stoneberg,Tajikistan,True,F,+1-818-479-1632,missing,missing,"Conservation officer, nature",missing,missing,2,539.2338129496403,Asia,2
+Willie Mcintyre,42.452599388379205,69880.0,b,1,001,New Jacob,Guinea-Bissau,True,missing,(048)774-5256,single,freelancer,Dramatherapist,Excel,R,5,539.2338129496403,Africa,2
+Michael Russell,27.0,103869.0,a,1,001,West Scottchester,Macedonia,True,F,+1-412-914-1705x12798,missing,missing,Youth worker,missing,PowerBI,8,1061.0,Europe,2
+Susan Soto,35.2,30969.0,a,0,003,West Mandy,Latvia,True,F,167.020.6977x794,missing,missing,Photographer,missing,Tableau,4,871.0,Europe,2
+Vanessa Sellers,46.2,42400.0,missing,0,missing,East Bruce,Netherlands Antilles,True,M,(636)190-7118,missing,unemployed,"Pharmacist, community",missing,missing,7,294.0,Unknown,2
+Michael Martin,42.452599388379205,77305.0,missing,0,missing,Philipton,Niue,False,Other,824-307-5623x0767,single,freelancer,Geochemist,missing,R,1,539.2338129496403,Oceania,2
+Jeffrey Boone,23.0,48283.0,a,1,missing,Port Duanehaven,Taiwan,True,missing,+1-111-886-7352x84464,single,missing,Tourist information centre manager,missing,Tableau,7,343.0,Asia,2
+Benjamin Williams,42.452599388379205,111291.0,a,0,002,East Brandonborough,Russian Federation,True,missing,001-097-705-3893,missing,unemployed,"Runner, broadcasting/film/video",missing,missing,0,539.2338129496403,Europe,2
+Nicholas Navarro,46.0,50826.0,b,0,002,West Robert,Puerto Rico,True,M,001-463-376-6770x907,missing,missing,Games developer,SQL,R,1,672.0,North America,2
+Melissa Elliott,61.0,35897.0,b,1,abc,Hillville,Hungary,True,Other,191-951-0645,single,missing,Planning and development surveyor,missing,Tableau,4,797.0,Europe,2
+Tommy Hoffman,50.0,132996.0,a,0,001,Scottport,Mongolia,True,Other,(071)094-7722x9730,missing,employed,"Buyer, retail",Excel,R,2,691.8,Asia,2
+Shawn Lin,40.0,56785.0,b,0,missing,New Laurie,Cote d'Ivoire,False,missing,+1-727-721-6833x0606,missing,employed,Systems developer,SQL,R,3,73.0,Unknown,2
+Paul Brooks,37.8,52757.0,missing,1,001,Port Caitlyn,French Guiana,True,missing,+1-586-081-6944x020,married,freelancer,Environmental education officer,missing,PowerBI,5,140.0,South America,2
+Emily Clark,30.0,40043.0,missing,1,missing,Port Adamburgh,Saint Martin,True,M,001-515-934-9862,married,missing,Corporate treasurer,Python,PowerBI,6,641.0,North America,2
+Kimberly Owens,45.2,109825.0,missing,1,002,Dianeborough,Holy See (Vatican City State),True,M,252-974-2075,married,unemployed,Personnel officer,Python,missing,0,267.0,Unknown,2
+Renee Rodriguez,33.0,7104.0,missing,0,003,Velasquezchester,Burundi,True,missing,1858866436,missing,unemployed,"Scientist, research (medical)",missing,Tableau,8,151.99999999999994,Africa,2
+Angela Flores,36.2,69842.0,missing,0,abc,East Cristianstad,Seychelles,True,missing,001-780-552-9710,married,unemployed,Careers adviser,missing,Tableau,3,577.0,Africa,2
+Michael Riggs,41.4,55378.0,c,1,001,Andrewsberg,Syrian Arab Republic,False,M,+1-230-734-5827x53014,missing,missing,"Engineer, production",missing,R,10,88.0,Asia,2
+Samantha Waters,42.452599388379205,138657.0,missing,1,003,South Paulshire,Vanuatu,True,Other,9800554053,missing,freelancer,"Psychotherapist, dance movement",missing,Tableau,5,539.2338129496403,Oceania,2
+Calvin Moore,29.0,89315.0,a,1,abc,Jasonstad,Norfolk Island,True,missing,935.154.7967x759,missing,unemployed,Automotive engineer,Python,missing,5,226.0,Oceania,2
+Michele Browning,37.0,149642.0,c,0,003,Danielberg,Chad,True,missing,043-555-5755,missing,unemployed,Purchasing manager,Python,Tableau,9,675.0,Africa,2
+Elizabeth Pearson,23.0,36550.0,a,0,missing,South Robertburgh,Uruguay,False,F,001-537-561-7960x601,missing,employed,Multimedia specialist,Excel,missing,9,787.0,South America,2
+Derek Santos,42.452599388379205,57952.0,missing,0,001,South Austin,Liberia,False,F,779-664-7217,missing,missing,Field seismologist,Python,R,7,539.2338129496403,Africa,2
+John Guerrero,63.0,114839.0,missing,0,001,East Janetside,American Samoa,False,missing,391.487.7572,married,freelancer,"Psychotherapist, child",Excel,missing,0,574.4,Oceania,2
+Toni Cummings,42.452599388379205,144583.0,missing,1,002,Noahport,Marshall Islands,True,missing,(295)720-7158,missing,missing,"Nurse, mental health",missing,R,3,539.2338129496403,Oceania,2
+Patricia Jordan,18.0,7322.0,missing,0,missing,North Heather,Estonia,True,Other,275.939.4170,missing,freelancer,Retail buyer,missing,PowerBI,2,607.2,Europe,2
+Jay Patel,49.0,43833.0,b,0,003,Jeffreyton,Mayotte,True,F,(078)297-9728x7187,single,employed,Glass blower/designer,Python,missing,5,468.0,Africa,2
+Christopher Richards,42.452599388379205,40025.0,missing,0,003,Melissatown,Ecuador,True,M,602.641.0319,single,freelancer,Diagnostic radiographer,SQL,R,2,539.2338129496403,South America,2
+Craig Frey,42.452599388379205,105134.0,b,0,missing,West Josephbury,Bahrain,False,missing,+1-220-364-6206x9818,missing,freelancer,"Engineer, water",SQL,missing,10,539.2338129496403,Asia,2
+Melissa Ellis,47.2,118745.0,c,0,abc,West Dennis,Tunisia,True,missing,(359)211-9789x275,missing,unemployed,Private music teacher,SQL,Tableau,9,818.0,Africa,2
+Justin Burke,64.0,47708.0,c,1,missing,Ramosshire,Swaziland,False,M,+1-582-919-2170x53672,single,missing,"Engineer, land",SQL,missing,10,164.0,Africa,2
+Marilyn Simpson,42.452599388379205,8090.0,b,1,abc,South Pattyfurt,Antigua and Barbuda,True,M,632-441-8264,single,unemployed,"Pharmacist, hospital",SQL,PowerBI,4,539.2338129496403,North America,2
+Mr. Russell Harris,44.6,7463.0,b,0,missing,Murphyview,Martinique,True,M,+1-055-199-5115,married,missing,"Engineer, biomedical",missing,missing,2,629.0,North America,2
+Timothy Jones,44.2,147482.0,b,0,001,Lake Katrinaborough,Cuba,True,M,+1-726-471-0365x79070,missing,employed,Investment analyst,missing,missing,2,114.0,North America,2
+Michael Haley,32.0,43633.0,c,1,002,West Ronaldport,Lao People's Democratic Republic,True,M,983-101-3315x77804,married,employed,Clinical cytogeneticist,SQL,PowerBI,4,312.0,Asia,2
+Michael Schultz,39.4,27230.0,a,0,002,West Daniel,Uganda,False,missing,001-431-427-4533x20179,missing,missing,Office manager,SQL,missing,2,300.0,Africa,2
+Daniel Elliott,42.452599388379205,96327.0,b,1,abc,Levyfort,Paraguay,True,Other,+1-497-492-9433x235,single,employed,Contracting civil engineer,SQL,Tableau,5,539.2338129496403,South America,2
+Gary Fleming,42.452599388379205,34665.0,missing,1,002,Transtad,Tonga,True,Other,(652)457-8420,married,missing,Ambulance person,Python,R,7,539.2338129496403,Oceania,2
+Nicole Rodriguez,42.452599388379205,92415.0,c,0,abc,South Katherineville,Saudi Arabia,True,missing,290-127-2718x012,missing,missing,Insurance claims handler,missing,Tableau,6,539.2338129496403,Asia,2
+Jeffrey Jimenez,42.452599388379205,62497.0,b,0,003,North Angelaview,China,True,F,4442947918,missing,missing,"Engineer, mining",missing,Tableau,1,539.2338129496403,Asia,2
+Derrick Lambert,52.8,42785.0,missing,1,002,West Kayla,Bermuda,False,F,+1-832-918-5451x982,married,employed,Statistician,SQL,missing,0,8.0,North America,2
+Anthony Cole,33.2,24338.0,missing,0,002,East Andrewland,Finland,True,F,+1-947-448-5577x3357,married,employed,"Conservator, furniture",SQL,PowerBI,0,352.0,Europe,2
+Carla Navarro,44.0,41729.0,missing,1,abc,Phillipsfort,Switzerland,True,Other,325.621.3020x17547,single,freelancer,Set designer,Excel,Tableau,0,81.00000000000006,Europe,2
+Martin Rogers,42.4,7848.0,missing,1,missing,Watkinsburgh,Kuwait,True,missing,306.181.3323x77532,missing,missing,"Programmer, applications",missing,R,3,529.0,Asia,2
+Garrett Malone MD,37.8,37802.0,a,1,missing,Richmondport,Aruba,True,F,497-097-9277,married,missing,Soil scientist,missing,PowerBI,7,309.0,North America,2
+Patrick Johnson,42.452599388379205,48207.0,a,0,missing,New Kevinfurt,Wallis and Futuna,True,F,4634950754,single,employed,Commercial art gallery manager,Excel,R,9,539.2338129496403,Oceania,2
+John Cardenas,19.0,32909.0,b,0,missing,Michaeltown,Singapore,True,Other,283.836.2745x05939,married,employed,Learning disability nurse,SQL,R,1,267.0,Asia,2
+Eric Jordan,54.0,131827.0,a,1,003,Elizabethview,Palestinian Territory,True,Other,(105)330-0417,missing,freelancer,Claims inspector/assessor,missing,missing,3,374.6,Unknown,2
+Antonio Rodgers,42.4,30527.0,c,1,missing,Bartonbury,Botswana,True,missing,(891)055-3402x505,single,missing,Copy,missing,missing,9,411.0,Africa,2
+Janice Black,36.0,25644.0,b,0,002,East Elizabeth,Mali,False,F,(155)603-2512,missing,missing,"Engineer, maintenance (IT)",SQL,R,4,794.0,Africa,2
+Pamela Bates,33.2,106615.0,a,0,missing,North Stevenmouth,Pakistan,True,F,+1-277-020-9516x02298,missing,employed,Equities trader,Excel,Tableau,4,357.0,Asia,2
+Mario Jones,40.0,49490.0,b,0,001,New Juanstad,Morocco,True,missing,+1-741-622-3639x254,missing,employed,Advertising copywriter,Excel,Tableau,7,1053.0,Africa,2
+Tyler Yu,42.452599388379205,41817.0,b,0,abc,Murphyborough,Romania,True,Other,(301)442-0104x5036,missing,missing,"Surveyor, building",missing,Tableau,7,539.2338129496403,Europe,2
+Erin Evans,45.6,113316.0,missing,0,003,Collierton,Guernsey,True,missing,+1-896-354-9885,single,unemployed,"Presenter, broadcasting",missing,PowerBI,2,1036.0,Europe,2
+Michael West,49.0,24130.0,a,1,abc,Tuckerhaven,Reunion,True,Other,852.398.6755x0478,missing,missing,Product/process development scientist,missing,PowerBI,1,467.0,Unknown,2
+David Ross,64.0,57290.0,missing,0,001,Christiantown,Tunisia,True,Other,+1-312-646-5624,missing,unemployed,Hospital doctor,missing,PowerBI,4,605.2,Africa,2
+Mr. Robert Miller,42.8,43145.0,a,0,missing,Port Austinview,Denmark,True,missing,2349789226,single,freelancer,Music therapist,missing,missing,3,69.0,Europe,2
+Jaime Hughes,31.0,51165.0,b,0,001,East Madison,Azerbaijan,True,missing,(270)807-2877x6353,missing,missing,Interior and spatial designer,missing,missing,3,528.2,Asia,2
+Kaitlin Ford,34.0,117337.0,c,1,002,Lake Christopher,Eritrea,False,Other,(898)454-2592x288,missing,missing,Diplomatic Services operational officer,missing,Tableau,6,348.0,Africa,2
+Kelsey Owen,42.452599388379205,57051.0,b,0,missing,Maryland,Kenya,False,Other,001-507-025-3838,missing,employed,Office manager,SQL,missing,2,539.2338129496403,Africa,2
+Donna Harper,38.0,5963.0,missing,0,missing,Nancyland,Georgia,True,missing,845.187.2396x8511,single,unemployed,"Nurse, adult",SQL,missing,8,556.2,Asia,2
+Benjamin Thompson,39.0,55111.0,a,0,003,Rhondaberg,Greenland,True,Other,001-227-795-3226x1768,single,missing,Publishing copy,missing,missing,6,961.0,North America,2
+Nicholas Evans,42.452599388379205,93034.0,b,0,abc,East Tinaburgh,Tunisia,True,Other,(257)374-4672x568,married,missing,Sales promotion account executive,missing,missing,4,539.2338129496403,Africa,2
+Lisa Nunez,42.452599388379205,31011.0,b,1,001,Port John,Guernsey,True,missing,(848)170-1318x73279,single,missing,Air broker,missing,missing,1,539.2338129496403,Europe,2
+Clarence Soto,42.452599388379205,80996.0,missing,0,002,Fraziermouth,Guernsey,True,missing,001-479-124-0433,single,unemployed,Counselling psychologist,missing,PowerBI,5,539.2338129496403,Europe,2
+Jennifer Erickson,42.452599388379205,103210.0,a,0,003,East Josephfurt,French Guiana,True,Other,5791986575,missing,unemployed,Retail buyer,Excel,missing,0,539.2338129496403,South America,2
+Jennifer Jackson,19.0,141043.0,c,0,002,Port Anna,Yemen,True,F,141-852-7101x67449,missing,unemployed,Industrial/product designer,missing,missing,0,1063.0,Asia,2
+Sarah King,45.0,50538.0,missing,0,missing,Smithchester,Yemen,False,missing,(230)395-7866,single,unemployed,"Accountant, chartered certified",missing,PowerBI,10,531.4,Asia,2
+Kyle Parks,38.6,46694.0,c,0,001,Morganville,Afghanistan,True,M,001-109-875-6590x876,single,missing,Chartered certified accountant,SQL,PowerBI,9,746.0,Asia,2
+Phillip Garcia,52.0,39222.0,missing,0,002,Dorisborough,British Indian Ocean Territory (Chagos Archipelago),False,F,001-270-417-6989x2789,married,missing,Occupational hygienist,SQL,missing,4,512.0,Unknown,2
+Susan Johnson,37.2,11066.0,b,1,abc,Joycemouth,Kuwait,True,M,001-744-734-6063,missing,freelancer,Commissioning editor,SQL,PowerBI,1,950.0,Asia,2
+Kayla Cisneros,41.0,10755.0,missing,1,abc,Stevenfort,United Arab Emirates,True,F,685-009-1948,missing,missing,Firefighter,Python,missing,2,479.6,Asia,2
+Frank Marquez,37.0,13244.0,b,0,003,Nancyland,Saint Lucia,True,missing,(830)146-5247x996,single,unemployed,"Exhibitions officer, museum/gallery",missing,R,1,308.0,North America,2
+Lindsay Ryan,56.0,139150.0,c,0,003,Aguirreborough,Turkey,True,F,995.005.7666x09645,missing,unemployed,Medical sales representative,SQL,PowerBI,2,667.6,Asia,2
+Tyler Koch,41.8,96371.0,missing,1,abc,Lake April,Hong Kong,True,missing,(580)766-3729x3642,missing,unemployed,"Designer, textile",Python,Tableau,3,900.0,Asia,2
+Edwin Miller,42.452599388379205,86680.0,c,0,missing,Stephensonberg,Antigua and Barbuda,True,missing,589.515.2886x17771,missing,missing,Corporate investment banker,Python,R,9,539.2338129496403,North America,2
+Vincent Thompson Jr.,42.452599388379205,97514.0,c,1,abc,West Michaeltown,Saudi Arabia,False,M,+1-477-436-1473x3200,missing,missing,Chartered loss adjuster,missing,R,9,539.2338129496403,Asia,2
+Noah King,42.452599388379205,52160.0,c,1,002,Port Mariah,Comoros,True,F,948.973.3098,married,freelancer,Waste management officer,Python,Tableau,5,539.2338129496403,Africa,2
+Timothy Oconnor,39.6,61039.0,missing,0,003,Lake Jasonshire,Jamaica,False,missing,001-749-795-0323x68409,missing,freelancer,Comptroller,missing,Tableau,8,535.0,North America,2
+Daryl Ayala,37.4,24614.0,missing,1,003,West Dawn,Yemen,True,F,001-692-496-7058x3525,single,missing,"Conservation officer, historic buildings",missing,PowerBI,4,376.0,Asia,2
+Mackenzie Wilson,25.0,90688.0,missing,0,missing,East Ashleyborough,Saint Martin,True,Other,3636597001,single,missing,"Education officer, community",Python,Tableau,6,501.6,North America,2
+Joshua Benson,46.2,9265.0,b,0,001,South Jenniferfort,Luxembourg,True,Other,268-826-1556,missing,freelancer,Broadcast presenter,missing,PowerBI,8,1049.0,Europe,2
+John Lynch,44.4,124165.0,missing,1,003,Port Jessicafort,Jordan,True,M,454-027-4113x38743,single,employed,Camera operator,SQL,PowerBI,5,283.0,Asia,2
+Ernest Young,39.8,55111.0,c,0,001,North Dianestad,United States of America,True,Other,084.049.9086,single,employed,Oncologist,Python,PowerBI,4,493.0,North America,2
+Harold Burton,42.452599388379205,49653.0,c,0,abc,Derrickberg,Uganda,True,F,(303)643-3633x61858,married,missing,Fish farm manager,missing,missing,10,539.2338129496403,Africa,2
+Kayla Maynard,41.4,133477.0,b,0,missing,East Scottside,Saint Kitts and Nevis,True,F,340.741.2557,missing,freelancer,"Geneticist, molecular",Excel,R,8,82.0,North America,2
+Karen Villa,49.0,24698.0,missing,1,002,South Joshuamouth,Colombia,True,F,+1-826-763-8736x006,missing,unemployed,Facilities manager,missing,PowerBI,5,471.0,South America,2
+Mrs. Sabrina Vaughn,42.452599388379205,86743.0,missing,0,missing,Millerland,Pakistan,True,F,001-932-319-2290,missing,missing,Charity officer,missing,missing,8,539.2338129496403,Asia,2
+Nicholas Estrada,43.0,48043.0,b,0,missing,Sierrastad,Hong Kong,True,F,847.930.2240x267,single,employed,Health visitor,SQL,PowerBI,7,154.0,Asia,2
+Tyler Wilson,35.0,123657.0,c,1,001,Mooreside,Trinidad and Tobago,True,Other,152.400.0509x46336,married,unemployed,Learning mentor,missing,missing,6,567.6,North America,2
+Alyssa Rivas,39.0,30641.0,a,1,missing,Heathershire,British Indian Ocean Territory (Chagos Archipelago),True,F,1286714443,married,missing,Exercise physiologist,SQL,missing,4,451.20000000000005,Unknown,2
+Bradley Chaney,42.452599388379205,18073.0,a,1,002,Mckenziemouth,Antarctica (the territory South of 60 deg S),True,M,001-265-391-8207,missing,unemployed,Museum/gallery conservator,Excel,missing,1,539.2338129496403,Unknown,2
+Tabitha Marquez,42.452599388379205,31556.0,a,1,abc,Williamsmouth,New Caledonia,False,F,(682)488-0091,missing,freelancer,Water quality scientist,missing,R,0,539.2338129496403,Oceania,2
+Nathan Robertson,42.452599388379205,85038.0,a,0,003,Chanbury,Turkmenistan,True,F,725.401.8988,missing,missing,"Engineer, petroleum",SQL,PowerBI,10,539.2338129496403,Asia,2
+Sarah Garcia,37.4,74162.0,b,0,missing,New Sherry,Montenegro,True,missing,001-434-994-4209x6812,missing,missing,Estate agent,Excel,missing,3,875.0,Europe,2
+Debra Henry,25.0,81194.0,a,0,missing,Tanyaland,British Virgin Islands,False,F,+1-086-447-3576x32467,single,freelancer,"Engineer, electronics",Python,missing,7,1074.0,North America,2
+Todd Smith,39.4,71463.0,c,0,001,Lake Alison,Marshall Islands,True,Other,301-456-8677x233,missing,missing,"Doctor, general practice",missing,missing,1,110.00000000000006,Oceania,2
+Brian Flores DDS,44.6,112562.0,a,0,003,Lake Danielville,Papua New Guinea,True,M,294.326.2036x732,missing,freelancer,Clinical psychologist,SQL,PowerBI,3,322.0,Oceania,2
+Elizabeth Griffin,58.0,147846.0,missing,0,002,New Nicholas,Sweden,True,Other,959-121-5361x3376,missing,missing,Systems developer,missing,R,4,799.0,Europe,2
+Anna Hill,42.452599388379205,37233.0,missing,0,missing,Jeffreyfurt,Angola,True,Other,436-744-8788,single,missing,Emergency planning/management officer,SQL,missing,10,539.2338129496403,Africa,2
+Angie Griffin,42.452599388379205,47626.0,b,0,003,Lake Todd,Antigua and Barbuda,True,Other,(102)978-2394,missing,employed,Personnel officer,SQL,R,9,539.2338129496403,North America,2
+Sarah Snow,38.2,97341.0,a,1,003,Smithberg,Croatia,False,Other,276.002.7333x36550,married,employed,Academic librarian,Python,Tableau,3,345.0,Europe,2
+Kevin King,55.0,129040.0,c,0,missing,Romeroview,Vanuatu,True,missing,801-369-6373,single,freelancer,"Radiographer, diagnostic",Python,missing,4,396.0,Oceania,2
+Ryan Villa,43.8,41484.0,a,1,002,Swansonberg,French Guiana,True,missing,889.594.6701,missing,freelancer,Equities trader,Excel,R,9,215.0,South America,2
+James Jordan,42.2,119528.0,b,0,missing,New Michaelside,Netherlands,True,Other,+1-918-309-3976x831,missing,missing,Patent attorney,Python,missing,7,902.0,Europe,2
+Jack Vargas,43.4,11926.0,missing,1,002,Cynthiafort,French Polynesia,True,F,035.668.4317x3542,missing,unemployed,Electrical engineer,missing,missing,9,840.0,Oceania,2
+Roger Lowery,36.800000000000004,6560.0,missing,0,abc,Stevenview,Anguilla,True,M,(136)979-6483x688,missing,employed,Therapeutic radiographer,Python,missing,1,882.0,North America,2
+Ms. Ashley Hanson,40.0,36835.0,missing,1,missing,Lake Lisa,Gabon,False,missing,700.810.6056x7862,missing,unemployed,Fisheries officer,SQL,Tableau,4,93.99999999999994,Africa,2
+Tara Spears,49.0,57612.0,b,1,001,North Erica,Kuwait,False,missing,518-689-3156,single,unemployed,"Geneticist, molecular",SQL,PowerBI,7,463.0,Asia,2
+Darren Williams,42.452599388379205,36932.0,b,1,abc,West Jamesville,France,False,F,(837)416-1101x702,missing,missing,Fast food restaurant manager,missing,missing,1,539.2338129496403,Europe,2
+Michael Davis,43.2,68093.0,c,0,missing,Burtonfort,Palestinian Territory,False,missing,+1-522-895-1052x892,missing,freelancer,"Scientist, biomedical",Excel,missing,7,683.0,Unknown,2
+Olivia Clark,42.452599388379205,33137.0,missing,1,abc,Herreraburgh,Belize,False,M,288.060.0977,missing,employed,Geophysicist/field seismologist,missing,missing,0,539.2338129496403,North America,2
+Christie Nichols,37.0,97989.0,c,0,missing,Brownberg,Gambia,True,Other,(157)278-4098,married,freelancer,Theatre stage manager,missing,missing,3,413.8,Africa,2
+Joseph Espinoza,42.452599388379205,50743.0,c,0,missing,Smithshire,India,True,missing,827.581.3612x331,married,freelancer,Statistician,Python,missing,1,539.2338129496403,Asia,2
+Nicholas Lee,42.452599388379205,52284.0,missing,0,003,West Kathy,Sweden,False,Other,050-356-1998,missing,missing,Warden/ranger,missing,missing,1,539.2338129496403,Europe,2
+Shelby Valencia,43.4,32845.0,missing,0,003,Brettmouth,Gambia,False,F,(656)114-2856,married,missing,Police officer,missing,PowerBI,0,831.0,Africa,2
+Lynn Harrison,34.0,24105.0,missing,0,missing,Williamburgh,Cameroon,True,F,001-198-925-9760x466,single,missing,Consulting civil engineer,missing,Tableau,10,563.0,Africa,2
+Matthew Sanchez,53.0,119691.0,b,0,002,Taylorchester,Martinique,False,missing,+1-959-746-4020x987,married,employed,Retail buyer,missing,PowerBI,10,413.0,North America,2
+Kyle Murphy,24.0,6372.0,c,1,missing,East Ruth,Mauritania,True,Other,(458)514-9260x919,missing,unemployed,"Surveyor, minerals",SQL,missing,7,280.0,Africa,2
+David Livingston,42.452599388379205,41142.0,b,0,abc,Beckerchester,Chile,True,M,407.208.5049x52429,single,unemployed,Banker,missing,R,1,539.2338129496403,South America,2
+Mackenzie Vasquez,49.0,91748.0,a,0,003,Larsonland,Kenya,True,missing,001-781-714-6724x78945,missing,employed,"Education officer, community",SQL,R,1,8.0,Africa,2
+Amber Griffin,54.0,136084.0,b,1,missing,Houseport,French Guiana,True,missing,9965408542,single,missing,"Engineer, mining",missing,R,10,374.6,South America,2
+Mariah Huynh,42.452599388379205,92697.0,a,0,002,West Josephport,Myanmar,True,M,001-788-173-8640x25869,missing,employed,Government social research officer,missing,missing,0,539.2338129496403,Asia,2
+Brianna Young,42.452599388379205,26127.0,missing,0,002,Smithfurt,French Guiana,True,M,001-873-727-6844x362,single,missing,Materials engineer,missing,Tableau,10,539.2338129496403,South America,2
+Thomas Anderson,37.0,64704.0,a,1,001,Daviston,Palau,False,missing,001-639-916-8564x799,missing,employed,Microbiologist,missing,missing,0,551.0,Oceania,2
+Jessica Gilbert,39.2,116891.0,missing,0,001,Christopherborough,Dominican Republic,True,M,001-819-009-8496x25811,missing,freelancer,Retail merchandiser,SQL,R,6,405.0,North America,2
+Christopher Cunningham,33.0,64539.0,missing,0,missing,Lake Tonyabury,Cyprus,True,M,3083388430,married,employed,Chartered accountant,Excel,PowerBI,2,104.0,Asia,2
+Marvin Weiss,32.8,69027.0,b,0,missing,Karenfort,Montserrat,True,missing,(094)130-7813x868,single,employed,"Producer, radio",Excel,R,8,733.0,North America,2
+Michael Hall,42.2,62746.0,missing,1,003,Hughesfort,Lithuania,True,F,+1-661-589-3958,missing,freelancer,Associate Professor,missing,missing,1,798.0,Europe,2
+Ronald Richardson,42.452599388379205,25564.0,a,0,missing,Barryborough,Pitcairn Islands,False,Other,(474)161-5233,married,employed,Travel agency manager,Python,Tableau,0,539.2338129496403,Unknown,2
+Dr. Katherine Lloyd,42.452599388379205,10580.0,missing,1,003,Catherinechester,Chile,True,missing,001-039-926-4873x5801,missing,employed,"Designer, blown glass/stained glass",Excel,R,9,539.2338129496403,South America,2
+Lori Ruiz,49.0,16643.0,a,0,abc,Jonathanville,Panama,False,missing,+1-800-895-7677x2442,single,freelancer,Metallurgist,Excel,missing,5,592.8,North America,2
+Rodney Garcia,39.0,61765.0,a,0,missing,Ritterside,Bolivia,True,missing,520.705.5114,single,employed,"Nurse, adult",missing,missing,10,304.0,South America,2
+Ronald Owens,42.452599388379205,141029.0,b,0,abc,Grayview,New Zealand,True,F,(977)187-4086x8082,single,freelancer,"Psychotherapist, dance movement",Python,PowerBI,3,539.2338129496403,Oceania,2
+Anthony Rocha,42.452599388379205,76898.0,c,1,missing,Jamesside,Christmas Island,True,missing,+1-700-591-0667x326,single,freelancer,Surgeon,missing,R,4,539.2338129496403,Asia,2
+Jennifer Key,49.0,127274.0,a,0,abc,East Gabriel,Ukraine,False,missing,725.500.6047,single,freelancer,Civil Service administrator,missing,missing,5,467.0,Europe,2
+Jennifer Adkins,46.0,77389.0,b,0,002,East Ronnie,Bosnia and Herzegovina,False,F,287.626.2609x7052,single,unemployed,Trading standards officer,Excel,PowerBI,2,1025.0,Europe,2
+Cassidy Cummings,42.452599388379205,64756.0,a,1,003,Henryborough,Suriname,True,Other,(261)519-5793,single,missing,Trading standards officer,SQL,R,1,539.2338129496403,South America,2
+Rebecca Sanchez,36.8,67122.0,a,0,missing,Chanport,Germany,True,missing,001-173-998-6081x792,missing,freelancer,"Conservation officer, nature",SQL,PowerBI,5,865.0,Europe,2
+Tammy Brown,42.452599388379205,103229.0,missing,1,missing,Diazfurt,Sudan,True,F,533-992-0164x23448,single,freelancer,Energy manager,SQL,missing,0,539.2338129496403,Africa,2
+Mitchell Murphy,56.0,138216.0,c,0,abc,New Laurieland,United States of America,True,F,440-167-2454,single,employed,"Research officer, trade union",SQL,missing,8,1076.0,North America,2
+William Thompson,42.452599388379205,36782.0,missing,1,missing,Matthewton,Vietnam,True,missing,+1-223-425-4563x591,missing,freelancer,"Engineer, technical sales",Python,Tableau,9,539.2338129496403,Asia,2
+Mrs. Natalie Rice,38.2,99886.0,a,0,003,Charlesland,Dominican Republic,True,F,001-585-425-3043x49269,missing,freelancer,Records manager,Excel,R,8,972.0,North America,2
+Danielle Lewis,42.452599388379205,122694.0,missing,0,missing,Mirandaview,Sri Lanka,False,missing,292.445.4743x254,missing,missing,Dealer,SQL,missing,4,539.2338129496403,Asia,2
+Victoria Ball,37.8,115368.0,missing,0,missing,West Zacharyville,Equatorial Guinea,True,F,311-827-3596,missing,employed,Commercial/residential surveyor,SQL,PowerBI,6,389.0,Africa,2
+Brenda Nunez,42.452599388379205,38134.0,a,1,001,Edwardsmouth,South Georgia and the South Sandwich Islands,False,M,981.027.5303,missing,missing,"Programmer, multimedia",Python,Tableau,6,539.2338129496403,South America,2
+Bryan Smith,53.0,93248.0,b,1,001,West William,Mali,True,missing,001-031-340-6149x01354,missing,missing,Charity officer,Python,missing,2,834.0,Africa,2
+Katherine Allen,42.452599388379205,138529.0,b,0,001,East Mitchell,Sao Tome and Principe,True,missing,(704)479-7560x6865,missing,missing,"Lighting technician, broadcasting/film/video",SQL,missing,9,539.2338129496403,Africa,2
+Mr. William Webster PhD,24.0,17658.0,missing,0,missing,New Joseview,Saudi Arabia,True,Other,077-691-9055x05168,missing,freelancer,Call centre manager,SQL,Tableau,0,140.0,Asia,2
+Robert Stanley,64.0,87409.0,b,0,003,Port Cynthia,South Africa,False,M,(687)569-7509,missing,missing,Animal nutritionist,missing,Tableau,2,605.2,Africa,2
+David Fuentes,37.2,78040.0,c,1,002,New Adam,Austria,False,M,+1-591-898-5774x116,single,missing,Printmaker,missing,Tableau,0,949.0,Europe,2
+Dana Vincent,44.6,116805.0,missing,0,002,East Michaelport,Belarus,True,Other,043-665-1229x163,single,missing,"Therapist, art",missing,missing,4,322.0,Europe,2
+Elizabeth Hunter,36.8,25726.0,a,1,003,Danaton,Congo,False,missing,924.771.1901x984,missing,missing,Risk manager,missing,PowerBI,5,880.0,Africa,2
+John Lane,45.0,14341.0,a,0,002,Claudiafurt,Austria,True,F,001-231-140-2009x588,married,freelancer,Tax adviser,missing,Tableau,7,531.4,Europe,2
+Kristi Wagner,43.2,28255.0,missing,0,001,Lake Angela,Honduras,True,M,344.080.8116,married,unemployed,"Producer, radio",Excel,missing,4,685.0,North America,2
+Michael Cardenas,42.452599388379205,96410.0,missing,0,missing,South Michael,Azerbaijan,False,Other,(193)995-9518x2834,missing,missing,Risk analyst,missing,missing,9,539.2338129496403,Asia,2
+Christopher Suarez,53.2,34456.0,b,1,abc,South Wendy,Paraguay,True,F,(631)823-1687,missing,employed,"Psychologist, forensic",SQL,missing,5,759.0,South America,2
+Scott Simmons,42.452599388379205,131809.0,missing,0,abc,Courtneyland,Estonia,False,M,8419652235,missing,missing,Broadcast presenter,SQL,missing,0,539.2338129496403,Europe,2
+Dr. Katie Kelley,39.6,120854.0,missing,1,003,Kennethstad,Nigeria,True,Other,(851)333-9023,married,freelancer,Landscape architect,Excel,R,7,534.0,Africa,2
+Emily Smith,44.2,33918.0,c,0,missing,West David,Saint Martin,True,M,001-951-465-3373,single,freelancer,Product manager,Python,missing,1,931.0,North America,2
+Darius Wilson,37.8,57019.0,c,0,abc,Joshuafurt,Gabon,False,Other,(809)573-0278x315,missing,freelancer,Clinical psychologist,missing,Tableau,8,390.0,Africa,2
+Jonathan Bishop,33.0,143033.0,b,0,abc,Port Jessicaborough,Norway,True,M,001-929-622-6510x4578,missing,freelancer,"Psychologist, forensic",Excel,Tableau,10,154.0,Europe,2
+Keith Hunter,33.0,104052.0,missing,0,missing,Keithside,Afghanistan,True,M,+1-171-276-4292x0793,single,missing,"Psychotherapist, dance movement",missing,PowerBI,0,970.0,Asia,2
+Melissa Hall,39.2,107530.0,a,0,003,New Shaun,Albania,True,missing,+1-637-594-9288,single,freelancer,Secondary school teacher,Python,missing,3,621.0,Europe,2
+David Garcia,42.452599388379205,81346.0,missing,1,002,South Jillian,Korea,True,missing,(076)983-8272x7402,missing,freelancer,Food technologist,missing,missing,3,539.2338129496403,Unknown,2
+Amy Barnes,42.452599388379205,148283.0,b,0,002,Hardingstad,Equatorial Guinea,True,missing,299.111.8667,missing,freelancer,Paediatric nurse,missing,missing,1,539.2338129496403,Africa,2
+Kellie Phelps,33.0,26924.0,b,0,002,Marcomouth,Cayman Islands,False,missing,(809)587-1827x7224,married,employed,Lawyer,SQL,missing,9,725.0,North America,2
+Crystal Andrews,42.452599388379205,20448.0,missing,1,abc,Arnoldville,Albania,True,Other,914-335-6935,single,freelancer,Video editor,missing,missing,6,539.2338129496403,Europe,2
+Bradley Mendoza,39.2,133116.0,missing,0,003,South Shirleytown,Czech Republic,False,Other,118.313.0910,missing,missing,Dietitian,missing,PowerBI,1,613.0,Europe,2
+Christopher Estrada,62.0,8571.0,c,0,missing,East Jessicafort,Myanmar,True,F,608-529-5184x59167,missing,employed,Freight forwarder,Excel,missing,7,761.8,Asia,2
+Mrs. Samantha Tran,42.452599388379205,148415.0,missing,1,001,Port Christineview,Nauru,True,M,253-888-1320x970,missing,freelancer,Contractor,missing,R,9,539.2338129496403,Oceania,2
+Julie Kennedy,46.8,142167.0,a,0,missing,Maryberg,Pitcairn Islands,True,missing,025-717-2389x078,missing,missing,Chartered management accountant,missing,Tableau,5,186.0,Unknown,2
+James Davenport,64.0,129222.0,a,0,abc,Lake Elizabethhaven,French Southern Territories,False,F,(939)052-9191x57796,single,employed,Materials engineer,Python,Tableau,3,445.0,Unknown,2
+Michelle Johnson,42.452599388379205,21019.0,missing,0,002,Katrinaburgh,Turkmenistan,True,Other,1934391474,married,freelancer,Government social research officer,Excel,Tableau,4,539.2338129496403,Asia,2
+Gabrielle Ochoa,41.0,110714.0,b,0,missing,Jamesport,Argentina,False,M,376.881.9544x420,married,employed,Sport and exercise psychologist,SQL,R,2,157.0,South America,2
+Charles Wilson,54.0,105387.0,c,0,missing,West William,Northern Mariana Islands,True,missing,741-407-5415,missing,unemployed,"Teacher, special educational needs",SQL,PowerBI,3,1093.0,Oceania,2
+Karla Wade MD,44.8,129640.0,a,0,001,Ianhaven,Belize,True,F,303-797-7840x46621,missing,missing,Sports coach,missing,R,4,49.0,North America,2
+Claudia Price,25.0,106064.0,missing,0,003,Port Kathyhaven,Guinea,True,missing,5953505268,married,unemployed,Energy manager,Python,Tableau,6,501.6,Africa,2
+Christopher Fuller,38.0,119141.0,c,0,001,East Sarahchester,Jersey,True,missing,197.454.2586x80625,missing,missing,Seismic interpreter,SQL,missing,8,284.0,Europe,2
+James Gardner,37.2,7797.0,a,0,003,New Timothyport,Malta,False,M,(533)816-6601,missing,freelancer,Passenger transport manager,Excel,R,4,949.0,Europe,2
+Katelyn Salazar,41.8,77076.0,missing,1,001,Johnfort,Netherlands,True,Other,952-399-5142,single,missing,"Programmer, applications",Excel,missing,9,135.0,Europe,2
+Andres Johnson,33.2,148022.0,b,1,003,Ingramchester,Thailand,True,missing,(490)434-5080,married,unemployed,Location manager,SQL,PowerBI,6,372.0,Asia,2
+Laura Richard,42.4,147628.0,b,0,missing,South Rose,Cuba,True,Other,001-530-849-1264,missing,unemployed,Fashion designer,missing,R,8,412.0,North America,2
+Richard Boyer,42.452599388379205,21117.0,b,0,missing,Jenniferville,Gibraltar,False,Other,+1-988-928-8232x213,married,missing,Production engineer,Excel,R,9,539.2338129496403,Europe,2
+Debra Stone,42.452599388379205,5845.0,b,1,missing,Blackwellport,Bahrain,True,M,001-385-698-4653x43548,missing,missing,"Administrator, charities/voluntary organisations",Excel,missing,7,539.2338129496403,Asia,2
+Vanessa Holmes,25.0,53669.0,c,0,missing,Port Dennisville,Paraguay,True,F,294.085.6541x96600,married,freelancer,Multimedia specialist,missing,PowerBI,3,716.0,South America,2
+Shane Lloyd,50.199999999999996,39795.0,b,1,abc,East Conniemouth,Saint Lucia,True,F,479-236-2670x220,married,missing,"Engineer, communications",Python,missing,3,37.00000000000006,North America,2
+Jennifer Houston,35.0,72988.0,missing,1,001,New Katelynfort,Suriname,True,Other,707.383.9603x994,missing,freelancer,"Therapist, sports",missing,missing,10,365.0,South America,2
+Yvette Arnold,28.0,146020.0,a,1,003,New Andreaberg,Panama,True,F,+1-572-798-4323x829,missing,employed,Commercial/residential surveyor,missing,Tableau,4,607.8,North America,2
+Mitchell Snyder,39.0,140536.0,c,0,002,Jeffreybury,Marshall Islands,True,missing,147.594.5409x3828,missing,missing,Dealer,missing,missing,0,957.0,Oceania,2
+Heidi Watson,62.0,7070.0,c,1,abc,Port Paul,Panama,True,Other,+1-068-008-9441x065,single,unemployed,Fish farm manager,Python,R,2,1091.0,North America,2
+Ryan Murphy,52.0,124654.0,missing,1,abc,Bradshawfort,Saint Vincent and the Grenadines,False,Other,1955543314,missing,missing,Building services engineer,Python,missing,10,230.0,North America,2
+Rebecca Gomez,37.0,137896.0,b,1,abc,Port Joshuafurt,Romania,True,missing,001-606-152-2700x0822,single,unemployed,Animal technologist,missing,Tableau,4,268.0,Europe,2
+Anthony Cruz,38.6,41581.0,c,0,001,Rodneyburgh,French Southern Territories,True,Other,+1-594-297-8759x20977,missing,missing,Speech and language therapist,missing,Tableau,7,263.0,Unknown,2
+David Perez,60.0,83979.0,b,1,002,Chavezstad,Bahamas,False,F,+1-231-374-5904,single,unemployed,"Engineer, automotive",SQL,missing,5,60.0,North America,2
+David Oconnor,48.0,149134.0,missing,0,abc,Robertmouth,Christmas Island,True,missing,001-438-771-6713,married,employed,Clinical embryologist,missing,Tableau,5,996.0,Asia,2
+Stephanie Shaw,40.0,116304.0,missing,0,001,East Nicholas,Heard Island and McDonald Islands,True,missing,832.180.2602,single,unemployed,Technical brewer,missing,Tableau,3,91.0,Antarctica,2
+Elizabeth Crawford,42.452599388379205,109380.0,b,0,002,Lake Lee,Equatorial Guinea,True,F,215-904-3751x9152,married,freelancer,Health and safety adviser,missing,PowerBI,5,539.2338129496403,Africa,2
+Cynthia Eaton,59.0,86550.0,missing,0,001,North Bryan,Bulgaria,True,missing,+1-157-187-6928x627,married,missing,Plant breeder/geneticist,missing,PowerBI,7,540.0,Europe,2
+Katelyn Hunter,36.2,111030.0,a,0,003,Bateshaven,Vietnam,False,missing,(335)589-2682x399,missing,missing,"Psychologist, forensic",Excel,missing,10,574.0,Asia,2
+Barbara Sims,42.8,72803.0,b,0,abc,Jonesville,Thailand,True,missing,001-989-616-5526x95772,missing,missing,Public affairs consultant,Python,PowerBI,2,68.0,Asia,2
+John Webb,42.4,93372.0,b,0,missing,Martinezland,Kiribati,True,missing,480.477.3984x443,missing,freelancer,Clinical molecular geneticist,Excel,PowerBI,7,406.0,Oceania,2
+Ann Hughes,41.0,71145.0,missing,0,missing,Hendrixview,French Guiana,True,M,(479)184-3556x645,missing,unemployed,"Development worker, international aid",Python,R,6,479.6,South America,2
+Jessica Reed,35.2,34277.0,c,1,missing,Sanchezbury,Djibouti,True,F,424.724.3332,single,missing,Biomedical scientist,Excel,Tableau,2,239.0,Africa,2
+Deborah Neal,36.4,125070.0,a,0,missing,Michaelton,Timor-Leste,True,M,+1-043-742-2870x2586,missing,freelancer,Air cabin crew,Excel,Tableau,9,363.0,Unknown,2
+Courtney Morgan,58.0,25647.0,c,1,abc,New Johnview,Iraq,True,M,+1-948-252-6919x7902,missing,employed,"Engineer, electronics",missing,PowerBI,3,474.8,Asia,2
+Sara Avila,42.452599388379205,68898.0,a,0,missing,North Charlesmouth,Wallis and Futuna,True,F,2148772377,missing,unemployed,Archivist,Python,missing,10,539.2338129496403,Oceania,2
+Barbara Miller,44.8,76481.0,a,1,002,Feliciaton,Bouvet Island (Bouvetoya),True,missing,882-042-8284,married,freelancer,"Scientist, marine",Python,missing,9,329.0,Unknown,2
+David Wiley,38.0,90094.0,a,1,missing,Lake Timothybury,Saint Lucia,True,missing,245.484.5576x940,missing,missing,Neurosurgeon,Python,missing,6,669.0,North America,2
+Allison Whitney,53.0,95797.0,missing,0,abc,North John,Albania,True,F,186.609.9496x037,married,missing,"Production designer, theatre/television/film",Python,missing,0,509.0,Europe,2
+Donna Davies,54.0,95518.0,b,0,missing,Anthonytown,Guinea-Bissau,True,Other,001-161-315-2875,missing,missing,Mental health nurse,missing,PowerBI,2,374.6,Africa,2
+Natasha Lowery,55.0,118123.0,missing,1,003,Smithland,Austria,True,F,853-332-9916,married,missing,Commercial horticulturist,missing,PowerBI,1,430.8,Europe,2
+Tanya Williams,31.0,51824.0,c,1,missing,Port James,Fiji,True,Other,(722)569-4146,missing,missing,"Therapist, sports",Python,R,5,342.0,Oceania,2
+Danielle Ross,43.4,144593.0,missing,0,abc,Smithville,South Africa,True,missing,954.037.1863,missing,unemployed,Community arts worker,SQL,missing,4,832.0,Africa,2
+Kiara Hart,42.452599388379205,30774.0,missing,0,missing,East Markbury,China,True,missing,568.112.5000x850,married,employed,Manufacturing systems engineer,missing,Tableau,2,539.2338129496403,Asia,2
+Timothy Mitchell,41.4,112157.0,a,0,missing,Christopherfort,Yemen,False,F,(487)764-3419x747,missing,employed,Editorial assistant,Python,PowerBI,9,84.0,Asia,2
+Bonnie Davis,42.452599388379205,47304.0,missing,0,missing,Murrayfort,French Guiana,False,F,279.971.9955,married,freelancer,Corporate treasurer,SQL,R,1,539.2338129496403,South America,2
+Travis Allen,42.452599388379205,121301.0,a,0,abc,Port Sara,Guinea-Bissau,True,missing,+1-795-311-7145x2104,married,unemployed,Copy,missing,PowerBI,0,539.2338129496403,Africa,2
+Cynthia Carter,42.452599388379205,128262.0,missing,1,abc,Chrisbury,Western Sahara,True,missing,001-644-345-6834x6535,single,missing,"Engineer, electrical",missing,PowerBI,4,539.2338129496403,Unknown,2
+Steven Cohen,64.0,139102.0,missing,1,001,Lisaport,Samoa,True,F,+1-211-519-7270x91343,single,unemployed,Dietitian,Python,missing,10,997.0,Oceania,2
+Dustin Nunez,27.0,30460.0,c,1,abc,Buchananville,Spain,True,F,001-469-637-9201x59560,missing,freelancer,Retail merchandiser,missing,R,7,515.0,Europe,2
+Anthony Mendoza,45.0,41705.0,c,0,003,Vasquezstad,Nicaragua,True,F,977-459-4788x67523,missing,freelancer,Waste management officer,Python,Tableau,9,196.00000000000006,North America,2
+Jose Adams,42.452599388379205,45485.0,c,0,missing,Dalestad,Burkina Faso,True,missing,(812)008-5820x7647,married,employed,"Engineer, land",SQL,missing,4,539.2338129496403,Africa,2
+Elizabeth Green,55.0,138324.0,missing,1,abc,Janestad,Vanuatu,False,Other,(477)372-0054x985,married,missing,Museum education officer,missing,R,8,315.0,Oceania,2
+Amanda Johnson,38.2,131367.0,c,0,abc,East Marcus,Ecuador,True,M,(972)425-8134x024,married,freelancer,Public relations account executive,SQL,Tableau,2,970.0,South America,2
+Shannon Jones,40.4,98454.0,missing,0,missing,Bennetthaven,Equatorial Guinea,True,missing,581.105.6474x3839,married,freelancer,Mining engineer,Excel,missing,10,841.0,Africa,2
+Robert Duran,45.0,145182.0,missing,1,001,Fernandezland,Brazil,True,missing,+1-453-386-2040x1343,married,unemployed,"Engineer, manufacturing systems",Python,Tableau,10,200.0,South America,2
+Tiffany Johnson,42.452599388379205,74668.0,missing,1,001,Williamsstad,Belgium,False,M,112-531-9440,missing,employed,Clinical cytogeneticist,SQL,Tableau,3,539.2338129496403,Europe,2
+Mrs. Amanda Henderson,42.452599388379205,18391.0,c,1,002,West David,Panama,True,M,938.400.7346x70948,single,missing,Sub,SQL,PowerBI,8,539.2338129496403,North America,2
+Jesus Huffman,42.452599388379205,7517.0,missing,1,missing,Matthewfurt,Israel,True,F,+1-995-663-6018x8840,missing,employed,Medical physicist,Python,missing,9,539.2338129496403,Asia,2
+Brandon Austin,45.6,131688.0,missing,1,missing,North Benjamin,Cyprus,True,Other,001-737-498-6905x2633,married,freelancer,"Production designer, theatre/television/film",Python,missing,8,908.0,Asia,2
+Wayne King,33.2,52757.0,missing,1,003,New Jimmy,Vanuatu,True,missing,001-009-312-8043x536,married,employed,Oceanographer,missing,R,1,350.0,Oceania,2
+Ronald Adams,42.452599388379205,55749.0,b,0,002,Port Heatherchester,Algeria,True,missing,001-990-534-5791x321,missing,missing,Make,missing,PowerBI,10,539.2338129496403,Africa,2
+Donald Jones,57.0,89873.0,c,0,abc,Michellefort,Faroe Islands,False,F,+1-217-761-1039x322,married,freelancer,Pensions consultant,missing,missing,10,450.0,Europe,2
+Andrea Webster,39.0,73905.0,missing,1,003,Crystalburgh,Nepal,False,Other,898.693.7165,missing,freelancer,Local government officer,missing,R,6,662.0,Asia,2
+Carla Mills,44.4,110927.0,a,1,003,Stephaniehaven,Guam,False,missing,303.679.7516x788,single,unemployed,Medical technical officer,SQL,R,4,283.0,Oceania,2
+Dean Fisher,42.452599388379205,90376.0,missing,0,missing,Palmerton,Kiribati,False,F,932.356.3466,missing,freelancer,Chartered certified accountant,Excel,PowerBI,3,539.2338129496403,Oceania,2
+Nathan Baldwin,42.452599388379205,128174.0,a,1,missing,Port Jonathanberg,Mozambique,True,F,862.504.6647,missing,employed,Theatre stage manager,Excel,PowerBI,10,539.2338129496403,Africa,2
+Elizabeth Trevino,40.6,79510.0,b,0,002,Port Margaret,Bouvet Island (Bouvetoya),True,Other,768.798.4194x484,missing,unemployed,Hydrographic surveyor,SQL,missing,4,859.0,Unknown,2
+Jamie Turner,33.2,90941.0,missing,1,missing,Port Erin,Jersey,True,M,890.075.6550x2413,single,freelancer,"Producer, television/film/video",Python,missing,3,372.0,Europe,2
+John Harper,39.2,92297.0,a,1,003,North Derrickside,Kenya,True,F,(401)144-7525x007,missing,missing,"Administrator, arts",missing,missing,0,606.0,Africa,2
+John Chapman,39.2,119611.0,a,0,003,North Lawrenceborough,Nepal,True,Other,793.573.2502,missing,employed,"Surveyor, quantity",Excel,missing,1,332.0,Asia,2
+Alexander Robles,33.2,27997.0,missing,0,missing,Jessetown,Burkina Faso,False,M,(528)924-5491,missing,freelancer,Chemical engineer,missing,missing,2,358.0,Africa,2
+Jacqueline Rivera,39.0,94079.0,missing,0,missing,Nortontown,Sierra Leone,True,M,924.345.0789x281,missing,employed,Textile designer,missing,missing,0,554.0,Africa,2
+Jill Mercer,42.452599388379205,63429.0,c,0,abc,West Lisamouth,Mayotte,False,missing,001-171-891-9615x65631,married,unemployed,Analytical chemist,SQL,Tableau,4,539.2338129496403,Africa,2
+David Tucker,24.0,15342.0,c,0,003,Carrollview,American Samoa,True,Other,+1-396-611-6747x37746,married,unemployed,"Journalist, broadcasting",SQL,R,2,671.2,Oceania,2
+Tracy Kim,35.0,12155.0,c,0,001,Clarktown,Netherlands Antilles,True,M,860-480-4868x621,married,missing,"Programme researcher, broadcasting/film/video",Excel,missing,7,854.0,Unknown,2
+Frank Robles,30.0,37676.0,b,0,missing,Hartland,Western Sahara,True,F,160.874.7160x80309,single,missing,Immigration officer,missing,R,5,498.0,Unknown,2
+Anthony Huber,30.0,99334.0,missing,1,missing,South Gina,Mongolia,True,missing,(917)084-3287x6393,single,missing,Equality and diversity officer,missing,missing,1,288.0,Asia,2
+Karen Garcia,45.0,83825.0,a,1,missing,Bellstad,Saint Kitts and Nevis,True,missing,(305)248-9734,missing,freelancer,"Engineer, agricultural",Excel,Tableau,3,201.0,North America,2
+Jessica May,54.0,41757.0,missing,1,001,Floresville,Kenya,False,Other,001-152-833-4764,missing,unemployed,Politician's assistant,missing,Tableau,2,774.0,Africa,2
+Melissa Bass,46.2,33676.0,c,1,abc,Thomasborough,Luxembourg,False,Other,692-360-8688x2715,missing,freelancer,"Programme researcher, broadcasting/film/video",missing,R,0,293.0,Europe,2
+Michael Smith,39.0,42838.0,missing,1,missing,Port Maria,Malaysia,True,missing,4392433400,married,unemployed,"Scientist, clinical (histocompatibility and immunogenetics)",Excel,PowerBI,5,451.20000000000005,Asia,2
+Yvette Morrow,43.8,129699.0,missing,1,missing,South Ashley,Uzbekistan,True,F,001-330-103-2899x8525,single,freelancer,Estate agent,missing,missing,4,1016.0,Asia,2
+Mrs. Amanda Vaughn,42.452599388379205,30270.0,missing,0,missing,South Joanna,Burundi,False,F,769.339.3032,married,unemployed,Information systems manager,SQL,PowerBI,1,539.2338129496403,Africa,2
+Rachel Evans,42.452599388379205,64303.0,b,0,missing,Weavermouth,Cote d'Ivoire,True,Other,(010)973-4868x23884,missing,missing,Social worker,missing,missing,9,539.2338129496403,Unknown,2
+Nicole Miller,42.452599388379205,43068.0,a,1,missing,New Robertmouth,Cameroon,True,F,096-854-5710,single,unemployed,Geophysical data processor,Excel,Tableau,2,539.2338129496403,Africa,2
+Jermaine Davenport,38.0,95151.0,a,0,abc,East Tonymouth,Brunei Darussalam,True,F,+1-735-117-1260,missing,missing,Ranger/warden,missing,PowerBI,4,556.2,Asia,2
+Kayla Bell,39.0,53842.0,b,0,abc,New Michael,Costa Rica,True,M,(410)122-6088,missing,missing,Rural practice surveyor,Python,PowerBI,5,651.0,North America,2
+Elizabeth Martinez,59.0,64539.0,missing,1,001,Lake Jessica,Cyprus,True,F,001-022-664-1381x96725,missing,missing,"Psychologist, occupational",missing,missing,1,540.0,Asia,2
+David White,42.452599388379205,63158.0,a,0,missing,Ayalamouth,Austria,True,missing,001-862-257-5612x0825,married,missing,Textile designer,missing,missing,0,539.2338129496403,Europe,2
+Bradley Eaton,50.2,144164.0,c,0,002,Brownfurt,Honduras,True,F,001-158-933-6699x57850,married,unemployed,Historic buildings inspector/conservation officer,missing,missing,6,1044.0,North America,2
+Jerome Adams,35.0,141773.0,missing,0,abc,East Rachel,Kazakhstan,True,F,+1-599-912-4084x85726,missing,employed,Acupuncturist,Excel,R,8,567.6,Asia,2
+Nicholas Huff,37.0,22515.0,a,1,002,Kristinefort,Marshall Islands,False,missing,805.719.3319,married,missing,Transport planner,SQL,missing,6,413.8,Oceania,2
+Elizabeth Shepherd,30.0,77408.0,c,1,001,Karinaburgh,Sweden,False,F,050-688-6469x555,married,freelancer,Chartered accountant,Python,PowerBI,10,724.0,Europe,2
+Brianna Alexander,42.452599388379205,128498.0,a,0,003,Murphyhaven,Afghanistan,True,missing,(270)213-1790,missing,unemployed,Glass blower/designer,Excel,R,4,539.2338129496403,Asia,2
+Lynn Zhang,39.0,116649.0,c,0,003,Scottchester,Northern Mariana Islands,False,missing,001-330-337-2498x96486,single,missing,"Psychologist, clinical",missing,R,3,649.0,Oceania,2
+Julie Ferguson,42.452599388379205,32574.0,b,1,003,Port Bethside,Saint Kitts and Nevis,True,missing,001-510-321-3352x7957,missing,freelancer,"Editor, magazine features",Excel,PowerBI,1,539.2338129496403,North America,2
+Trevor Mays,49.0,118709.0,b,1,missing,Boothshire,Somalia,True,missing,6160634481,missing,missing,Broadcast journalist,missing,missing,0,592.8,Africa,2
+Timothy Williams,36.2,35794.0,a,0,missing,Turnerhaven,Micronesia,True,missing,001-774-426-8309,single,freelancer,Pension scheme manager,missing,missing,9,544.0,Oceania,2
+Lisa Powell,42.452599388379205,11721.0,a,0,002,Shelbytown,India,True,Other,324-307-8845x874,missing,missing,Call centre manager,Excel,missing,4,539.2338129496403,Asia,2
+Claire Zamora,53.2,70195.0,b,0,001,Vincentville,Greece,True,missing,596-977-7086,missing,unemployed,Product manager,SQL,missing,8,443.0,Europe,2
+Karen Peterson,42.452599388379205,50103.0,missing,1,003,Lisafurt,Tunisia,True,missing,(148)614-7777x2905,married,freelancer,Photographer,Python,PowerBI,1,539.2338129496403,Africa,2
+Katherine Hughes,42.452599388379205,53809.0,missing,0,003,Port Sandra,Martinique,True,Other,001-805-118-7818x115,missing,freelancer,Games developer,SQL,Tableau,5,539.2338129496403,North America,2
+Mr. Timothy Jones,25.0,137676.0,missing,1,missing,Tarahaven,Bahrain,False,missing,030.096.4964,single,unemployed,"Accountant, chartered management",Excel,PowerBI,9,501.6,Asia,2
+Donna Garcia,36.2,144677.0,c,1,002,Joshuaview,Serbia,True,M,(101)764-4477x91554,missing,missing,"Education officer, environmental",missing,PowerBI,5,573.0,Europe,2
+Allen Vazquez,46.0,76771.0,a,0,002,North Jamesmouth,Burundi,False,F,+1-613-994-5818x32356,missing,unemployed,"Scientist, water quality",SQL,PowerBI,4,558.0,Africa,2
+Jennifer Sanchez,42.452599388379205,113665.0,missing,0,missing,East Brad,Mali,False,missing,001-732-214-7143x779,missing,missing,"Programmer, applications",missing,R,5,539.2338129496403,Africa,2
+James Glenn,42.4,66526.0,c,0,003,Jenniferchester,Saint Pierre and Miquelon,True,F,001-512-000-5082x99195,married,missing,Licensed conveyancer,missing,Tableau,1,502.0,North America,2
+Crystal Harmon,42.452599388379205,64722.0,c,0,002,East Cameron,Pitcairn Islands,True,Other,+1-394-695-0004,single,missing,Chief of Staff,missing,missing,7,539.2338129496403,Unknown,2
+Jill Yoder,45.0,122563.0,missing,1,003,Kennethtown,Pitcairn Islands,True,F,+1-508-039-8907,missing,employed,Housing manager/officer,Python,missing,4,128.0,Unknown,2
+Thomas Vargas,42.452599388379205,39958.0,missing,0,missing,Port Hailey,Aruba,True,Other,919.251.9258x4402,missing,freelancer,"Administrator, education",SQL,missing,8,539.2338129496403,North America,2
+Eric Kelley,42.452599388379205,6776.0,a,0,missing,New Anthony,Senegal,True,M,(127)773-4002x1085,single,missing,"Engineer, chemical",missing,Tableau,3,539.2338129496403,Africa,2
+Audrey Wilson,56.0,134754.0,b,0,001,Mcknightfort,Anguilla,True,missing,+1-231-748-0148x676,missing,missing,Medical sales representative,missing,missing,2,791.0,North America,2
+Timothy Munoz,29.0,117816.0,b,0,001,Meganville,Saint Kitts and Nevis,False,Other,959.242.7526x92458,married,unemployed,"Pilot, airline",Python,PowerBI,5,921.0,North America,2
+Edward Fletcher,47.2,20964.0,missing,1,missing,South Christopherport,Chile,True,M,675.129.0032x721,single,missing,"Designer, fashion/clothing",Excel,PowerBI,5,813.0,South America,2
+Curtis Meza,37.0,23189.0,c,0,missing,Stephenport,Turkmenistan,True,F,512-588-4034x7390,married,freelancer,TEFL teacher,Excel,Tableau,9,413.8,Asia,2
+Tony Hebert,54.0,51528.0,missing,0,abc,Codyville,Armenia,True,missing,401.811.8216,single,freelancer,Ophthalmologist,Python,PowerBI,5,374.6,Asia,2
+Emma Vasquez,42.452599388379205,31141.0,missing,0,missing,Stonefort,Reunion,False,missing,001-559-139-3770x8811,missing,missing,"Runner, broadcasting/film/video",missing,missing,1,539.2338129496403,Unknown,2
+Gabriella Richards,53.0,42062.0,a,0,002,Danielleville,Serbia,True,M,289.995.2498x6141,single,missing,Gaffer,missing,PowerBI,8,730.0,Europe,2
+Charles Spence,48.4,144441.0,missing,1,missing,North Cameron,Norfolk Island,False,Other,001-185-782-8878x778,married,missing,Trading standards officer,SQL,R,10,693.0,Oceania,2
+Adam Davis,42.452599388379205,11247.0,missing,1,003,New Deborah,Congo,True,missing,+1-916-669-0607x172,missing,missing,Chief Operating Officer,Python,PowerBI,8,539.2338129496403,Africa,2
+Stefanie Odonnell,30.0,147288.0,c,0,missing,North Jeremiah,Mayotte,True,missing,001-599-748-2296x61119,single,freelancer,Estate manager/land agent,missing,Tableau,5,528.0,Africa,2
+Mrs. Megan Simmons,42.452599388379205,142359.0,c,0,003,Caseyland,Kenya,True,F,793-114-9693x4560,missing,unemployed,"Chemist, analytical",SQL,R,1,539.2338129496403,Africa,2
+Thomas Smith,38.6,9087.0,a,1,002,Robertstad,Senegal,True,Other,353-407-7503,married,freelancer,Passenger transport manager,SQL,missing,3,257.0,Africa,2
+Nicholas Thornton,43.0,69532.0,b,1,missing,Willisville,Uzbekistan,True,F,569-082-2011x7231,missing,missing,Charity officer,Excel,missing,6,892.0,Asia,2
+Richard Nelson,35.0,7734.0,missing,1,missing,Sandrahaven,Saint Pierre and Miquelon,True,F,001-697-279-9734x5302,married,employed,Commissioning editor,Excel,PowerBI,2,567.6,North America,2
+Casey Castro,22.0,72239.0,missing,1,missing,Pereztown,Guernsey,True,Other,001-165-630-6229x437,missing,employed,Data processing manager,Excel,missing,3,902.0,Europe,2
+Marcia Miller,46.8,14357.0,missing,0,001,Jocelynton,Brunei Darussalam,True,F,(336)900-5192x4371,missing,unemployed,Land/geomatics surveyor,Excel,PowerBI,3,757.0,Asia,2
+Anna Baker DVM,42.452599388379205,120873.0,a,0,002,North Troytown,Vietnam,False,Other,221-550-2269x2534,single,unemployed,Museum/gallery exhibitions officer,Python,R,2,539.2338129496403,Asia,2
+Nicole Clark,47.0,45133.0,b,0,001,Toddview,United States of America,False,F,2679321072,married,freelancer,"Engineer, electrical",missing,PowerBI,7,1033.0,North America,2
+Kim Schmidt,42.452599388379205,47230.0,c,0,003,Lake Jessicatown,Angola,True,M,9597294277,single,missing,Games developer,missing,missing,0,539.2338129496403,Africa,2
+David Reynolds,64.0,42614.0,b,0,001,Jaymouth,Cape Verde,True,M,001-884-863-6732x8650,single,missing,Firefighter,missing,PowerBI,3,23.0,Africa,2
+Felicia Goodman,42.452599388379205,129892.0,missing,1,missing,Baileyshire,Comoros,True,missing,626-559-6083x7098,married,missing,"Engineer, maintenance (IT)",missing,R,5,539.2338129496403,Africa,2
+David Maxwell,39.8,99407.0,a,0,003,East William,Holy See (Vatican City State),False,missing,(880)464-2910,married,freelancer,Forensic psychologist,Excel,missing,4,303.0,Unknown,2
+Felicia Sandoval,42.452599388379205,146950.0,a,1,002,West Craigstad,Monaco,True,F,361-432-5246x8492,missing,missing,Animal nutritionist,missing,missing,7,539.2338129496403,Europe,2
+David Meyer,36.8,109564.0,c,0,002,Kramerville,South Africa,False,F,658.615.4185,married,missing,Logistics and distribution manager,SQL,missing,5,868.0,Africa,2
+Ronald Taylor,42.4,60971.0,missing,0,abc,North April,French Polynesia,True,missing,837-871-7751,missing,freelancer,Secretary/administrator,missing,missing,0,412.0,Oceania,2
+Stephen Hartman,42.452599388379205,105739.0,missing,1,002,Castroton,Macedonia,True,M,164.513.8406x2792,married,missing,Site engineer,missing,Tableau,4,539.2338129496403,Europe,2
+Emma Kim,36.6,56854.0,c,1,003,Murrayburgh,Vietnam,True,F,+1-675-082-6402x274,married,missing,Immunologist,Python,missing,9,643.0,Asia,2
+Angela Ray,37.8,22133.0,b,1,001,Robertsburgh,Costa Rica,True,Other,8716562766,missing,freelancer,Insurance risk surveyor,SQL,Tableau,3,311.0,North America,2
+Kimberly Barry,42.452599388379205,122077.0,missing,0,missing,West Kimberly,Iraq,False,Other,+1-162-531-3099x3113,single,missing,"Administrator, Civil Service",SQL,Tableau,2,539.2338129496403,Asia,2
+Julie Evans,42.452599388379205,149787.0,missing,1,missing,Scottmouth,Singapore,False,M,431.662.6352x43561,married,missing,Plant breeder/geneticist,Excel,PowerBI,2,539.2338129496403,Asia,2
+Bruce Fuller,42.452599388379205,10230.0,c,0,missing,East Angelaville,Colombia,False,missing,001-821-286-9365x51534,missing,missing,Gaffer,Python,R,1,539.2338129496403,South America,2
+Anthony Bennett,22.0,108184.0,c,1,missing,New Thomas,Hong Kong,False,Other,(966)661-2490,single,freelancer,Medical laboratory scientific officer,missing,missing,0,605.0,Asia,2
+Amanda Carter,36.4,71247.0,a,0,003,Seanburgh,Swaziland,True,missing,5730949945,married,employed,Music therapist,SQL,R,4,569.0,Africa,2
+Robert Petersen,45.0,125084.0,b,0,missing,East Anthonyborough,Bangladesh,True,F,001-245-660-6397x06986,single,missing,Child psychotherapist,Excel,R,6,525.0,Asia,2
+David Harding,42.452599388379205,75853.0,missing,0,003,Charlesland,Samoa,True,missing,(399)624-7526x17624,missing,unemployed,"Nurse, mental health",Python,R,8,539.2338129496403,Oceania,2
+Kathleen Baxter,42.6,122931.0,b,0,missing,Jillianburgh,Botswana,True,M,001-861-256-8430x4334,single,unemployed,Energy manager,Excel,Tableau,5,481.0,Africa,2
+Elizabeth Leonard,38.8,24768.0,a,1,missing,Turnerhaven,Poland,True,missing,+1-630-316-2611x33545,married,missing,Diagnostic radiographer,missing,R,10,673.0,Europe,2
+Dale Rose,57.0,57303.0,b,0,001,Gregstad,Mauritania,True,M,001-021-193-4850x393,married,unemployed,Sub,Excel,PowerBI,6,26.0,Africa,2
+Anita Knox,42.4,56720.0,missing,0,missing,Georgeland,Gibraltar,False,missing,+1-005-136-4956x689,single,missing,Sub,SQL,missing,0,510.0,Europe,2
+Carol Freeman,29.0,147081.0,a,1,missing,Smithshire,Faroe Islands,True,F,(450)789-4554,missing,unemployed,"Buyer, retail",SQL,missing,10,885.0,Europe,2
+Bryan Duncan,42.452599388379205,79816.0,a,1,003,West Christine,Kazakhstan,True,F,+1-887-822-4107x914,single,freelancer,Lexicographer,Python,Tableau,1,539.2338129496403,Asia,2
+Karen Sandoval,48.6,20834.0,missing,1,missing,Bridgesside,Canada,True,M,210-597-4047,single,freelancer,"Engineer, electrical",missing,R,10,1038.0,North America,2
+Mary Jones,61.0,88640.0,missing,0,missing,Brandyshire,Mauritania,True,Other,585-381-6328,missing,missing,Copy,Python,missing,3,797.0,Africa,2
+Joshua Owens,55.0,112408.0,missing,0,003,West Michael,Guam,True,missing,+1-963-734-1413x03205,missing,unemployed,Garment/textile technologist,SQL,missing,6,145.0,Oceania,2
+Alicia Gonzalez,42.452599388379205,44160.0,missing,0,001,West Bradleyfort,Heard Island and McDonald Islands,True,F,0946877613,married,unemployed,"Buyer, retail",Excel,PowerBI,6,539.2338129496403,Antarctica,2
+Shelley Le,42.2,135370.0,missing,0,003,Grosschester,Seychelles,True,F,001-886-944-4408x020,missing,missing,Dispensing optician,missing,missing,6,902.0,Africa,2
+Kayla Davis,46.2,32790.0,b,0,missing,Lake Susan,Turks and Caicos Islands,True,missing,209-825-8123x1784,married,unemployed,"Engineer, aeronautical",missing,missing,3,1049.0,North America,2
+Cheryl Faulkner,49.0,93756.0,b,0,abc,New Brittanyport,Yemen,True,missing,(315)429-0632x820,missing,freelancer,Chiropractor,Python,Tableau,5,442.0,Asia,2
+David Peterson,48.0,114314.0,a,0,003,East Joshua,Bangladesh,False,Other,+1-800-866-3261x25559,missing,freelancer,Data scientist,missing,R,9,114.0,Asia,2
+Steven Allen,62.0,65011.0,a,0,abc,New Allen,Dominica,True,M,308.010.4763x885,single,missing,Fine artist,SQL,missing,5,278.0,North America,2
+Cole Knox,42.452599388379205,74732.0,b,0,abc,Melissafort,Norway,False,Other,001-270-192-2971x80233,married,freelancer,"Librarian, public",Excel,missing,3,539.2338129496403,Europe,2
+Austin Russell,58.0,131498.0,missing,0,003,Port Holly,French Guiana,True,missing,874-866-0136x7850,married,unemployed,Higher education lecturer,missing,missing,1,1004.0,South America,2
+Megan Taylor,64.0,137154.0,b,0,abc,West Jesse,Spain,True,M,(114)127-9792,missing,unemployed,Editorial assistant,SQL,R,0,696.0,Europe,2
+Gregory Farley,42.452599388379205,126881.0,c,0,missing,Andersonhaven,Guatemala,True,missing,+1-308-770-8055,missing,freelancer,Therapeutic radiographer,Excel,R,7,539.2338129496403,North America,2
+Chase Porter,42.452599388379205,47703.0,c,0,001,Schmidtbury,Bouvet Island (Bouvetoya),True,M,+1-005-826-2743x022,missing,freelancer,Broadcast engineer,SQL,R,6,539.2338129496403,Unknown,2
+Allison Holmes,42.452599388379205,108687.0,c,0,missing,Erinberg,Namibia,True,Other,254.873.2344x68756,single,missing,Firefighter,Excel,Tableau,7,539.2338129496403,Africa,2
+Kathryn Larson,22.0,47829.0,a,1,003,Kington,Romania,True,Other,+1-114-424-9807x18885,missing,freelancer,Tax inspector,Excel,missing,6,1091.0,Europe,2
+Sean Maldonado,42.452599388379205,108806.0,c,0,001,Port Deborah,Lao People's Democratic Republic,False,missing,627.858.3908,single,freelancer,Charity officer,SQL,Tableau,0,539.2338129496403,Asia,2
+David Mathis,34.4,64118.0,missing,1,001,Khanshire,Denmark,False,F,(247)609-9383,married,missing,Biomedical engineer,Python,R,6,131.0,Europe,2
+Timothy Martin,50.199999999999996,80927.0,missing,1,missing,South Eddie,Benin,True,missing,(357)404-7085,single,unemployed,"Teacher, primary school",missing,PowerBI,3,179.99999999999994,Africa,2
+David George,41.0,26135.0,c,0,002,Laurenmouth,Tanzania,True,F,385.572.3440,single,missing,Archaeologist,Python,R,8,155.0,Africa,2
+Melanie King,52.4,72181.0,c,0,003,Wongtown,Congo,True,missing,+1-753-979-9830,missing,missing,Osteopath,Excel,missing,9,992.0,Africa,2
+Nicole Weber,42.452599388379205,34541.0,a,1,001,Millertown,Seychelles,False,F,951-452-6451x9290,missing,unemployed,Chartered management accountant,missing,R,5,539.2338129496403,Africa,2
+Sherri Walter,42.4,71147.0,a,0,001,North Shane,Mayotte,True,M,774.481.9215,married,freelancer,Building control surveyor,SQL,missing,6,410.0,Africa,2
+Lori Rodriguez,42.452599388379205,48321.0,missing,0,missing,Lake Michaelchester,Dominica,True,F,511.514.3199x5840,single,employed,Aid worker,Excel,missing,0,539.2338129496403,North America,2
+Robert Gomez,35.0,46808.0,b,1,003,Dianeborough,Ukraine,False,F,(756)966-0728,missing,employed,Psychiatric nurse,Python,missing,10,404.0,Europe,2
+Paul Torres,37.0,73871.0,missing,0,001,Jamesview,Turks and Caicos Islands,True,missing,(706)223-4050x0834,single,employed,Marketing executive,Excel,Tableau,7,398.0,North America,2
+Jeffrey Henry,48.6,130757.0,b,0,002,Whitakermouth,Bahamas,True,missing,415-317-5939,missing,employed,Trade union research officer,Excel,missing,6,1039.0,North America,2
+Amanda Johnson,44.0,16543.0,b,1,missing,New Heather,Greece,True,missing,001-139-509-6737x49069,missing,employed,Office manager,Python,Tableau,3,608.0,Europe,2
+Jasmine Chen,46.0,119122.0,missing,0,002,Lopezport,Turkey,True,Other,(416)363-5821x854,single,missing,Hydrogeologist,Python,missing,7,184.0,Asia,2
+Chad Clark,48.4,146758.0,c,0,missing,Blakeshire,Somalia,True,missing,270.429.6606,missing,freelancer,Visual merchandiser,missing,R,4,700.0,Africa,2
+Michael Chan,42.452599388379205,118170.0,b,0,003,New Emilyton,Slovenia,False,Other,7529337874,missing,missing,Retail buyer,missing,Tableau,0,539.2338129496403,Europe,2
+Steven Porter,44.8,146613.0,c,0,002,Brightland,Heard Island and McDonald Islands,False,missing,001-342-526-7518x01769,missing,employed,"Designer, graphic",missing,missing,0,476.0,Antarctica,2
+Walter Ortega,49.0,149296.0,c,0,missing,Cannonborough,Egypt,True,missing,+1-945-747-6611x7972,missing,freelancer,Sales executive,missing,missing,8,465.0,Africa,2
+Allison Winters,43.0,111954.0,b,0,missing,Craigburgh,Faroe Islands,True,F,763-141-8825,married,employed,"Psychologist, counselling",missing,PowerBI,7,300.40000000000003,Europe,2
+Carol Russo,47.0,111461.0,b,0,missing,Lake Rita,Netherlands,True,F,147.175.4599x3538,single,employed,Farm manager,Python,PowerBI,3,116.0,Europe,2
+Lisa Bryant,61.0,36182.0,missing,0,missing,Barbaraside,Nauru,True,M,(302)115-1124,missing,freelancer,Information officer,missing,R,3,886.0,Oceania,2
+Russell Smith,42.452599388379205,15977.0,missing,1,abc,Peggyhaven,Belgium,True,Other,(910)407-9063x7030,missing,missing,"Engineer, manufacturing systems",missing,missing,1,539.2338129496403,Europe,2
+Alejandro Lewis,42.452599388379205,133531.0,a,1,001,Jenniferville,Dominican Republic,True,M,(916)271-1536,missing,missing,"Nurse, children's",Excel,PowerBI,3,539.2338129496403,North America,2
+Maurice Boyle,46.4,93442.0,a,0,abc,West Keithport,Greenland,True,Other,(477)583-9560x116,missing,unemployed,Technical author,missing,missing,1,299.0,North America,2
+Nicholas Lee,61.0,12401.0,missing,0,001,South Douglas,Benin,False,missing,677-138-2329x533,missing,missing,Jewellery designer,Excel,R,9,797.0,Africa,2
+Katherine Peck,42.452599388379205,123417.0,b,0,001,West Carl,Kiribati,True,missing,610.191.5947x55535,missing,employed,Set designer,SQL,PowerBI,3,539.2338129496403,Oceania,2
+Erik Collins,49.0,51302.0,missing,1,003,Rosarioburgh,Germany,False,F,107-412-8320x1111,missing,unemployed,Software engineer,missing,PowerBI,1,917.0,Europe,2
+Sara Davis,26.0,119844.0,missing,0,missing,Port Brandi,Saint Vincent and the Grenadines,True,M,(007)748-1716,missing,missing,Gaffer,Excel,missing,7,593.6,North America,2
+Joseph Jackson,42.452599388379205,22547.0,b,1,003,Darleneville,Nepal,True,missing,+1-319-123-1335x58490,married,unemployed,Environmental education officer,Excel,PowerBI,2,539.2338129496403,Asia,2
+Alexandra Smith,54.0,148109.0,c,0,003,West Jeffrey,Mexico,True,M,693-359-4142,married,missing,Advertising account executive,missing,PowerBI,8,274.0,North America,2
+Linda Peck,32.0,107422.0,a,0,001,Carlosview,Maldives,True,M,555.534.1254,missing,missing,Operational researcher,missing,PowerBI,4,971.0,Asia,2
+Jo Olson,38.0,54457.0,missing,0,abc,West Jerrytown,Macao,False,M,001-416-584-0798x70193,missing,missing,Chartered management accountant,missing,PowerBI,2,556.2,Asia,2
+Sharon Anderson,34.4,22824.0,missing,0,001,Camposton,Burkina Faso,False,F,001-865-825-3693x746,missing,freelancer,Art gallery manager,SQL,R,6,724.0,Africa,2
+Andrew Rodriguez,45.0,12252.0,a,0,abc,West Amanda,Palau,True,missing,001-727-145-1835x209,married,missing,Forensic psychologist,missing,missing,6,583.0,Oceania,2
+Madeline Parker,58.0,80399.0,missing,1,abc,South Billy,Luxembourg,True,missing,707-210-6631,single,unemployed,Technical author,Excel,R,4,100.0,Europe,2
+Michael Watkins,43.2,145323.0,c,1,abc,North Rachel,Northern Mariana Islands,True,missing,001-458-302-7278x0582,married,missing,"Therapist, music",Python,PowerBI,7,684.0,Oceania,2
+Deborah Ferguson,42.452599388379205,70953.0,b,1,003,North Matthewmouth,Mali,False,Other,971.010.9017x8165,married,missing,Soil scientist,SQL,R,4,539.2338129496403,Africa,2
+Dr. Angela Adams DVM,42.452599388379205,116109.0,a,0,002,New Lauramouth,Aruba,True,F,142-465-1855x443,missing,missing,Advertising account planner,missing,R,3,539.2338129496403,North America,2
+Jeffrey Higgins,40.6,81404.0,a,0,missing,Pamelafurt,Zambia,True,F,001-986-012-6994x11171,missing,freelancer,Product designer,SQL,missing,7,858.0,Africa,2
+Richard Garcia,42.452599388379205,43362.0,b,0,001,Williamtown,Afghanistan,True,M,932.285.6992x61663,missing,employed,Forest/woodland manager,Excel,Tableau,4,539.2338129496403,Asia,2
+Colton Chandler,42.452599388379205,138986.0,missing,0,003,Brendashire,Canada,True,missing,591.064.9546x536,missing,missing,"Conservation officer, historic buildings",Excel,missing,6,539.2338129496403,North America,2
+Michael Gomez,38.0,99721.0,a,1,001,Jasonstad,India,True,M,345.694.5392x7312,missing,unemployed,Product manager,Excel,missing,3,791.0,Asia,2
+Elizabeth Jones,36.4,93501.0,b,1,abc,North Jennifer,Czech Republic,False,F,(713)567-0979x46689,missing,missing,Control and instrumentation engineer,Python,Tableau,2,336.0,Europe,2
+Sarah Rice,44.8,50047.0,missing,0,missing,North Jonathon,Argentina,True,F,(588)033-8742x83342,missing,missing,Television/film/video producer,Excel,PowerBI,3,710.0,South America,2
+James Baker,32.0,50493.0,a,1,001,Michaelmouth,Netherlands,True,F,497.710.8464x01456,missing,missing,"Scientist, marine",missing,missing,6,413.20000000000005,Europe,2
+David Ochoa,31.0,112094.0,missing,0,002,Pierceport,Canada,True,missing,001-507-908-0573,single,missing,Water quality scientist,Python,Tableau,10,547.0,North America,2
+Phillip Bond,37.8,135818.0,missing,0,abc,South Shawn,Moldova,True,missing,001-352-985-6806,missing,unemployed,Physiological scientist,Excel,missing,10,309.0,Europe,2
+Nathan Crane,37.8,97606.0,missing,1,002,Port Terrihaven,Cuba,True,F,001-057-381-0850,missing,employed,"Geneticist, molecular",missing,Tableau,10,139.00000000000006,North America,2
+Joshua Davis,44.8,95487.0,c,1,001,Martinfort,Yemen,True,missing,989-290-3639,missing,missing,Chief Technology Officer,Excel,missing,4,45.0,Asia,2
+Karen Cox,43.8,73120.0,missing,0,002,Ramirezshire,Oman,False,missing,001-801-369-0253x969,married,employed,Recycling officer,missing,R,0,222.0,Asia,2
+Michael Burnett,42.4,149919.0,a,1,001,West Andrea,Bahamas,True,missing,001-964-694-7131x37405,missing,unemployed,Environmental education officer,missing,R,2,417.0,North America,2
+Tamara Santos MD,49.6,65769.0,b,0,001,Port Cindy,Argentina,False,Other,+1-698-155-3321x778,missing,missing,"Surveyor, minerals",SQL,Tableau,0,328.0,South America,2
+Allison Galloway,40.4,31610.0,b,0,missing,Jeremiahland,Djibouti,True,missing,(440)726-6089,missing,unemployed,Homeopath,SQL,missing,2,916.0,Africa,2
+Dawn Warner,43.2,139544.0,a,0,missing,East Kristineville,Solomon Islands,True,missing,001-839-661-3662x08175,married,employed,"Administrator, charities/voluntary organisations",missing,Tableau,2,691.0,Oceania,2
+Robert Cisneros,42.452599388379205,126216.0,a,0,002,Smithmouth,Singapore,True,F,842-848-3916x652,single,employed,Probation officer,missing,Tableau,0,539.2338129496403,Asia,2
