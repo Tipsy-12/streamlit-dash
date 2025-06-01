@@ -136,8 +136,6 @@ st.plotly_chart(
     use_container_width=True
 )
 
-# Convert 'experience(in years)' to numeric just in case
-filtered_df["experience(in years)"] = pd.to_numeric(filtered_df["experience(in years)"], errors='coerce')
 
 # Line Chart - Avg. Income by Experience and Cluster
 avg_income_by_exp = (
