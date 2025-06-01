@@ -147,20 +147,17 @@ avg_income_by_exp = (
     .reset_index()
 )
 
-fig_line = px.line(
+fig = px.line(
     avg_income_by_exp,
     x="experience(in years)",
     y="monthly income",
     color="cluster",
     markers=True,
-    title="📈 Average Monthly Income by Experience and Cluster"
+    title="📈 Average Monthly Income by Experience and Cluster",
 )
 
-# Apply dtick=1 only if 'experience(in years)' is numeric
-if pd.api.types.is_numeric_dtype(avg_income_by_exp["experience(in years)"]):
-    fig_line.update_layout(xaxis=dict(dtick=1))
-
-st.plotly_chart(fig_line, use_container_width=True)
+fig.update_layout(xaxis=dict(dtick=1))  # Show all experience years as ticks
+st.plotly_chart(fig, use_container_width=True)
 
 
 # Histogram - Age Distribution
