@@ -7,7 +7,7 @@ import plotly.express as px
 df = pd.read_csv("clustered_dataset.csv")
 
 st.set_page_config(page_title="Profile Clustering Dashboard", layout="wide")
-st.title("🧠 Profile Clustering Dashboard")
+st.title("Profile Clustering Dashboard <3")
 st.markdown("Explore patterns across different profile clusters.")
 
 # Sidebar filters
