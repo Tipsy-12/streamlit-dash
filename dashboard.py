@@ -150,7 +150,8 @@ fig_line = px.line(
     y="monthly income",
     color="cluster",
     markers=True,
-    title="\ud83d\udcc8 Average Monthly Income by Experience and Cluster"
+    title=st.subheader("📈 Average Monthly Income by Experience and Cluster")
+
 )
 fig_line.update_layout(xaxis=dict(dtick=1))
 st.plotly_chart(fig_line, use_container_width=True)
@@ -190,6 +191,6 @@ st.plotly_chart(px.bar(occ_dist, x='cluster', y='count', color='occupation_categ
 
 
 # -------------------------------- Data Table -------------------------------- #
-st.subheader("\ud83d\udcc4 Filtered Data")
+st.subheader("📄 Filtered Data")
 st.dataframe(filtered_df.reset_index(drop=True))
 
