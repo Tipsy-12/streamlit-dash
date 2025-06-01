@@ -156,8 +156,7 @@ fig_line = px.line(
 # Fix: Only apply dtick if x-axis is numeric
 if pd.api.types.is_numeric_dtype(avg_income_by_exp["experience(in years)"]):
     fig_line.update_layout(xaxis=dict(dtick=1))
-    
-fig_line.update_layout(xaxis=dict(dtick=1))
+
 st.plotly_chart(fig_line, use_container_width=True)
 
 # Histogram - Age Distribution
