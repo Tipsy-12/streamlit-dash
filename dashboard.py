@@ -137,27 +137,6 @@ st.plotly_chart(
 )
 
 
-# Line Chart - Avg. Income by Experience and Cluster
-avg_income_by_exp = (
-    filtered_df
-    .groupby(["experience(in years)", "cluster"])["monthly income"]
-    .mean()
-    .reset_index()
-)
-
-fig = px.line(
-    avg_income_by_exp,
-    x="experience(in years)",
-    y="monthly income",
-    color="cluster",
-    markers=True,
-    title="📈 Average Monthly Income by Experience and Cluster",
-)
-
-fig.update_layout(xaxis=dict(dtick=1))  # Show all experience years as ticks
-st.plotly_chart(fig, use_container_width=True)
-
-
 # Histogram - Age Distribution
 st.plotly_chart(
     px.histogram(
